@@ -15,13 +15,13 @@
 
 3. Напоминание про характеры неприводимых представлений GL_n и полиномы Шура. Правило ветвления с  <img src="https://render.githubusercontent.com/render/math?math=GL_n"> на <img src="https://render.githubusercontent.com/render/math?math=GL_{n-1}">.
 
-4. Представления янгиана: полином Дринфельда. Классификация неприводимых конечномерных представлений янгиана <img src="https://render.githubusercontent.com/render/math?math=Y(2)">.
+4. Представления янгиана: полином Дринфельда. Классификация неприводимых конечномерных представлений янгиана <img src="https://render.githubusercontent.com/render/math?math=Y(2)">.  
 [M1] параграфы 3.1-3.3
 
-5. Явные формулы для представления <img src="https://render.githubusercontent.com/render/math?math=\mathfrak{gl}_n"> в базисе Гельфанда-Цетлина.
+5. Явные формулы для представления <img src="https://render.githubusercontent.com/render/math?math=\mathfrak{gl}_n"> в базисе Гельфанда-Цетлина.  
 [M1] Глава 5.
 
 ### Литература
-(Литература довольно условная, предполагается, что куратор пришлет вам необходимую информацию).
-[M1] А. Молев Янгианы и классические алгебры Ли
-[M2] A. Molev Gelfand-Tsetlin bases for classical Lie algebras
+(Литература довольно условная, предполагается, что куратор пришлет вам необходимую информацию).  
+[M1] А. Молев Янгианы и классические алгебры Ли  
+[M2] A. Molev Gelfand-Tsetlin bases for classical Lie algebras  
