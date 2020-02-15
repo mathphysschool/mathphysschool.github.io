@@ -47,12 +47,12 @@
 ### Литература
 [DJM] Мива, Джимбо, Датэ. Солитоны.  
 [G] Ginsparg. Matrix Models of 2d Gravity. [arxiv:hep-th/9112013](https://arxiv.org/pdf/hep-th/9112013.pdf)  
-[GMMMO] Gerasimov, Marshakov, Mironov, Mozorov, Orlov. Matrix models of two-dimensional gravity and Toda theory.  
-[K] Kontsevich. Intersection Theory on the Moduli Space of Curves and the Matrix Airy Function.  
-[Kh] Kharchev. Kadomtsev-Petviashvili Hierarchy and Generalized Kontsevich Model.  
-[M] Миронов. Матричные модели двумерной гравитации.  
-[Mor] Морозов. Интегрируемость и матричные модели.  
+[GMMMO] Gerasimov, Marshakov, Mironov, Mozorov, Orlov. Matrix models of two-dimensional gravity and Toda theory. [(ссылка)](https://www.researchgate.net/publication/256600756_Matrix_models_of_two-dimensional_gravity_and_Toda_theory)  
+[K] Kontsevich. Intersection Theory on the Moduli Space of Curves and the Matrix Airy Function <https://projecteuclid.org/euclid.cmp/1104250524>.  
+[Kh] Kharchev. Kadomtsev-Petviashvili Hierarchy and Generalized Kontsevich Model.<https://arxiv.org/abs/hep-th/9810091>  
+[M] Миронов. Матричные модели двумерной гравитации. [(ссылка)](http://www1.jinr.ru/Archive/Pepan/v-33-5/v-33-5-1.pdf)  
+[Mor] Морозов. Интегрируемость и матричные модели. <http://mi.mathnet.ru/ufn930>  
 [MM] Mironov, Morozov. On the origin of Virasoro constraints in matrix models: lagrangian approach. Phys.Lett.B. (1990) V.252.  
-[W] Witten. On the Kontsevich Model and Other Models of Two Dimensional Gravity.  
-[Z] Забродин. Лекции по нелинейным системам.  
+[W] Witten. On the Kontsevich Model and Other Models of Two Dimensional Gravity. [(ссылка)](https://lib-extopc.kek.jp/preprints/PDF/1992/9203/9203552.pdf)  
+[Z] Забродин. Лекции по нелинейным системам. <https://arxiv.org/abs/1812.11830>  
 
