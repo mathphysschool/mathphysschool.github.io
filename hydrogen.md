@@ -31,8 +31,6 @@
 
 ### Литература
 
-[(гугл-каталог со всей литературой)](https://drive.google.com/open?id=1lEuAyEoHZ3Qp9lataSxDdkEfBZlYWWtu)
-
 [1] Переломов, Интегрируемые системы механики и алгебры Ли.  
 [2] Moser J., Regularization of kepler's problem and the averaging method on a manifold, Comm. Pure Appl. Math., v23, p609, 1970.  
 [3] Bander, Itzykson, Group Theory and the Hydrogen Atom I, Rev. Mod. Phys., vol. 38, no. 2, 1966. <https://escholarship.org/uc/item/42q1m0t7>  

@@ -47,7 +47,7 @@
 [K] J. M. Kosterlitz. The critical properties of the two-dimensional XY model  
 [KPS] P. Kopietz, L. Bartosch, F. Schutz. Introduction to the Functional Renormalization Group.  
 [wwwL] М. Лашкевич. Лекции по методам теории одномерных квантовых систем
-https://chair.itp.ac.ru/index.php?sub=curriculum/oned   
+<https://chair.itp.ac.ru/index.php?sub=curriculum/oned>   
 [P1] А.М. Поляков. Калибровочные поля и струны  
 [P2] A. Polyakov. Quark confinement and topology of gauge fields.  
 [Ru] Рубаков. Классические калибровочные поля. Бозонные теории.  
