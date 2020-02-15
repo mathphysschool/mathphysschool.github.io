@@ -9,6 +9,8 @@
 ### Пререквизиты:
 <img src="https://render.githubusercontent.com/render/math?math=\mathcal N=1"> суперсимметрия, БПСТ инстантон, видеть хоть раз в жизни <img src="https://render.githubusercontent.com/render/math?math=\mathcal N=2"> суперсимметрию и локализационное вычисление.
 
+<img src="./02.jpeg"> <img src="./03.jpg"> 
+
 ## Программа
 
 1. Лагранжиан <img src="https://render.githubusercontent.com/render/math?math=\mathcal N=2"> супер Янг-Миллса, преобразования суперсимметрии, R-симметрия (напоминание без вывода). Топологический твист и перезапись лагранжиана после твиста. Некрасовская <img src="https://render.githubusercontent.com/render/math?math=\epsilon">-деформация. Запись действия <img src="https://render.githubusercontent.com/render/math?math=\mathcal N=2"> супер Янг-Миллса в виде Q-точного и топологического слагаемых.  [Sha]
