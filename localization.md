@@ -45,7 +45,7 @@
 
 ### Литература:
 [Bel1] Листки Белавина <https://ium.mccme.ru/f14/f14-belavin.html>  
-[Bel2] Записки Белавина [(ссылка)](https://drive.google.com/drive/folders/1vmKhAjU9BCNihZgt9a8JO6E6I05OcHrO?usp=sharing)  
+[Bel2] Записки Белавина [(ссылка)](https://drive.google.com/open?id=1Jp3DTpXyQrFtkJeU1ib4MCDUaadbgwYi)  
 [Sha] Диссертация Шадчина <https://arxiv.org/abs/hep-th/0502180>  
 [N] Некрасов <https://arxiv.org/abs/hep-th/0206161>  
 [NO] Некрасов-Окуньков <https://arxiv.org/abs/hep-th/0306238>  
