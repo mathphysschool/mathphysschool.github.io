@@ -36,11 +36,12 @@
 ### Литература
 [1] Годен Волновая функция Бете  
 [2] E.K. Sklyanin The Quantum Toda Chain  
-[3] S. Kharchev and D. Lebedev, Integral representation for the eigenfunctions of quantum periodic Toda chain, S. Kharchev and D. Lebedev, Eigenfunctions of GL(N, R) Toda chain: The Mellin-Barnes representation,  
-[4]  А. В. Силантьев, Функция перехода для цепочки Тоды  
-[5]  Michael Semenov-Tian-Shansky Quantum Toda Lattice: a Challenge for Representation Theory  
-[6] S. Kharchev, S. Khoroshkin Mellin-Barnes presentations for Whittaker wave functions  
-[7] K. K. Kozlowski Unitarity of the SoV transform for the Toda chain  
+[3] S. Kharchev and D. Lebedev, Integral representation for the eigenfunctions of quantum periodic Toda chain <https://arxiv.org/abs/hep-th/0007040>,  
+S. Kharchev and D. Lebedev, Eigenfunctions of GL(N, R) Toda chain: The Mellin-Barnes representation <https://arxiv.org/abs/hep-th/0004065>,  
+[4]  А. В. Силантьев, Функция перехода для цепочки Тоды <http://mi.mathnet.ru/tmf5985>  
+[5]  Michael Semenov-Tian-Shansky Quantum Toda Lattice: a Challenge for Representation Theory <https://arxiv.org/abs/1912.13268>  
+[6] S. Kharchev, S. Khoroshkin Mellin-Barnes presentations for Whittaker wave functions <https://arxiv.org/abs/1907.00637>  
+[7] K. K. Kozlowski Unitarity of the SoV transform for the Toda chain <https://arxiv.org/abs/1306.4967>  
 [8] V. Pasquier and M. Gaudin M, The periodic Toda chain and a matrix generalization of the Bessel function recursion relations,   
-[9] E. K. Sklyanin Baecklund transformations and Baxter's Q-operator  
+[9] E. K. Sklyanin Baecklund transformations and Baxter's Q-operator <https://arxiv.org/abs/nlin/0009009>  
 

@@ -24,4 +24,4 @@
 ### Литература
 (Литература довольно условная, предполагается, что куратор пришлет вам необходимую информацию).  
 [M1] А. Молев Янгианы и классические алгебры Ли  
-[M2] A. Molev Gelfand–Tsetlin bases for classical Lie algebras  
+[M2] A. Molev Gelfand–Tsetlin bases for classical Lie algebras <https://arxiv.org/abs/math/0211289>  
