@@ -30,9 +30,13 @@
 [4, 6] 
 
 ### Литература
+
+[(гугл-каталог со всей литературой)](https://drive.google.com/open?id=1lEuAyEoHZ3Qp9lataSxDdkEfBZlYWWtu)
+
 [1] Переломов, Интегрируемые системы механики и алгебры Ли.  
 [2] Moser J., Regularization of kepler's problem and the averaging method on a manifold, Comm. Pure Appl. Math., v23, p609, 1970.  
-[3] Bander, Itzykson, Group Theory and the Hydrogen Atom I, Rev. Mod. Phys., vol. 38, no. 2, 1966.  
-[4] Bander, Itzykson, Group Theory and the Hydrogen Atom II, Rev. Mod. Phys., vol. 38, no. 2, 1966.  
-[5] В.А. Фок, Атом водорода и не-евклидова геометрия, Известия АН СССР, 1935, вып. 2, стр. 169-188.  
-[6] A.M. Perelomov and V.S. Popov, The Lorentz Group as a Dynamic Symmetry Group of the Hydrogen Atom, JETP, vol. 23, n. 1, july 1966. 
+[3] Bander, Itzykson, Group Theory and the Hydrogen Atom I, Rev. Mod. Phys., vol. 38, no. 2, 1966. <https://escholarship.org/uc/item/42q1m0t7>  
+[4] Bander, Itzykson, Group Theory and the Hydrogen Atom II, Rev. Mod. Phys., vol. 38, no. 2, 1966. <https://escholarship.org/uc/item/4ns2m34s>   
+[5] В.А. Фок, Атом водорода и не-евклидова геометрия, Известия АН СССР, 1935, вып. 2, стр. 169-188. <http://mi.mathnet.ru/izv4661>  
+[6] A.M. Perelomov and V.S. Popov, The Lorentz Group as a Dynamic Symmetry Group of the Hydrogen Atom, JETP, vol. 23, n. 1, july 1966. <http://www.jetp.ac.ru/cgi-bin/r/index/r/50/1/p179?a=list> 
+
