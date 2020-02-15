@@ -35,9 +35,9 @@
 [AZ]
 
 ### Литература
-[AZ] Alexandrov, Zabrodin. Free fermions and tau-functions    
+[AZ] Alexandrov, Zabrodin. Free fermions and tau-functions <https://arxiv.org/abs/1212.6049>  
 [DJM] Дате, Джимбо, Мива. Солитоны. дифференциальные уравнения, симметрии и бесконечномерные алгебры  
 [KR] Кац, Райна. Бомбейские лекции  
 [M] Макдональд. Симметрические функции и полиномы Холла  
-[OVR] Okounkov, Vafa, Reshetikhin. Quantum Calabi-Yau and Classical Crystals   
+[OVR] Okounkov, Vafa, Reshetikhin. Quantum Calabi-Yau and Classical Crystals <https://arxiv.org/abs/hep-th/0309208>  
 

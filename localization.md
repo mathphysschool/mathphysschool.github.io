@@ -38,7 +38,7 @@
 [NS] Некрасов-Шадчин <https://arxiv.org/abs/hep-th/0404225>  
 [Nqq] Некрасов о qq-характерах <https://arxiv.org/abs/1512.05388>  
 [NP] Некрасов-Пестун <https://arxiv.org/abs/1211.2240>  
-[At] Атья, Геометрия и физика узлов (дополнение) [(ссылка)](https://drive.google.com/open?id=14GJi0JGk49znqBoqDoixZXYlOwI4Z-7K)
+[At] Атья, Геометрия и физика узлов (дополнение)
 
 Также для заполнения пробелов в пререквизитах можно посмотреть лекции Алексея Юнга по <img src="https://render.githubusercontent.com/render/math?math=\mathcal N=1"> суперсимметричным калибровочным теориям [(ссылка)](https://www.youtube.com/playlist?list=PLLGkFbxve671KnoxbIn8FfXG1nyZDzY3x)
 и доклады на семинаре о Зайберге-Виттене [(ссылка)](https://www.youtube.com/playlist?list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk).
