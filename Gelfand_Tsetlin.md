@@ -40,6 +40,6 @@
 ### Литература
 (Литература довольно условная, предполагается, что куратор пришлет вам необходимую информацию).  
 [M1] А. Молев Янгианы и классические алгебры Ли  
-[M2] A. Molev Gelfand–Tsetlin bases for classical Lie algebras <https://arxiv.org/abs/math/0211289>
+[M2] A. Molev Gelfand–Tsetlin bases for classical Lie algebras <https://arxiv.org/abs/math/0211289>  
 [GW] Goodman Wallach, Symmetry, Representations, and Invariants  
 [FFFR] Feigin, Finkelberg, Frenkel, Rybnikov, Gelfand-Tsetlin algebras and cohomology rings of Laumon spaces
