@@ -25,8 +25,8 @@
 [T] раздел 4.3  
 
 ### Литература:
-[K1] A. Kitaev. Anyons in an exactly solved model and beyond 
-[K2] A. Kitaev. Fault-tolerant quantum computation by anyons   
+[K1] A. Kitaev. Anyons in an exactly solved model and beyond  
+[K2] A. Kitaev. Fault-tolerant quantum computation by anyons  
 [T] D. Tong. The Quantum Hall Effect.  
 [wwwT] <https://topocondmat.org/>  
 [Wen] B. Zeng, X. Chen, D.-L. Zhou, X.-G. Wen Quantum Information Meets Quantum Matter  
