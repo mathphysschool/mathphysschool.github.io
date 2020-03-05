@@ -20,7 +20,14 @@
 [Bel1,2]
 
 
-3. Описание пространства модулей самодуальных решений: подсчёт размерности из теоремы об индексе, АДХМ конструкция. Итогом должно стать получение АДХМ уравнения <img src="https://render.githubusercontent.com/render/math?math=[B_1,B_2]%2B IJ=0">.   
+3. АДХМ
+
+  1. Описание пространства модулей самодуальных решений: подсчёт размерности из теоремы об индексе. Переписывание уравнений самодуальности в комплексных координатах (начало АДХМ конструкции). Проекция <img src="https://render.githubusercontent.com/render/math?math=\mathbb{C}^3\to S^4"> и переписывание уравнений самодуальности в координатах на <img src="https://render.githubusercontent.com/render/math?math=\mathbb{C}^3">.  
+[Bel1,2]  
+[At]
+
+
+  2. Построение голоморфного расслоения на <img src="https://render.githubusercontent.com/render/math?math=\mathbb{C}^3"> как подрасслоения в тривиальном. Вычисление связности в нём. Условия на то, что эта связность проектируется на <img src="https://render.githubusercontent.com/render/math?math=S^4">. Итогом должно стать получение АДХМ уравнения <img src="https://render.githubusercontent.com/render/math?math=[B_1,B_2]%2B IJ=0">.  
 [Bel1,2]  
 [At]
 
