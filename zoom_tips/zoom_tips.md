@@ -272,7 +272,7 @@ sudo apt install ./zoom_amd64.deb
   - iOS: GoodNotes может импортировать PDF, и дальше на нём можно писать
   - macOS: ???
   - Android: ???
-  - Windows, macOS, Linux: бесплатный Foxit Reader
+  - Windows, macOS, Linux: бесплатный [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/)
   
 - Программы, в которых просто можно писать:
   - Windows, macOS, iOS, Linux, Android: [Stylus Labs Write](http://www.styluslabs.com/)
@@ -280,4 +280,4 @@ sudo apt install ./zoom_amd64.deb
   - ???
 
 
-[Наверх](#содержание)
+[**[Наверх]**](#содержание)
