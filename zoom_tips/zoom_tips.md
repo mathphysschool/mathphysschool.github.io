@@ -229,7 +229,9 @@ Contra: может быть вы её и руками запускать не х
 
 После этого в папке, в которой он лежит, запустить в терминале
 
-````sudo apt install ./zoom_amd64.deb
+```bash
+sudo apt install ./zoom_amd64.deb
+```
 
 ![](./download1.png)
 	
