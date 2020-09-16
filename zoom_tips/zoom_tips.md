@@ -375,6 +375,7 @@ Contra: может быть вы её и руками запускать не х
 - <a name="i74"></a>Программы, в которых просто можно писать[:](#i74)
   - Windows, macOS, iOS, Linux, Android: [Stylus Labs Write](http://www.styluslabs.com/)
   - iOS: GoodNotes
+  - Windows: OneNote
   - ???
 
 Вопросы, замечания и комментарии по поводу этого текста можно писать на <pasha145@gmail.com>.
