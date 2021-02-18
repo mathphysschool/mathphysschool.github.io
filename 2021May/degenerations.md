@@ -27,7 +27,7 @@
 ### Литература
 [CLS] D. Cox, J. Little, H. Schenck, *Toric Varieties*  
 [F] W. Fulton, *Young Tableaux with Applications to Representation Theory and Geometry*  
-[Fe] E. Feigin, *${\mathbb G}_a^M$ degeneration of flag varieties*, https://arxiv.org/abs/1007.0646  
+[Fe] E. Feigin, *G_a^M degeneration of flag varieties*, https://arxiv.org/abs/1007.0646  
 [HH] J. Herzog, T. Hibi, *Monomial Ideals*  
 [GL] N. Gonciulea, V. Lakshmibai, *Degenerations of flag and Schubert varieties to toric varieties*  
 [KnM] A. Knutson, E. Miller, *Gröbner geometry of Schubert polynomials*, https://arxiv.org/abs/math/0110058  
