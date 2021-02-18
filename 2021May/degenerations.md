@@ -19,18 +19,20 @@
 3) Полуторические вырождения многообразий Шуберта по [KM]: многообразия Шуберта, пайпдримы, грани Когана, формулировка основной теоремы.
  
 4) Тут есть два варианта.  
-а) Доказательство теоремы Когана-Миллера. Сложно: доказательство в статье — одна большая дырка, нужно изучать [KnM] (или [MS,главы 15-16]) и додумывать.  
-б) Последний раздел в [KM]: связь торического вырождения с базисом Гельфанда-Цетлина (нужно ввести сам базис, теорему Бореля-Вейля, линейные расслоения на торических многообразиях, желательно, чтобы у докладчика было какое-то представление об этих вопросах).  
+
+    а) Доказательство теоремы Когана-Миллера. Сложно: доказательство в статье — одна большая дырка, нужно изучать [KnM] (или [MS,главы 15-16]) и додумывать.  
+
+    б) Последний раздел в [KM]: связь торического вырождения с базисом Гельфанда-Цетлина (нужно ввести сам базис, теорему Бореля-Вейля, линейные расслоения на торических многообразиях, желательно, чтобы у докладчика было какое-то представление об этих вопросах).  
  
 5) Абелево вырождение многообразия флагов (оно же ПБВ-вырождение) Фейгина --- [Fe].
 
 ### Литература
 [CLS] D. Cox, J. Little, H. Schenck, *Toric Varieties*  
 [F] W. Fulton, *Young Tableaux with Applications to Representation Theory and Geometry*  
-[Fe] E. Feigin, *G_a^M degeneration of flag varieties*, https://arxiv.org/abs/1007.0646  
+[Fe] E. Feigin, *<img src="https://render.githubusercontent.com/render/math?math=G_a^M">  degeneration of flag varieties*, <https://arxiv.org/abs/1007.0646>  
 [HH] J. Herzog, T. Hibi, *Monomial Ideals*  
 [GL] N. Gonciulea, V. Lakshmibai, *Degenerations of flag and Schubert varieties to toric varieties*  
-[KnM] A. Knutson, E. Miller, *Gröbner geometry of Schubert polynomials*, https://arxiv.org/abs/math/0110058  
-[KM] M. Kogan, E. Miller, *Toric degeneration of Schubert varieties and Gel'fand-Cetlin polytopes*, https://arxiv.org/abs/math/0303208  
+[KnM] A. Knutson, E. Miller, *Gröbner geometry of Schubert polynomials*, <https://arxiv.org/abs/math/0110058>  
+[KM] M. Kogan, E. Miller, *Toric degeneration of Schubert varieties and Gel'fand-Cetlin polytopes*, <https://arxiv.org/abs/math/0303208>  
 [MS] E. Miller, B. Sturmfels, *Combinatorial Commutative Algbera*  
 [S] B. Sturmfels, *Gröbner Bases and Convex Polytopes*  
