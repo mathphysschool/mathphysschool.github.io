@@ -31,16 +31,16 @@
 
    - D. Gaiotto, G. W. Moore, A. Neitzke. Wall-crossing, Hitchin Systems, and the WKB Approximation. <https://arxiv.org/pdf/0907.3987.pdf>
 
-5. Оснащённые BPS состояния на линейных дефектах в 4d теориях, учёт спинов состояний.
+5. (*) Оснащённые BPS состояния на линейных дефектах в 4d теориях, учёт спинов состояний.
 
    - D. Gaiotto, G. W. Moore, A. Neitzke. Framed BPS States. <https://arxiv.org/pdf/1006.0146v1.pdf>
 
-6. Оснащённые BPS состояния на поверхностных дефектах в 4d теориях, 4d-2d wall-crossing формулы. Формализм спектральных сетей.
+6. (*) Оснащённые BPS состояния на поверхностных дефектах в 4d теориях, 4d-2d wall-crossing формулы. Формализм спектральных сетей.
 
    - D. Gaiotto, G. W. Moore, A. Neitzke. Wall-Crossing in Coupled 2d-4d Systems. <https://arxiv.org/pdf/1103.2598v1.pdf>
    - D. Gaiotto, G. W. Moore, A. Neitzke. Spectral networks. <https://arxiv.org/pdf/1204.4824.pdf>
 
-7. N=1 калибровочные теории в 5d компактифицированна на окружность. Её теория Зайберга-Виттена, связь с четырёхмерной теорией. Экспоненциированные спектральные сети для описания BPS состояний в пятимерии.
+7. (*) N=1 калибровочные теории в 5d компактифицированна на окружность. Её теория Зайберга-Виттена, связь с четырёхмерной теорией. Экспоненциированные спектральные сети для описания BPS состояний в пятимерии.
 
    - N. Nekrasov. Five Dimensional Gauge Theories and Relativistic Integrable Systems. <https://arxiv.org/pdf/hep-th/9609219.pdf>
    - R. Eager, S. A. Selmani, J. Walcher. Exponential Networks and Representations of Quivers. <https://arxiv.org/pdf/1611.06177.pdf>
