@@ -40,14 +40,13 @@
 [BBT] 11.5-11.6
 
 ### Литература:
-[ЗМНП] Захаров, Манаков, Новиков, Питаевский “Теория солитонов. Метод обратной задачи” Глава 2
-[Д1] Б. А. Дубровин “Периодическая задача для уравнения Кортевега–де Фриза в классе конечнозонных потенциалов”
-[BBT] Babelon, Bernard, Talon “Introduction to Classical Integrable Systems”
-[Д2] Дубровин “Тэта-функции и нелинейные уравнения”
-[Д3] Дубровин “Римановы поверхности и нелинейные уравнения”
-[КЛП] Казарян, Ландо, Праслов. “Алгебраические кривые. По направлению к пространствам модулей.”
-[Z] http://arxiv.org/abs/1812.11830v1 Zabrodin  “Lectures on nonlinear integrable equations
-and their solutions”
-Дополнительно:
-Лекции Кричевера: <https://www.youtube.com/playlist?list=PLLGkFbxve672AOMaYwSTrqFRBc00ZnQmb>
-Лекции Гриневича: <http://www.mathnet.ru/conf1711> 
+[ЗМНП] Захаров, Манаков, Новиков, Питаевский “Теория солитонов. Метод обратной задачи” Глава 2  
+[Д1] Б. А. Дубровин “Периодическая задача для уравнения Кортевега–де Фриза в классе конечнозонных потенциалов”  
+[BBT] Babelon, Bernard, Talon “Introduction to Classical Integrable Systems”  
+[Д2] Дубровин “Тэта-функции и нелинейные уравнения”  
+[Д3] Дубровин “Римановы поверхности и нелинейные уравнения”  
+[КЛП] Казарян, Ландо, Праслов. “Алгебраические кривые. По направлению к пространствам модулей.  
+[Z] Zabrodin. Lectures on nonlinear integrable equations and their solutions <http://arxiv.org/abs/1812.11830v1>  
+Дополнительно:  
+Лекции Кричевера: <https://www.youtube.com/playlist?list=PLLGkFbxve672AOMaYwSTrqFRBc00ZnQmb>  
+Лекции Гриневича: <http://www.mathnet.ru/conf1711>  
