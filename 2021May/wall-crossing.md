@@ -2,7 +2,7 @@
 
 ### Контакты
 
-Николай Семенякин <semenyakinms@gmail.com>
+* Николай Семенякин <semenyakinms@gmail.com>
 
 ### Аннотация
 
