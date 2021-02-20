@@ -18,22 +18,21 @@
 
 1.	Модель SYK.  Седлове решение. Флуктуации около седла. Действие для мягкой моды.
 
-   - Статья [1]. Разделы 1-2.
+   - Статья [KS1]. Разделы 1-2.
 
 2.	Действие для мягкой моды. OTOC. Функция Грина в модели SYK в пределе нулевых  температур.
 
-   - Статья [1] раздел 3. Статья [2]
+   - Статья [KS1] раздел 3. Статья [BAK].
 
 3. Представление модели SYK как диффузии на гиперболической плоскости.
 
-   - Статья [3]. Разделы 1-2 и вывод уравнение на пропагатор из раздела 3.
+   - Статья [KS2]. Разделы 1-2 и вывод уравнение на пропагатор из раздела 3.
 
 4. Вычисление функции Грина при конечной температуре.
 
-   - Статья [3]. Раздел 3. Раздел 5 частично.
+   - Статья [KS2]. Раздел 3. Раздел 5 частично.
 
 ### Литература
-
-[1] Alexei Kitaev, S. Josephine Suh. The soft mode in the Sachdev-Ye-Kitaev model and its gravity dual.
-[2] Dmitry Bagrets, Alexander Altland, Alex Kamenev.  Sachdev-Ye-Kitaev Model as Liouville Quantum Mechanics
-[3] Alexei Kitaev, S. Josephine Suh.  Statistical mechanics of a two-dimensional black hole
+[KS1] Alexei Kitaev, S. Josephine Suh. The soft mode in the Sachdev-Ye-Kitaev model and its gravity dual.
+[BAK] Dmitry Bagrets, Alexander Altland, Alex Kamenev.  Sachdev-Ye-Kitaev Model as Liouville Quantum Mechanics
+[KS2] Alexei Kitaev, S. Josephine Suh.  Statistical mechanics of a two-dimensional black hole
