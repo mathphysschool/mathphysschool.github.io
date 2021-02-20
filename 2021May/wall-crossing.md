@@ -40,16 +40,16 @@
 [L]  
 
 ### Литература
-[SW] N. Seiberg, E. Witten. Monopole Condensation, And Confinement In N=2 Supersymmetric Yang-Mills Theory. <https://arxiv.org/abs/hep-th/9407087>  
+[ESW] R. Eager, S. A. Selmani, J. Walcher. Exponential Networks and Representations of Quivers. <https://arxiv.org/pdf/1611.06177.pdf>  
 [FB1] F. Ferrari, A. Bilal. The Strong-Coupling Spectrum of the Seiberg-Witten Theory. <https://arxiv.org/pdf/hep-th/9602082.pdf>  
 [FB2] F. Ferrari, A. Bilal. Curves of Marginal Stability, and Weak and Strong-Coupling BPS Spectra in N=2 Supersymmetric QCD. <https://arxiv.org/pdf/hep-th/9605101.pdf>  
 [GMN1] D. Gaiotto, G. W. Moore, A. Neitzke. Four-dimensional wall-crossing via three-dimensional field theory. <https://arxiv.org/pdf/0807.4723.pdf>  
 [GMN2] D. Gaiotto, G. W. Moore, A. Neitzke. Wall-crossing, Hitchin Systems, and the WKB Approximation. <https://arxiv.org/pdf/0907.3987.pdf>  
-[W] E. Witten. Solutions Of Four-Dimensional Field Theories Via M Theory. <https://arxiv.org/abs/hep-th/9703166>  
-[KLMVW] Klemm, W. Lerche, P. Mayr, C. Vafa, N. Warner. Self-Dual Strings and N=2 Supersymmetric Field Theory. <https://arxiv.org/abs/hep-th/9604034v3>  
 [GMN3] D. Gaiotto, G. W. Moore, A. Neitzke. Framed BPS States. <https://arxiv.org/pdf/1006.0146v1.pdf>  
 [GMN4] D. Gaiotto, G. W. Moore, A. Neitzke. Wall-Crossing in Coupled 2d-4d Systems. <https://arxiv.org/pdf/1103.2598v1.pdf>  
 [GMN5] D. Gaiotto, G. W. Moore, A. Neitzke. Spectral networks. <https://arxiv.org/pdf/1204.4824.pdf>  
+[KLMVW] Klemm, W. Lerche, P. Mayr, C. Vafa, N. Warner. Self-Dual Strings and N=2 Supersymmetric Field Theory. <https://arxiv.org/abs/hep-th/9604034v3>  
 [N] N. Nekrasov. Five Dimensional Gauge Theories and Relativistic Integrable Systems. <https://arxiv.org/pdf/hep-th/9609219.pdf>  
-[ESW] R. Eager, S. A. Selmani, J. Walcher. Exponential Networks and Representations of Quivers. <https://arxiv.org/pdf/1611.06177.pdf>  
 [L] P. Longhi. On the BPS spectrum of 5d SU(2) super-Yang-Mills. <https://arxiv.org/pdf/2101.01681.pdf>  
+[SW] N. Seiberg, E. Witten. Monopole Condensation, And Confinement In N=2 Supersymmetric Yang-Mills Theory. <https://arxiv.org/abs/hep-th/9407087>  
+[W] E. Witten. Solutions Of Four-Dimensional Field Theories Via M Theory. <https://arxiv.org/abs/hep-th/9703166>  
