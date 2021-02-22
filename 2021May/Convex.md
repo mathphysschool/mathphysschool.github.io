@@ -10,8 +10,10 @@
 
 Темы 5,6 -- несколько обособленные сюжеты из геометрии выпуклых целочисленных многогранников (с вершинами в целочисленной решетке).
 
-![](./polygons/01.jpg) ![](./polygons/02.jpg) ![](./polygons/03.jpg) ![](./polygons/04.jpg) ![](./polygons/05.jpg) ![](./polygons/06.jpg) ![](./polygons/07.jpg) ![](./polygons/08.jpg) ![](./polygons/09.jpg) ![](./polygons/10.jpg) ![](./polygons/11.jpg) ![](./polygons/12.jpg) ![](./polygons/13.jpg) ![](./polygons/14.jpg) ![](./polygons/15.jpg)
-
+<img src="./polygons/00.jpg" height="60"> <img src="./polygons/01.jpg" height="60"> <img src="./polygons/02.jpg" height="60"> <img src="./polygons/03.jpg" height="60"> <img src="./polygons/04.jpg" height="60"> <img src="./polygons/05.jpg" height="60"> <img src="./polygons/06.jpg" height="60"> <img src="./polygons/07.jpg" height="60"> <img src="./polygons/08.jpg" height="60"> <img src="./polygons/09.jpg" height="60"> <img src="./polygons/10.jpg" height="60"> <img src="./polygons/11.jpg" height="60"> <img src="./polygons/12.jpg" height="60"> <img src="./polygons/13.jpg" height="60"> <img src="./polygons/14.jpg" height="60"> <img src="./polygons/15.jpg" height="60"> 
+   
+   
+ 
 ### Пререквизиты:
 гладкие многообразия, аффинная геометрия, конусы. Также для некоторых тем хорошо бы (но не обязательно) знать лемму Сарда и иметь начальные представления об алгебраической геометрии (на уровне понятия идеала и теорема Гильберта о нулях)
 
