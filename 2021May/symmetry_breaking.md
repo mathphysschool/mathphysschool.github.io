@@ -11,7 +11,7 @@
 
 Мы познакомимся со спонтанным нарушением симметрии в рамках классической теории поля и изучим разные примеры и явления, которые происходят при таком нарушении.
 
-[<img src="./pony1.png" height="240">](https://arxiv.org/abs/1201.0537) [<img src="./pony2.png" height="240">](https://arxiv.org/abs/1201.0537)
+[<img src="./pony1.png" height="240">](https://arxiv.org/abs/1201.0537) [<img src="./pony2.png" height="240">](https://arxiv.org/abs/hep-ph/0502010)
 
 
 ### Пререквизиты  
