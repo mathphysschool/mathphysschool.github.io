@@ -11,7 +11,8 @@
 
 Мы познакомимся со спонтанным нарушением симметрии в рамках классической теории поля и изучим разные примеры и явления, которые происходят при таком нарушении.
 
-[<img src="./pony.jpg" height="240">](http://bitp.kiev.ua/files/doc/lectures/Gusynin2014Visnyk.pdf)
+[<img src="./pony1.jpg" height="240">](http://bitp.kiev.ua/files/doc/lectures/Gusynin2014Visnyk.pdf) [<img src="./pony2.jpg" height="240">](http://bitp.kiev.ua/files/doc/lectures/Gusynin2014Visnyk.pdf)
+
 
 ### Пререквизиты  
 Классическая механика в лагранжевом формализме, понятие о группах Ли в рамках главы 3 книжки Рубакова [R1], полезно знать классическую электродинамику.
