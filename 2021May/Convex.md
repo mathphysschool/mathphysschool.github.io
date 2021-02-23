@@ -12,7 +12,7 @@
 
 <img src="./polygons/00.jpg" height="60"> <img src="./polygons/01.jpg" height="60"> <img src="./polygons/02.jpg" height="60"> <img src="./polygons/03.jpg" height="60"> <img src="./polygons/04.jpg" height="60"> <img src="./polygons/05.jpg" height="60"> <img src="./polygons/06.jpg" height="60"> <img src="./polygons/07.jpg" height="60"> <img src="./polygons/08.jpg" height="60"> <img src="./polygons/09.jpg" height="90"> <img src="./polygons/10.jpg" height="90"> <img src="./polygons/11.jpg" height="60"> <img src="./polygons/12.jpg" height="120"> <img src="./polygons/13.jpg" height="90"> <img src="./polygons/14.jpg" height="60"> <img src="./polygons/15.jpg" height="90"> 
 
-<img src="./polygons/Stasheff1.jpg"> <img src="./polygons/Stasheff2.jpg"> 
+<img src="./polygons/Stasheff1.png"> <img src="./polygons/Stasheff2.png"> 
    
    
  
