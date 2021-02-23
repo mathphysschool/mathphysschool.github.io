@@ -13,6 +13,7 @@
 
 [<img src="./pony1.png" height="240">](https://arxiv.org/abs/1201.0537) [<img src="./pony2.png" height="240">](https://arxiv.org/abs/hep-ph/0502010)
 
+_Although Nicolás likes the symmetric food configuration, he must break the symmetry deciding which carrot is more appealing. In three dimensions, there is a continuous valley where Nicolás can move from one carrot to the next without effort._
 
 ### Пререквизиты  
 Классическая механика в лагранжевом формализме, понятие о группах Ли в рамках главы 3 книжки Рубакова [R1], полезно знать классическую электродинамику.
