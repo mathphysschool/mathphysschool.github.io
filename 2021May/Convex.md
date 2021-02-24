@@ -12,9 +12,6 @@
 
 <img src="./polygons/Stasheff1.png"> <img src="./polygons/Stasheff2.png"> 
 
-<img src="./polygons/00.jpg" height="60"> <img src="./polygons/01.jpg" height="60"> <img src="./polygons/02.jpg" height="60"> <img src="./polygons/03.jpg" height="60"> <img src="./polygons/04.jpg" height="60"> <img src="./polygons/05.jpg" height="60"> <img src="./polygons/06.jpg" height="60"> <img src="./polygons/07.jpg" height="60"> <img src="./polygons/08.jpg" height="60"> <img src="./polygons/09.jpg" height="90"> <img src="./polygons/10.jpg" height="90"> <img src="./polygons/11.jpg" height="60"> <img src="./polygons/12.jpg" height="120"> <img src="./polygons/13.jpg" height="90"> <img src="./polygons/14.jpg" height="60"> <img src="./polygons/15.jpg" height="90"> 
-   
-
 ### Пререквизиты:
 гладкие многообразия, аффинная геометрия, конусы. Также для некоторых тем хорошо бы (но не обязательно) знать лемму Сарда и иметь начальные представления об алгебраической геометрии (на уровне понятия идеала и теорема Гильберта о нулях)
 
@@ -56,3 +53,6 @@
 [EG] Ewald G, Combinatorial convexity and algebraic geometry  
 [GKZ] I. M. Gelfand, M. M. Kapranov, A. V. Zelevinsky, Discriminants, Resultants, and Multidimensional Determinants  
 [HNP] Haase C, Nill B., Paffenholz A., Lecture Notes on Lattice Polytopes
+
+
+<img src="./polygons/00.jpg" height="60"> <img src="./polygons/01.jpg" height="60"> <img src="./polygons/02.jpg" height="60"> <img src="./polygons/03.jpg" height="60"> <img src="./polygons/04.jpg" height="60"> <img src="./polygons/05.jpg" height="60"> <img src="./polygons/06.jpg" height="60"> <img src="./polygons/07.jpg" height="60"> <img src="./polygons/08.jpg" height="60"> <img src="./polygons/09.jpg" height="90"> <img src="./polygons/10.jpg" height="90"> <img src="./polygons/11.jpg" height="60"> <img src="./polygons/12.jpg" height="120"> <img src="./polygons/13.jpg" height="90"> <img src="./polygons/14.jpg" height="60"> <img src="./polygons/15.jpg" height="90"> 
