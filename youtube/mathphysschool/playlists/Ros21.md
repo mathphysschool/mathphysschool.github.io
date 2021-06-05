@@ -1,10 +1,10 @@
 # Contents of the playlist [2021 Alexey Rosly - Hitchin systems](https://www.youtube.com/playlist?list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW)
 
-This page updated: Sat 5 Jun 2021 19:02:53
+This page updated: Sat 5 Jun 2021 19:47:20
 
 Number of videos: [15](#videos)
 
-Go back to [Mathematical Physics School](../README.md)
+Go to [Mathematical Physics School](../README.md)
 
 ## Description
 

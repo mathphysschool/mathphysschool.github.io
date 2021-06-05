@@ -1,10 +1,10 @@
 # Contents of the playlist [2020 Полиномы Макдональда и DAHA](https://www.youtube.com/playlist?list=PLLGkFbxve673d4IimgKUDiIAIMTlcnpyf)
 
-This page updated: Sat 5 Jun 2021 19:02:55
+This page updated: Sat 5 Jun 2021 19:47:21
 
 Number of videos: [10](#videos)
 
-Go back to [Mathematical Physics School](../README.md)
+Go to [Mathematical Physics School](../README.md)
 
 ## Description
 
