@@ -1,6 +1,6 @@
 # Contents of the playlist [2019 Суперсимметричные калибровочные теории](https://www.youtube.com/playlist?list=PLLGkFbxve671KnoxbIn8FfXG1nyZDzY3x)
 
-This page updated: Sat 5 Jun 2021 10:23:48
+This page updated: Sat 5 Jun 2021 10:35:27
 
 Number of videos: [12](#videos)
 
