@@ -1,8 +1,8 @@
 # Contents of the playlist [2020 Igor Krichever -- Integrable Systems](https://www.youtube.com/playlist?list=PLLGkFbxve672AOMaYwSTrqFRBc00ZnQmb)
 
-This page updated: Sat 5 Jun 2021 08:44:15
+This page updated: Sat 5 Jun 2021 08:49:33
 
-Number of videos: 14
+Number of videos: [14](#videos)
 
 Go back to [Mathematical Physics School](../README.md)
 
