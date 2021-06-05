@@ -1,6 +1,6 @@
 # Contents of the playlist [2019 Весенняя студенческая школа по математике и физике](https://www.youtube.com/playlist?list=PLLGkFbxve673GK73CegwPWneQOc58YMyG)
 
-This page updated: Sat 5 Jun 2021 08:49:36
+This page updated: Sat 5 Jun 2021 09:11:54
 
 Number of videos: [28](#videos)
 
