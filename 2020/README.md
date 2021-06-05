@@ -2,6 +2,8 @@
 
 ![Весенняя школа по математике и физике](./conf200430.jpg)
 
+[Записи докладов](../youtube/mathphysschool/playlists/Spr20)
+
 ## Zoom / 30 апреля – 8 мая 2020 г.
 
 Официальная страница школы находится по адресу [https://crei.skoltech.ru/cas/ru/calendar-ru/200430r/](https://crei.skoltech.ru/cas/ru/calendar-ru/200430r/)

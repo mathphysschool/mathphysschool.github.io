@@ -2,6 +2,8 @@
 
 ![Весенняя школа по математике и физике](./springschool21ru.jpg)
 
+[Записи докладов](../youtube/mathphysschool/playlists/Spr21)
+
 ## Zoom / 1 мая – 7 мая 2021 г.
 
 Официальная страница школы находится по адресу [https://crei.skoltech.ru/cas/ru/calendar-ru/springschool21/](https://crei.skoltech.ru/cas/ru/calendar-ru/springschool21/)
