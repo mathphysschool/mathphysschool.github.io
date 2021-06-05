@@ -1,6 +1,6 @@
 # Contents of the playlist [2019 Алексей Юнг -- Суперсимметричные калибровочные теории](https://www.youtube.com/playlist?list=PLLGkFbxve671KnoxbIn8FfXG1nyZDzY3x)
 
-This page updated: Sat 5 Jun 2021 18:36:29
+This page updated: Sat 5 Jun 2021 19:02:56
 
 Number of videos: [12](#videos)
 
@@ -14,7 +14,7 @@ Go back to [Mathematical Physics School](../README.md)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
-| Thu&nbsp;3&nbsp;Oct&nbsp;2019 | [Yung19](../playlists/Yung19 "2019 Алексей Юнг -- Суперсимметричные калибровочные теории") | [**[1]**](https://crei.skoltech.ru/cas/education/mscprog/schedule_msc_f19/) | [[**e**](https://studio.youtube.com/video/kk8XoUHKMyY/edit "Edit")] [Алексей Юнг -- Суперсимметричные калибровочные теории -- 1](https://www.youtube.com/watch?v=kk8XoUHKMyY&list=PLLGkFbxve671KnoxbIn8FfXG1nyZDzY3x "Звук есть только первые 40 минут.  Лекции проходят в Сколтехе по четвергам в 15:00: https://crei.skoltech.ru/cas/education/mscprog/schedule_msc_f19/") |
+| Thu&nbsp;3&nbsp;Oct&nbsp;2019 | [Yung19](../playlists/Yung19 "2019 Алексей Юнг -- Суперсимметричные калибровочные теории") | [**[1]**](https://crei.skoltech.ru/cas/education/mscprog/schedule_msc_f19/) | [[**e**](https://studio.youtube.com/video/kk8XoUHKMyY/edit "Edit")] [Алексей Юнг -- Суперсимметричные калибровочные теории -- 1](https://www.youtube.com/watch?v=kk8XoUHKMyY&list=PLLGkFbxve671KnoxbIn8FfXG1nyZDzY3x "Звук есть только первые 40 минут.&#013;&#013;Лекции проходят в Сколтехе по четвергам в 15:00: https://crei.skoltech.ru/cas/education/mscprog/schedule_msc_f19/") |
 | Thu&nbsp;10&nbsp;Oct&nbsp;2019 | [Yung19](../playlists/Yung19 "2019 Алексей Юнг -- Суперсимметричные калибровочные теории") | [**[1]**](https://crei.skoltech.ru/cas/education/mscprog/schedule_msc_f19/) | [[**e**](https://studio.youtube.com/video/_IXYM4GOCBA/edit "Edit")] [Алексей Юнг -- Суперсимметричные калибровочные теории -- 2](https://www.youtube.com/watch?v=_IXYM4GOCBA&list=PLLGkFbxve671KnoxbIn8FfXG1nyZDzY3x "Лекции проходят в Сколтехе по четвергам в 15:00: https://crei.skoltech.ru/cas/education/mscprog/schedule_msc_f19/") |
 | Mon&nbsp;14&nbsp;Oct&nbsp;2019 | [Yung19](../playlists/Yung19 "2019 Алексей Юнг -- Суперсимметричные калибровочные теории") |  | [[**e**](https://studio.youtube.com/video/7iHKydt1cDU/edit "Edit")] [Алексей Юнг -- Суперсимметричные калибровочные теории -- 3](https://www.youtube.com/watch?v=7iHKydt1cDU&list=PLLGkFbxve671KnoxbIn8FfXG1nyZDzY3x) |
 | Thu&nbsp;17&nbsp;Oct&nbsp;2019 | [Yung19](../playlists/Yung19 "2019 Алексей Юнг -- Суперсимметричные калибровочные теории") |  | [[**e**](https://studio.youtube.com/video/Pm1ZQMccZEg/edit "Edit")] [Алексей Юнг -- Суперсимметричные калибровочные теории -- 4](https://www.youtube.com/watch?v=Pm1ZQMccZEg&list=PLLGkFbxve671KnoxbIn8FfXG1nyZDzY3x) |
