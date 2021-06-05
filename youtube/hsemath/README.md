@@ -1,6 +1,6 @@
 # Contents of the youtube channel [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg)
 
-This page updated: Sat 5 Jun 2021 13:53:29
+This page updated: Sat 5 Jun 2021 16:08:58
 
 Number of playlists: [171](#playlists)
 
@@ -185,6 +185,8 @@ Number of other videos: [113](#other-videos)
 | Feb&nbsp;2015 | [1](./playlists/1 "Algebraic structures in convex geometry") |  | [Algebraic structures in convex geometry](https://www.youtube.com/playlist?list=PLq3E5oubNNoCAMsOWI8cbHYknoCTKhrUk) | [10](./playlists/1.md) |
 
 ## Videos
+
+[Go up](./README.md)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
@@ -2182,6 +2184,8 @@ Number of other videos: [113](#other-videos)
 | Mon&nbsp;24&nbsp;Mar&nbsp;2014 | None |  | [[**e**](https://studio.youtube.com/video/gXvBJmn-Mfc/edit "Edit")] [Rational curves on K3 surfaces](https://www.youtube.com/watch?v=gXvBJmn-Mfc "March 11, 2014 Although a projective K3 surface over the complex numbers cannot be unirational, Bogomolov conjectured that it contains nevertheless infinitely many rational curves. In this talk, I will prove Bogomolov's conjecture for K3 surfaces of odd Picard rank - this includes the generic case of Picard rank 1. The idea is to reduce to positive characteristic p, and to use the Tate conjecture to find infinitely many rational curves (albeit for infinitely many distinct primes). Then we use Kontsevich's moduli space of stable maps and a rigidification argument to lift cycles of rational curves to characteristic zero, which eventually establishes infinitely many rational curves on the original K3 surface. This work is joint with Jun Li and extends an approach due to Bogomolov, Hassett, and Tschinkel.") |
 
 ## Other videos
+
+[Go up](.)
 
 This list includes either *unlisted* videos, or videos from other channels, available through *public playlists* at Mathematics at HSE.
 
