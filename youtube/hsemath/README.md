@@ -1,6 +1,6 @@
 # Contents of the youtube channel [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg)
 
-This page updated: Sat 5 Jun 2021 10:35:27
+This page updated: Sat 5 Jun 2021 13:53:29
 
 Number of playlists: [171](#playlists)
 
@@ -2183,7 +2183,7 @@ Number of other videos: [113](#other-videos)
 
 ## Other videos
 
-This list includes either *unlisted* videos, or videos from other channels available through *public playlists* at Mathematics at HSE.
+This list includes either *unlisted* videos, or videos from other channels, available through *public playlists* at Mathematics at HSE.
 
 |Date|Playlists|Links|Video title|Channel|
 |---|---|---|---|---|
