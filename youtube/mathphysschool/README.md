@@ -1,6 +1,6 @@
 # Contents of the youtube channel [Mathematical Physics School](https://www.youtube.com/channel/UCRACd55YrSwO8Fuy4Nx2oAA)
 
-This page updated: Sat 5 Jun 2021 16:08:48
+This page updated: Sat 5 Jun 2021 16:21:00
 
 Number of playlists: [23](#playlists)
 
@@ -38,7 +38,7 @@ Number of other videos: [15](#other-videos)
 
 ## Videos
 
-[Go up](./README.md)
+[Go up](./#)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
@@ -730,7 +730,7 @@ Number of other videos: [15](#other-videos)
 
 ## Other videos
 
-[Go up](.)
+[Go up](./#)
 
 This list includes either *unlisted* videos, or videos from other channels, available through *public playlists* at Mathematical Physics School.
 
