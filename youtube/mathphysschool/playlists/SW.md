@@ -1,6 +1,6 @@
 # Contents of the playlist [2020 семинар по теории Зайберга-Виттена и интегрируемым системам](https://www.youtube.com/playlist?list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk)
 
-This page updated: Sat 5 Jun 2021 16:21:08
+This page updated: Sat 5 Jun 2021 17:02:21
 
 Number of videos: [46](#videos)
 
@@ -12,7 +12,7 @@ Go back to [Mathematical Physics School](../README.md)
 
 ## Videos
 
-|Date|Playlists|Links|Video name|
+|Date|Playlists|Links|Video title|
 |---|---|---|---|
 | Fri&nbsp;7&nbsp;Feb&nbsp;2020 | [SW](../playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") |  | [[**e**](https://studio.youtube.com/video/9LkUNVXqCe0/edit "Edit")] [Никита Заиграев -- Введение в N=2 суперсимметрию](https://www.youtube.com/watch?v=9LkUNVXqCe0&list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk) |
 | Thu&nbsp;13&nbsp;Feb&nbsp;2020 | [SW](../playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") |  | [[**e**](https://studio.youtube.com/video/dj4ueL9nFfY/edit "Edit")] [Николай Семенякин -- Монополи I](https://www.youtube.com/watch?v=dj4ueL9nFfY&list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk) |

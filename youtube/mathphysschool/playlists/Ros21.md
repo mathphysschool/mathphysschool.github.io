@@ -1,6 +1,6 @@
 # Contents of the playlist [2021 Alexey Rosly - Hitchin systems](https://www.youtube.com/playlist?list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW)
 
-This page updated: Sat 5 Jun 2021 16:21:06
+This page updated: Sat 5 Jun 2021 17:02:19
 
 Number of videos: [15](#videos)
 
@@ -12,7 +12,7 @@ Go back to [Mathematical Physics School](../README.md)
 
 ## Videos
 
-|Date|Playlists|Links|Video name|
+|Date|Playlists|Links|Video title|
 |---|---|---|---|
 | Mon&nbsp;25&nbsp;Jan&nbsp;2021 | [Ros21](../playlists/Ros21 "2021 Alexey Rosly - Hitchin systems") |  | [[**e**](https://studio.youtube.com/video/2Uu444qaEiY/edit "Edit")] [Николай Семенякин - Разделение переменных в цепочке Тоды](https://www.youtube.com/watch?v=2Uu444qaEiY&list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW) |
 | Sun&nbsp;7&nbsp;Feb&nbsp;2021 | [Ros21](../playlists/Ros21 "2021 Alexey Rosly - Hitchin systems") |  | [[**e**](https://studio.youtube.com/video/Woe0NmDehZ4/edit "Edit")] [Николай Семенякин - Комментарии к задачам по разделению переменных](https://www.youtube.com/watch?v=Woe0NmDehZ4&list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW) |

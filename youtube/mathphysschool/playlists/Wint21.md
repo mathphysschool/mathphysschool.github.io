@@ -1,6 +1,6 @@
 # Contents of the playlist [2021 STIMaRT — зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”](https://www.youtube.com/playlist?list=PLLGkFbxve6715BbdgBYSEd2fEczrpt4jV)
 
-This page updated: Sat 5 Jun 2021 16:21:07
+This page updated: Sat 5 Jun 2021 17:02:20
 
 Number of videos: [16](#videos)
 
@@ -18,7 +18,7 @@ Go back to [Mathematical Physics School](../README.md)
 
 ## Videos
 
-|Date|Playlists|Links|Video name|
+|Date|Playlists|Links|Video title|
 |---|---|---|---|
 | Wed&nbsp;13&nbsp;Jan&nbsp;2021 | [Wint21](../playlists/Wint21 "2021 STIMaRT — зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") | [**[1]**](https://drive.google.com/file/d/1uSmJxCRoTNbwTbPS19ILTVAeUCUqPrL-/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/U46a9Vv9yDI/edit "Edit")] [А. Рослый — Геометрия систем Хитчина, лекция 1 / Спектральная кривая и линейное расслоение над ней](https://www.youtube.com/watch?v=U46a9Vv9yDI&list=PLLGkFbxve6715BbdgBYSEd2fEczrpt4jV "ссылка на записки https://drive.google.com/file/d/1uSmJxCRoTNbwTbPS19ILTVAeUCUqPrL-/view?usp=sharing 00:00 Введение 06:10 Комплексная проективная прямая P^1 10:20 Голоморфные линейные расслоения над P^1 27:17 Тотальные пространства линейных расслоений 36:29 Характеристическое уравнение и спектральная кривая 1:11:45 Построение линейного расслоения на спектральной кривой 1:25:45 Ответы на вопросы") |
 | Thu&nbsp;14&nbsp;Jan&nbsp;2021 | [Wint21](../playlists/Wint21 "2021 STIMaRT — зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") | [**[1]**](https://drive.google.com/file/d/1bYjRapiog_DKZms_MiKdbUr9ZE0A22Ne/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/sEqMtOD66H4/edit "Edit")] [Алексей Рослый -- Геометрия систем Хитчина, лекция 2](https://www.youtube.com/watch?v=sEqMtOD66H4&list=PLLGkFbxve6715BbdgBYSEd2fEczrpt4jV "записки к лекции https://drive.google.com/file/d/1bYjRapiog_DKZms_MiKdbUr9ZE0A22Ne/view?usp=sharing") |

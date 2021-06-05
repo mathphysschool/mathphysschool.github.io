@@ -1,6 +1,6 @@
 # Contents of the playlist [2020 Полиномы Макдональда и DAHA](https://www.youtube.com/playlist?list=PLLGkFbxve673d4IimgKUDiIAIMTlcnpyf)
 
-This page updated: Sat 5 Jun 2021 16:21:08
+This page updated: Sat 5 Jun 2021 17:02:21
 
 Number of videos: [10](#videos)
 
@@ -12,7 +12,7 @@ Go back to [Mathematical Physics School](../README.md)
 
 ## Videos
 
-|Date|Playlists|Links|Video name|
+|Date|Playlists|Links|Video title|
 |---|---|---|---|
 | Tue&nbsp;3&nbsp;Mar&nbsp;2020 | [Mcd20](../playlists/Mcd20 "2020 Полиномы Макдональда и DAHA") |  | [[**e**](https://studio.youtube.com/video/gJkppS7EaH4/edit "Edit")] [Евгений Македонский -- Сплетатели (intertwiners) в двойной аффинной алгебре Гекке.](https://www.youtube.com/watch?v=gJkppS7EaH4&list=PLLGkFbxve673d4IimgKUDiIAIMTlcnpyf "Сплетатели (intertwiners) в двойной аффинной алгебре Гекке и их действие на полиномах Макдональда.") |
 | Tue&nbsp;10&nbsp;Mar&nbsp;2020 | [Mcd20](../playlists/Mcd20 "2020 Полиномы Макдональда и DAHA") |  | [[**e**](https://studio.youtube.com/video/elnWytK1XgM/edit "Edit")] [Михаил Берштейн -- Сплетатели для SL_2, полиномы Аски-Вильсона](https://www.youtube.com/watch?v=elnWytK1XgM&list=PLLGkFbxve673d4IimgKUDiIAIMTlcnpyf) |

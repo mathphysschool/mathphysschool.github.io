@@ -1,6 +1,6 @@
 # Contents of the playlist [2021 Весенняя студенческая школа по математике и физике](https://www.youtube.com/playlist?list=PLLGkFbxve6717hq5zOz8EDQmHpyF6Cnc_)
 
-This page updated: Sat 5 Jun 2021 16:21:06
+This page updated: Sat 5 Jun 2021 17:02:19
 
 Number of videos: [75](#videos)
 
@@ -12,7 +12,7 @@ Go back to [Mathematical Physics School](../README.md)
 
 ## Videos
 
-|Date|Playlists|Links|Video name|
+|Date|Playlists|Links|Video title|
 |---|---|---|---|
 | Sun&nbsp;2&nbsp;May&nbsp;2021 | [Spr21](../playlists/Spr21 "2021 Весенняя студенческая школа по математике и физике") | [**[1]**](https://drive.google.com/file/d/1YE6rwUZOv-7OUOStxQs2DlCwlu4cZ2bc/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/hmNqAjvEaFM/edit "Edit")] [Михаил Жигалов — Симметрии системы из N бозонных и M фермионных осцилляторов. Супералгебра Ли](https://www.youtube.com/watch?v=hmNqAjvEaFM&list=PLLGkFbxve6717hq5zOz8EDQmHpyF6Cnc_ "Первый доклад по теме \"Суперсимметричная квантовая механика\" Ссылка на презентацию: https://drive.google.com/file/d/1YE6rwUZOv-7OUOStxQs2DlCwlu4cZ2bc/view?usp=sharing") |
 | Mon&nbsp;3&nbsp;May&nbsp;2021 | [Spr21](../playlists/Spr21 "2021 Весенняя студенческая школа по математике и физике") | [**[1]**](https://drive.google.com/file/d/1NVZox7v9-FRHXbQWB_aRXt2KQmWFjvhM/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/KKByR5TpnH0/edit "Edit")] [Павел Гавриленко — Алгебра супер-Пуанкаре в одном измерении](https://www.youtube.com/watch?v=KKByR5TpnH0&list=PLLGkFbxve6717hq5zOz8EDQmHpyF6Cnc_ "Второй доклад по теме \"Суперсимметричная квантовая механика\" Ссылка на записки: https://drive.google.com/file/d/1NVZox7v9-FRHXbQWB_aRXt2KQmWFjvhM/view?usp=sharing") |

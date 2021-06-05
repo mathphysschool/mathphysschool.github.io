@@ -1,6 +1,6 @@
 # Contents of the playlist [семинар "Методы классических и квантовых интегрируемых систем"](https://www.youtube.com/playlist?list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC)
 
-This page updated: Sat 5 Jun 2021 16:21:07
+This page updated: Sat 5 Jun 2021 17:02:20
 
 Number of videos: [45](#videos)
 
@@ -12,7 +12,7 @@ Go back to [Mathematical Physics School](../README.md)
 
 ## Videos
 
-|Date|Playlists|Links|Video name|
+|Date|Playlists|Links|Video title|
 |---|---|---|---|
 | Tue&nbsp;7&nbsp;Apr&nbsp;2020 | [Tue](../playlists/Tue "семинар \"Методы классических и квантовых интегрируемых систем\"") | [**[1]**](https://drive.google.com/open?id=1eRkRN93guh8Zu6lh3CtD-qafdCcq_Ic3) | [[**e**](https://studio.youtube.com/video/M4p6LWIMrX0/edit "Edit")] [Михаил Васильев — Стохастическая дуальность в модели ASEP (1/2)](https://www.youtube.com/watch?v=M4p6LWIMrX0&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC "Презентация доклада https://drive.google.com/open?id=1eRkRN93guh8Zu6lh3CtD-qafdCcq_Ic3") |
 | Tue&nbsp;14&nbsp;Apr&nbsp;2020 | [Tue](../playlists/Tue "семинар \"Методы классических и квантовых интегрируемых систем\"") | [**[1]**](https://drive.google.com/open?id=1nnx-qlOOoD72pR-eSDWSPhqRSzPZHPYp) | [[**e**](https://studio.youtube.com/video/_ymI0LFK0yo/edit "Edit")] [Михаил Васильев — Cтохастическая дуальность в модели ASEP (2/2)](https://www.youtube.com/watch?v=_ymI0LFK0yo&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC "Ссылка на презентацию доклада https://drive.google.com/open?id=1nnx-qlOOoD72pR-eSDWSPhqRSzPZHPYp") |

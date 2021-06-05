@@ -1,6 +1,6 @@
 # Contents of the playlist [2019 Skoltech Summer School on Mathematical Physics](https://www.youtube.com/playlist?list=PLLGkFbxve673cVRaHenTEV8rRnMjc_z1C)
 
-This page updated: Sat 5 Jun 2021 16:21:10
+This page updated: Sat 5 Jun 2021 17:02:23
 
 Number of videos: [24](#videos)
 
@@ -12,7 +12,7 @@ School webpage: <https://crei.skoltech.ru/cas/calendar/conf190701/>
 
 ## Videos
 
-|Date|Playlists|Links|Video name|
+|Date|Playlists|Links|Video title|
 |---|---|---|---|
 | Thu&nbsp;4&nbsp;Jul&nbsp;2019 | [Sum19](../playlists/Sum19 "2019 Skoltech Summer School on Mathematical Physics") | [**[1]**](https://crei.skoltech.ru/cas/calendar/conf190701/) | [[**e**](https://studio.youtube.com/video/oQjCo0v7_7U/edit "Edit")] [Alexander  Braverman / Introduction to local geometric Langlands correspondence (Lecture 4).](https://www.youtube.com/watch?v=oQjCo0v7_7U&list=PLLGkFbxve673cVRaHenTEV8rRnMjc_z1C "Skoltech Summer School on Mathematical Physics. July 1-12 2019. https://crei.skoltech.ru/cas/calendar/conf190701/") |
 | Thu&nbsp;4&nbsp;Jul&nbsp;2019 | [Sum19](../playlists/Sum19 "2019 Skoltech Summer School on Mathematical Physics") | [**[1]**](https://crei.skoltech.ru/cas/calendar/conf190701/) | [[**e**](https://studio.youtube.com/video/nnVBif2JxMY/edit "Edit")] [Roman Bezrukavnikov / Lecture 2](https://www.youtube.com/watch?v=nnVBif2JxMY&list=PLLGkFbxve673cVRaHenTEV8rRnMjc_z1C "Skoltech Summer School on Mathematical Physics. July 1-12 2019.  https://crei.skoltech.ru/cas/calendar/conf190701/") |
