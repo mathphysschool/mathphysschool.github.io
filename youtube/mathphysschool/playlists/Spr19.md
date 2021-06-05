@@ -1,6 +1,6 @@
 # Contents of the playlist [2019 Весенняя студенческая школа по математике и физике](https://www.youtube.com/playlist?list=PLLGkFbxve673GK73CegwPWneQOc58YMyG)
 
-This page updated: Sat 5 Jun 2021 10:07:45
+This page updated: Sat 5 Jun 2021 10:23:48
 
 Number of videos: [28](#videos)
 
@@ -12,7 +12,7 @@ Go back to [Mathematical Physics School](../README.md)
 
 ## Videos
 
-|Date|Playlists|Links|Name|
+|Date|Playlists|Links|Video name|
 |---|---|---|---|
 | Fri&nbsp;4&nbsp;Oct&nbsp;2019 | [Spr19](../playlists/Spr19 "2019 Весенняя студенческая школа по математике и физике") | [**[1]**](http://crei.skoltech.ru/app/data/uploads/sites/42/2019/02/rep_shchechkin.pdf), [**[2]**](http://crei.skoltech.ru/app/data/uploads/sites/42/2019/02/rep_kuchumov.pdf), [**[3]**](https://crei.skoltech.ru/cas/ru/calendar-ru/conf190430ru/) | [[**e**](https://studio.youtube.com/video/qy91gbjzByY/edit "Edit")] [Грассман, Гизекер, Слодови 1 -- Щечкин Антон -- Схема Гильберта точек на плоскости](https://www.youtube.com/watch?v=qy91gbjzByY&list=PLLGkFbxve673GK73CegwPWneQOc58YMyG "Щечкин Антон / Схема Гильберта точек на плоскости / http://crei.skoltech.ru/app/data/uploads/sites/42/2019/02/rep_shchechkin.pdf Кучумов Николай / GIT описание схемы Гильберта / http://crei.skoltech.ru/app/data/uploads/sites/42/2019/02/rep_kuchumov.pdf  Весенняя студенческая школа по математике и физике / Дубна / 30 апреля – 8 мая 2019 г. / https://crei.skoltech.ru/cas/ru/calendar-ru/conf190430ru/") |
 | Fri&nbsp;4&nbsp;Oct&nbsp;2019 | [Spr19](../playlists/Spr19 "2019 Весенняя студенческая школа по математике и физике") | [**[1]**](https://crei.skoltech.ru/cas/ru/calendar-ru/conf190430ru/) | [[**e**](https://studio.youtube.com/video/DrcW8s3D8UA/edit "Edit")] [Гизекер 2 -- Пискунов Алексей -- Колчанные многообразия типа A как неподвижные точки схемы Гизекера](https://www.youtube.com/watch?v=DrcW8s3D8UA&list=PLLGkFbxve673GK73CegwPWneQOc58YMyG "Пискунов Алексей / Колчанные многообразия типа A как неподвижные точки схемы Гизекера  Весенняя студенческая школа по математике и физике / Дубна / 30 апреля – 8 мая 2019 г. / https://crei.skoltech.ru/cas/ru/calendar-ru/conf190430ru/") |

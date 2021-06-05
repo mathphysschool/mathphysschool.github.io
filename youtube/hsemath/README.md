@@ -1,6 +1,6 @@
 # Contents of the youtube channel [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg)
 
-This page updated: Sat 5 Jun 2021 10:07:45
+This page updated: Sat 5 Jun 2021 10:23:49
 
 Number of playlists: [171](#playlists)
 
@@ -10,7 +10,7 @@ Number of other videos: [113](#other-videos)
 
 ## Playlists
 
-|Date|Label|Links|Name|Videos|
+|Date|Label|Links|Playlist title|Videos|
 |---|---|---|---|--:|
 | May&nbsp;2021 | [171](./playlists/171 "ПК Основания алгебры и геометрии 2021. Кириченко В.А.") | [**[1]**](http://me.hse.ru/valkir/icrt/) | [ПК Основания алгебры и геометрии 2021. Кириченко В.А.](https://www.youtube.com/playlist?list=PLq3E5oubNNoDzOuAPdu1VSuKemvGtdSnC "Авторский онлайн-курс В.А.Кириченко помогает слушателям независимо от их начальной математической культуры преодолеть барьер между школьной и университетской математикой. Преподаватели математики найдут в этом курсе полезные рецепты для работы со школьниками старших классов, студентами младших курсов и студентами нематематических специальностей. http://me.hse.ru/valkir/icrt/") | [4](./playlists/171.md) |
 | May&nbsp;2021 | [170](./playlists/170 "Шмерлинг") |  | [Шмерлинг](https://www.youtube.com/playlist?list=PLq3E5oubNNoCOmM2JuY5VKY1cxWlB-b-6) | [0](./playlists/170.md) |
@@ -186,7 +186,7 @@ Number of other videos: [113](#other-videos)
 
 ## Videos
 
-|Date|Playlists|Links|Name|
+|Date|Playlists|Links|Video title|
 |---|---|---|---|
 | Fri&nbsp;4&nbsp;Jun&nbsp;2021 | [165](./playlists/165 "Пенской А.В. Дифференциальная геометрия") |  | [[**e**](https://studio.youtube.com/video/RBA6Lw8AP1s/edit "Edit")] [Дифференциальная геометрия. Пенской. 04.06](https://www.youtube.com/watch?v=RBA6Lw8AP1s) |
 | Fri&nbsp;4&nbsp;Jun&nbsp;2021 | [155](./playlists/155 "Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»") |  | [[**e**](https://studio.youtube.com/video/gww09Yj2mq8/edit "Edit")] [02.06.21 I. Gaiur (Birmingham) Irregular isomonodromic deformations: Hamitlonian and Quantization](https://www.youtube.com/watch?v=gww09Yj2mq8) |
@@ -2185,7 +2185,7 @@ Number of other videos: [113](#other-videos)
 
 This list includes either *unlisted* videos, or videos from other channels available through *public playlists* at Mathematics at HSE.
 
-|Date|Playlists|Links|Name|Channel|
+|Date|Playlists|Links|Video title|Channel|
 |---|---|---|---|---|
 | Mon&nbsp;24&nbsp;May&nbsp;2021 | [169](./playlists/169 "Лиценциат. Математика. 2021.") |  | [[**e**](https://studio.youtube.com/video/7JiVUIFp6Uo/edit "Edit")] [Лиценциат Математика. МатАнализ  Шилин.2021](https://www.youtube.com/watch?v=7JiVUIFp6Uo) | [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg) |
 | Tue&nbsp;25&nbsp;May&nbsp;2021 | [169](./playlists/169 "Лиценциат. Математика. 2021.") |  | [[**e**](https://studio.youtube.com/video/XQhInXROxOw/edit "Edit")] [Лиценциат Математика. Дискретная математика  Смирнов.2021](https://www.youtube.com/watch?v=XQhInXROxOw) | [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg) |

@@ -1,6 +1,6 @@
 # Contents of the youtube channel [Mathematical Physics School](https://www.youtube.com/channel/UCRACd55YrSwO8Fuy4Nx2oAA)
 
-This page updated: Sat 5 Jun 2021 10:07:35
+This page updated: Sat 5 Jun 2021 10:23:39
 
 Number of playlists: [23](#playlists)
 
@@ -10,7 +10,7 @@ Number of other videos: [15](#other-videos)
 
 ## Playlists
 
-|Date|Label|Links|Name|Videos|
+|Date|Label|Links|Playlist title|Videos|
 |---|---|---|---|--:|
 | Apr&nbsp;2021 | [Spr21](./playlists/Spr21 "2021 Весенняя студенческая школа по математике и физике") |  | [2021 Весенняя студенческая школа по математике и физике](https://www.youtube.com/playlist?list=PLLGkFbxve6717hq5zOz8EDQmHpyF6Cnc_) | [75](./playlists/Spr21.md) |
 | Apr&nbsp;2021 | [NN20](./playlists/NN20 "2020-2021 лекции Никиты Некрасова") | [**[1]**](https://drive.google.com/drive/folders/1bywmAmsTZX63tYKD0qeo5efzt_Xh7o-h?usp=sharing) | [2020-2021 лекции Никиты Некрасова](https://www.youtube.com/playlist?list=PLLGkFbxve671JhKJp6xfFYCqRTx1XSvVe "записки: https://drive.google.com/drive/folders/1bywmAmsTZX63tYKD0qeo5efzt_Xh7o-h?usp=sharing") | [21](./playlists/NN20.md) |
@@ -38,7 +38,7 @@ Number of other videos: [15](#other-videos)
 
 ## Videos
 
-|Date|Playlists|Links|Name|
+|Date|Playlists|Links|Video title|
 |---|---|---|---|
 | Sat&nbsp;5&nbsp;Jun&nbsp;2021 | None |  | [[**e**](https://studio.youtube.com/video/20nOzePgK_U/edit "Edit")] [Артем Александров -  Модель Курамото и феномен синхронизации](https://www.youtube.com/watch?v=20nOzePgK_U) |
 | Fri&nbsp;4&nbsp;Jun&nbsp;2021 | [W20](./playlists/W20 "2020 W algebras and related topics") |  | [[**e**](https://studio.youtube.com/video/YDlznUTLiSQ/edit "Edit")] [Н. Сафонкин — Y=W (2/3)](https://www.youtube.com/watch?v=YDlznUTLiSQ) |
@@ -730,7 +730,7 @@ Number of other videos: [15](#other-videos)
 
 This list includes either *unlisted* videos, or videos from other channels available through *public playlists* at Mathematical Physics School.
 
-|Date|Playlists|Links|Name|Channel|
+|Date|Playlists|Links|Video title|Channel|
 |---|---|---|---|---|
 | Mon&nbsp;12&nbsp;Oct&nbsp;2020 | [Fn20](./playlists/Fn20 "2020 Michael Finkelberg -- Geometric Representation Theory") |  | [[**e**](https://studio.youtube.com/video/qVrKsO7RKNc/edit "Edit")] [Lecture 2](https://www.youtube.com/watch?v=qVrKsO7RKNc) | [Artem Prikhodko](https://www.youtube.com/channel/UCpp6vBHLy_adyXWup9mw3OA) |
 | Fri&nbsp;13&nbsp;Nov&nbsp;2020 | [Fn20](./playlists/Fn20 "2020 Michael Finkelberg -- Geometric Representation Theory") |  | [[**e**](https://studio.youtube.com/video/nkmeocHoaZ8/edit "Edit")] [Lecture 3](https://www.youtube.com/watch?v=nkmeocHoaZ8) | [Artem Prikhodko](https://www.youtube.com/channel/UCpp6vBHLy_adyXWup9mw3OA) |

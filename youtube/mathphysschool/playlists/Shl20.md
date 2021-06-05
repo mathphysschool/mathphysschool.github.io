@@ -1,6 +1,6 @@
 # Contents of the playlist [2020 Semen Shlosman -- Phase transitions in percolation and statphysics](https://www.youtube.com/playlist?list=PLLGkFbxve672jbDwYkB6W8MczUfSF9FdJ)
 
-This page updated: Sat 5 Jun 2021 10:07:42
+This page updated: Sat 5 Jun 2021 10:23:46
 
 Number of videos: [12](#videos)
 
@@ -12,7 +12,7 @@ Go back to [Mathematical Physics School](../README.md)
 
 ## Videos
 
-|Date|Playlists|Links|Name|
+|Date|Playlists|Links|Video name|
 |---|---|---|---|
 | Sat&nbsp;26&nbsp;Sep&nbsp;2020 | [Shl20](../playlists/Shl20 "2020 Semen Shlosman -- Phase transitions in percolation and statphysics") |  | [[**e**](https://studio.youtube.com/video/VI_C4QD06rI/edit "Edit")] [Semen Shlosman -- Phase transitions in percolation and statphysics 1](https://www.youtube.com/watch?v=VI_C4QD06rI&list=PLLGkFbxve672jbDwYkB6W8MczUfSF9FdJ "The first lecture on percolation. Definitions. No percolation for small p. Onset of percolation for p close to 1.") |
 | Sat&nbsp;3&nbsp;Oct&nbsp;2020 | [Shl20](../playlists/Shl20 "2020 Semen Shlosman -- Phase transitions in percolation and statphysics") |  | [[**e**](https://studio.youtube.com/video/kNyzZ4bb4mc/edit "Edit")] [Phase transitions in percolation and statphysics 2](https://www.youtube.com/watch?v=kNyzZ4bb4mc&list=PLLGkFbxve672jbDwYkB6W8MczUfSF9FdJ "Coupling = склейка разных вероятностных распределений. Возрастающие события.") |

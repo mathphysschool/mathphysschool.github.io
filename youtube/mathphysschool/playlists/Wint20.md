@@ -1,6 +1,6 @@
 # Contents of the playlist [2020 Зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”](https://www.youtube.com/playlist?list=PLLGkFbxve673Bx5y3iiJEunDe_6ZHxUk2)
 
-This page updated: Sat 5 Jun 2021 10:07:44
+This page updated: Sat 5 Jun 2021 10:23:47
 
 Number of videos: [26](#videos)
 
@@ -14,7 +14,7 @@ Go back to [Mathematical Physics School](../README.md)
 
 ## Videos
 
-|Date|Playlists|Links|Name|
+|Date|Playlists|Links|Video name|
 |---|---|---|---|
 | Mon&nbsp;20&nbsp;Jan&nbsp;2020 | [Wint20](../playlists/Wint20 "2020 Зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") | [**[1]**](https://crei.skoltech.ru/cas/ru/calendar-ru/stimart5r/) | [[**e**](https://studio.youtube.com/video/eJS7poq41Hs/edit "Edit")] [Николай Решетихин / Предельные формы в статистической механике / лекция 1](https://www.youtube.com/watch?v=eJS7poq41Hs&list=PLLGkFbxve673Bx5y3iiJEunDe_6ZHxUk2 "5-ая зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений” / Москва / 20-25 января 2020 г.  https://crei.skoltech.ru/cas/ru/calendar-ru/stimart5r/") |
 | Wed&nbsp;22&nbsp;Jan&nbsp;2020 | [Wint20](../playlists/Wint20 "2020 Зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") | [**[1]**](https://crei.skoltech.ru/cas/ru/calendar-ru/stimart5r/) | [[**e**](https://studio.youtube.com/video/IYK1zyXGs2E/edit "Edit")] [Николай Решетихин / Предельные формы в статистической механике / лекция 2](https://www.youtube.com/watch?v=IYK1zyXGs2E&list=PLLGkFbxve673Bx5y3iiJEunDe_6ZHxUk2 "5-ая зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений” / Москва / 20-25 января 2020 г.  https://crei.skoltech.ru/cas/ru/calendar-ru/stimart5r/") |

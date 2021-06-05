@@ -1,6 +1,6 @@
 # Contents of the playlist [2020 Весенняя студенческая школа по математике и физике](https://www.youtube.com/playlist?list=PLLGkFbxve672AZHEa9x0rTQX-u6RXUQR5)
 
-This page updated: Sat 5 Jun 2021 10:07:43
+This page updated: Sat 5 Jun 2021 10:23:46
 
 Number of videos: [71](#videos)
 
@@ -12,7 +12,7 @@ Go back to [Mathematical Physics School](../README.md)
 
 ## Videos
 
-|Date|Playlists|Links|Name|
+|Date|Playlists|Links|Video name|
 |---|---|---|---|
 | Fri&nbsp;1&nbsp;May&nbsp;2020 | [Spr20](../playlists/Spr20 "2020 Весенняя студенческая школа по математике и физике") |  | [[**e**](https://studio.youtube.com/video/lAeAVUGp5GU/edit "Edit")] [Максим Русских — Классическая задача Кеплера](https://www.youtube.com/watch?v=lAeAVUGp5GU&list=PLLGkFbxve672AZHEa9x0rTQX-u6RXUQR5 "Первый доклад по теме \"Теория групп и атом водорода\" Ссылка на текст https://drive.google.com/open?id=1LrFNrkkylZh0XCAYSwdkHC0Ah-pm29WT") |
 | Sat&nbsp;2&nbsp;May&nbsp;2020 | [Spr20](../playlists/Spr20 "2020 Весенняя студенческая школа по математике и физике") |  | [[**e**](https://studio.youtube.com/video/lZgoDktm7Tc/edit "Edit")] [Михаил Ракицкий — Атом водорода. Дискретный спектр.](https://www.youtube.com/watch?v=lZgoDktm7Tc&list=PLLGkFbxve672AZHEa9x0rTQX-u6RXUQR5 "Второй доклад по теме \"Теория групп и атом водорода\" Ссылка на презентацию https://drive.google.com/open?id=1ZBEBCqh6-tAtsJNZvQmQpFBfoO6mP8FB") |

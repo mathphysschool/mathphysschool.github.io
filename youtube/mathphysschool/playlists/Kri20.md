@@ -1,6 +1,6 @@
 # Contents of the playlist [2020 Igor Krichever -- Integrable Systems](https://www.youtube.com/playlist?list=PLLGkFbxve672AOMaYwSTrqFRBc00ZnQmb)
 
-This page updated: Sat 5 Jun 2021 10:07:43
+This page updated: Sat 5 Jun 2021 10:23:46
 
 Number of videos: [14](#videos)
 
@@ -12,7 +12,7 @@ Lecture notes: <https://drive.google.com/drive/folders/1y1l5i-fzkIfrwxMVgJ8D56gP
 
 ## Videos
 
-|Date|Playlists|Links|Name|
+|Date|Playlists|Links|Video name|
 |---|---|---|---|
 | Thu&nbsp;10&nbsp;Sep&nbsp;2020 | [Kri20](../playlists/Kri20 "2020 Igor Krichever -- Integrable Systems") | [**[1]**](https://drive.google.com/drive/folders/1y1l5i-fzkIfrwxMVgJ8D56gPbZUEG8jF?usp=sharing) | [[**e**](https://studio.youtube.com/video/lXeZy9sHgr4/edit "Edit")] [I. Krichever -- Integrable Systems 01 -- Introduction to classical integrable systems, Lax pairs](https://www.youtube.com/watch?v=lXeZy9sHgr4&list=PLLGkFbxve672AOMaYwSTrqFRBc00ZnQmb "Lecture notes: https://drive.google.com/drive/folders/1y1l5i-fzkIfrwxMVgJ8D56gPbZUEG8jF?usp=sharing") |
 | Thu&nbsp;17&nbsp;Sep&nbsp;2020 | [Kri20](../playlists/Kri20 "2020 Igor Krichever -- Integrable Systems") | [**[1]**](https://drive.google.com/drive/folders/1y1l5i-fzkIfrwxMVgJ8D56gPbZUEG8jF?usp=sharing) | [[**e**](https://studio.youtube.com/video/5vqotLk_ei4/edit "Edit")] [I. Krichever -- Integrable Systems 02 -- Lax pairs with spectral parameter](https://www.youtube.com/watch?v=5vqotLk_ei4&list=PLLGkFbxve672AOMaYwSTrqFRBc00ZnQmb "Lecture notes: https://drive.google.com/drive/folders/1y1l5i-fzkIfrwxMVgJ8D56gPbZUEG8jF?usp=sharing") |

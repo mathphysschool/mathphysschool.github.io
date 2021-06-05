@@ -1,6 +1,6 @@
 # Contents of the playlist [2020 Vertex algebras and tensor categories](https://www.youtube.com/playlist?list=PLLGkFbxve670tIZPb0CDm1Wc060TE1x3c)
 
-This page updated: Sat 5 Jun 2021 10:07:42
+This page updated: Sat 5 Jun 2021 10:23:45
 
 Number of videos: [9](#videos)
 
@@ -12,7 +12,7 @@ Go back to [Mathematical Physics School](../README.md)
 
 ## Videos
 
-|Date|Playlists|Links|Name|
+|Date|Playlists|Links|Video name|
 |---|---|---|---|
 | Tue&nbsp;24&nbsp;Nov&nbsp;2020 | [Vert20](../playlists/Vert20 "2020 Vertex algebras and tensor categories") | [**[1]**](https://sites.google.com/view/rtmp2020), [**[2]**](https://drive.google.com/file/d/1ENswQ5S0HIO-NCEFwyi2hS6Qs3KBRibT/) | [[**e**](https://studio.youtube.com/video/6pM2DJ8J5gM/edit "Edit")] [Thomas Creutzig -- W-algebras 1](https://www.youtube.com/watch?v=6pM2DJ8J5gM&list=PLLGkFbxve670tIZPb0CDm1Wc060TE1x3c "Vertex algebras and tensor categories: Online school-conference  https://sites.google.com/view/rtmp2020  slides https://drive.google.com/file/d/1ENswQ5S0HIO-NCEFwyi2hS6Qs3KBRibT/") |
 | Tue&nbsp;24&nbsp;Nov&nbsp;2020 | [Vert20](../playlists/Vert20 "2020 Vertex algebras and tensor categories") | [**[1]**](https://sites.google.com/view/rtmp2020), [**[2]**](https://drive.google.com/file/d/1JR_ygVS8XGR528GN9LxDZYrQZ-iM3JMz/) | [[**e**](https://studio.youtube.com/video/zpBu-l85zsw/edit "Edit")] [Andrew R. Linshaw -- W-algebras 2](https://www.youtube.com/watch?v=zpBu-l85zsw&list=PLLGkFbxve670tIZPb0CDm1Wc060TE1x3c "Vertex algebras and tensor categories: Online school-conference  https://sites.google.com/view/rtmp2020  slides https://drive.google.com/file/d/1JR_ygVS8XGR528GN9LxDZYrQZ-iM3JMz/") |
