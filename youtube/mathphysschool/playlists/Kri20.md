@@ -1,6 +1,6 @@
 # Contents of the playlist [2020 Igor Krichever -- Integrable Systems](https://www.youtube.com/playlist?list=PLLGkFbxve672AOMaYwSTrqFRBc00ZnQmb)
 
-This page updated: Sun 6 Jun 2021 03:35:24
+This page updated: Mon 7 Jun 2021 02:35:01
 
 Number of videos: [14](#videos)
 

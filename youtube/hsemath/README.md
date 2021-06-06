@@ -1,10 +1,10 @@
 # Contents of the youtube channel [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg)
 
-This page updated: Sun 6 Jun 2021 03:35:25
+This page updated: Mon 7 Jun 2021 02:35:03
 
 Number of playlists: [171](#playlists)
 
-Number of videos: [1992](#videos)
+Number of videos: [2001](#videos)
 
 Number of other videos: [113](#other-videos)
 
@@ -28,7 +28,7 @@ Number of other videos: [113](#other-videos)
 | Mar&nbsp;2021 | [158](./playlists/158 "КПК Аспекты преподавания математических дисциплин 2 группа") |  | [КПК Аспекты преподавания математических дисциплин 2 группа](https://www.youtube.com/playlist?list=PLq3E5oubNNoDIFaIFV90o_VaaXsaT02d3) | [3](./playlists/158.md) |
 | Feb&nbsp;2021 | [157](./playlists/157 "КПК «Математическая логика, алгоритмические проблемы, вычислительная сложность» 2021") |  | [КПК «Математическая логика, алгоритмические проблемы, вычислительная сложность» 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoBJ8_58QJXsNJTg6pAh20Kv) | [4](./playlists/157.md) |
 | Feb&nbsp;2021 | [156](./playlists/156 "Семинар &#34;Комбинаторика инвариантов Васильева&#34;") |  | [Семинар &#34;Комбинаторика инвариантов Васильева&#34;](https://www.youtube.com/playlist?list=PLq3E5oubNNoCvslSyRxSk7hu77WxK9FU4) | [14](./playlists/156.md) |
-| Feb&nbsp;2021 | [155](./playlists/155 "Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»") |  | [Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»](https://www.youtube.com/playlist?list=PLq3E5oubNNoD0JiX9n-Q4y2WD9xj5lMpA) | [23](./playlists/155.md) |
+| Feb&nbsp;2021 | [155](./playlists/155 "Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»") |  | [Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»](https://www.youtube.com/playlist?list=PLq3E5oubNNoD0JiX9n-Q4y2WD9xj5lMpA) | [32](./playlists/155.md) |
 | Feb&nbsp;2021 | [154](./playlists/154 "Карьерные мероприятия для математиков") |  | [Карьерные мероприятия для математиков](https://www.youtube.com/playlist?list=PLq3E5oubNNoCqH67g0Blr7Eds0cWJaVOz) | [3](./playlists/154.md) |
 | Feb&nbsp;2021 | [153](./playlists/153 "Хорошкин А.С., Казарян М.Э. Характеристические классы. Весна 2021") |  | [Хорошкин А.С., Казарян М.Э. Характеристические классы. Весна 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoDGWDzailWr1K-FHKmmrNKC) | [17](./playlists/153.md) |
 | Feb&nbsp;2021 | [152](./playlists/152 "Финкельберг М.В. Invariant Theory, Spring 2021") |  | [Финкельберг М.В. Invariant Theory, Spring 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoB3KbRw-48VRMzgE4hK46Tx) | [26](./playlists/152.md) |
@@ -190,6 +190,15 @@ Number of other videos: [113](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Sun&nbsp;6&nbsp;Jun&nbsp;2021 | [155](./playlists/155 "Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»") |  | [[**e**](https://studio.youtube.com/video/n4vuojeAkuc/edit "Edit")] [04.06.21 M. Bertola (Concordia and SISSA/ISAS) Graph connections, (wild) character varieties](https://www.youtube.com/watch?v=n4vuojeAkuc ", and generating functions in symplectic geometry") |
+| Sun&nbsp;6&nbsp;Jun&nbsp;2021 | [155](./playlists/155 "Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»") |  | [[**e**](https://studio.youtube.com/video/UlpVtNLI2C8/edit "Edit")] [04.06.21 M. Shapiro (Michigan State University, HSE) Darboux coordinates for symplectic groupoid](https://www.youtube.com/watch?v=UlpVtNLI2C8) |
+| Sun&nbsp;6&nbsp;Jun&nbsp;2021 | [155](./playlists/155 "Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»") |  | [[**e**](https://studio.youtube.com/video/9hC-c3X9uGc/edit "Edit")] [04.06.21 K. Iwaki (Tokyo) Topological recursion, Painlevé tau-function and exact WKB analysis](https://www.youtube.com/watch?v=9hC-c3X9uGc) |
+| Sun&nbsp;6&nbsp;Jun&nbsp;2021 | [155](./playlists/155 "Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»") |  | [[**e**](https://studio.youtube.com/video/kJioEecqRUY/edit "Edit")] [03.06.21 B. Bychkov (HSE) Topological recursion for hypergeometric KP/generalized Hurwitz functions](https://www.youtube.com/watch?v=kJioEecqRUY) |
+| Sun&nbsp;6&nbsp;Jun&nbsp;2021 | [155](./playlists/155 "Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»") |  | [[**e**](https://studio.youtube.com/video/bO7pQM8YAAo/edit "Edit")] [03.06.21 Petr Dunin-Barkovskii (HSE) Formulas for hypergeometric KP/generalized Hurwitz functions](https://www.youtube.com/watch?v=bO7pQM8YAAo) |
+| Sun&nbsp;6&nbsp;Jun&nbsp;2021 | [155](./playlists/155 "Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»") |  | [[**e**](https://studio.youtube.com/video/mXfG-nHWGLY/edit "Edit")] [03.06.21 A. Giacchetto (Max-Planck) Multicurve count, Masur–Veech volumes and topological recursion](https://www.youtube.com/watch?v=mXfG-nHWGLY) |
+| Sun&nbsp;6&nbsp;Jun&nbsp;2021 | [155](./playlists/155 "Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»") |  | [[**e**](https://studio.youtube.com/video/8kSBMZ_s1lE/edit "Edit")] [03.06.21 K. Van Gemst (Sheffield, UK) Mirror Symmetry for Dubrovin-Zhang Frobenius Manifolds](https://www.youtube.com/watch?v=8kSBMZ_s1lE) |
+| Sun&nbsp;6&nbsp;Jun&nbsp;2021 | [155](./playlists/155 "Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»") |  | [[**e**](https://studio.youtube.com/video/eznxgexPzGE/edit "Edit")] [03.06.21 K. Osuga (University of Sheffield, United Kingdom) N=1 Super Topological Recursion](https://www.youtube.com/watch?v=eznxgexPzGE) |
+| Sun&nbsp;6&nbsp;Jun&nbsp;2021 | [155](./playlists/155 "Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»") |  | [[**e**](https://studio.youtube.com/video/Q4IyHhMTLek/edit "Edit")] [03.06.21 O. Kidwai (Tokyo) Topological recursion, BPS structures for hypergeometric spectral curves](https://www.youtube.com/watch?v=Q4IyHhMTLek) |
 | Fri&nbsp;4&nbsp;Jun&nbsp;2021 | [165](./playlists/165 "Пенской А.В. Дифференциальная геометрия") |  | [[**e**](https://studio.youtube.com/video/RBA6Lw8AP1s/edit "Edit")] [Дифференциальная геометрия. Пенской. 04.06](https://www.youtube.com/watch?v=RBA6Lw8AP1s) |
 | Fri&nbsp;4&nbsp;Jun&nbsp;2021 | [155](./playlists/155 "Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»") |  | [[**e**](https://studio.youtube.com/video/gww09Yj2mq8/edit "Edit")] [02.06.21 I. Gaiur (Birmingham) Irregular isomonodromic deformations: Hamitlonian and Quantization](https://www.youtube.com/watch?v=gww09Yj2mq8) |
 | Fri&nbsp;4&nbsp;Jun&nbsp;2021 | [155](./playlists/155 "Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»") |  | [[**e**](https://studio.youtube.com/video/guc4boc3bg4/edit "Edit")] [02.06.21 J.E. Andersen (Center for Quantum Geometry,  Denmark) Geometrical Recursion MoSCATR VII](https://www.youtube.com/watch?v=guc4boc3bg4) |
