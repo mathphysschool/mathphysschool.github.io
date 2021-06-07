@@ -1,10 +1,10 @@
 # Contents of the youtube channel [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg)
 
-This page updated: Mon 7 Jun 2021 05:30:40
+This page updated: Mon 7 Jun 2021 13:24:54
 
 Number of playlists: [171](#playlists)
 
-Number of videos: [2001](#videos)
+Number of videos: [2002](#videos)
 
 Number of other videos: [113](#other-videos)
 
@@ -43,7 +43,7 @@ Number of other videos: [113](#other-videos)
 | Jan&nbsp;2021 | [143](./playlists/143 "Числа Гурвица (Б.С.Бычков, Н.Я.Амбург) Весна 2021") |  | [Числа Гурвица (Б.С.Бычков, Н.Я.Амбург) Весна 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoDb8DPyukPrE1ajKLCSLEOy) | [18](./playlists/143.md) |
 | Jan&nbsp;2021 | [142](./playlists/142 "Степанов Е.О. Матанализ 2.  Весна 2021") |  | [Степанов Е.О. Матанализ 2.  Весна 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoCvb1R9qEZF4m5z3N90W-Gq) | [25](./playlists/142.md) |
 | Jan&nbsp;2021 | [141](./playlists/141 "Америк Е.Ю. Алгебра 1. Весна 2021") |  | [Америк Е.Ю. Алгебра 1. Весна 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoBAvx9rbW7NEb1yCoQHM02c) | [26](./playlists/141.md) |
-| Jan&nbsp;2021 | [140](./playlists/140 "Запрягаев А.А. Логика и алгоритмы (семинар)") |  | [Запрягаев А.А. Логика и алгоритмы (семинар)](https://www.youtube.com/playlist?list=PLq3E5oubNNoBLmJ9UwFBHfgNmGz8hUBhO) | [17](./playlists/140.md) |
+| Jan&nbsp;2021 | [140](./playlists/140 "Запрягаев А.А. Логика и алгоритмы (семинар)") |  | [Запрягаев А.А. Логика и алгоритмы (семинар)](https://www.youtube.com/playlist?list=PLq3E5oubNNoBLmJ9UwFBHfgNmGz8hUBhO) | [18](./playlists/140.md) |
 | Jan&nbsp;2021 | [139](./playlists/139 "Тиморин В.А. ТФКП 2. Весна 2021") |  | [Тиморин В.А. ТФКП 2. Весна 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoCxtQ-TsdBARQyx5vvFwVq5) | [17](./playlists/139.md) |
 | Jan&nbsp;2021 | [138](./playlists/138 "A. Yu. Pirkovskii. C&#42;-algebras and compact quantum groups. Spring 2021") |  | [A. Yu. Pirkovskii. C&#42;-algebras and compact quantum groups. Spring 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoAZi6W7968tNkSnIGTt4hEn) | [18](./playlists/138.md) |
 | Jan&nbsp;2021 | [137](./playlists/137 "Рыбаков М.Н. Логика и алгоритмы 2. Весна 2021") |  | [Рыбаков М.Н. Логика и алгоритмы 2. Весна 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoBn1Sz_0z0qaZ7UfvWNkVP6) | [49](./playlists/137.md) |
@@ -190,6 +190,7 @@ Number of other videos: [113](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Mon&nbsp;7&nbsp;Jun&nbsp;2021 | [140](./playlists/140 "Запрягаев А.А. Логика и алгоритмы (семинар)") |  | [[**e**](https://studio.youtube.com/video/cdD579y1bH0/edit "Edit")] [Запрягаев А.А. Логика и алгоритмы (семинар) 04.06.2021](https://www.youtube.com/watch?v=cdD579y1bH0) |
 | Sun&nbsp;6&nbsp;Jun&nbsp;2021 | [155](./playlists/155 "Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»") |  | [[**e**](https://studio.youtube.com/video/n4vuojeAkuc/edit "Edit")] [04.06.21 M. Bertola (Concordia and SISSA/ISAS) Graph connections, (wild) character varieties](https://www.youtube.com/watch?v=n4vuojeAkuc ", and generating functions in symplectic geometry") |
 | Sun&nbsp;6&nbsp;Jun&nbsp;2021 | [155](./playlists/155 "Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»") |  | [[**e**](https://studio.youtube.com/video/UlpVtNLI2C8/edit "Edit")] [04.06.21 M. Shapiro (Michigan State University, HSE) Darboux coordinates for symplectic groupoid](https://www.youtube.com/watch?v=UlpVtNLI2C8) |
 | Sun&nbsp;6&nbsp;Jun&nbsp;2021 | [155](./playlists/155 "Семинар лаборатории кластерной геометрии. «Характеристические классы и теория пересечений»") |  | [[**e**](https://studio.youtube.com/video/9hC-c3X9uGc/edit "Edit")] [04.06.21 K. Iwaki (Tokyo) Topological recursion, Painlevé tau-function and exact WKB analysis](https://www.youtube.com/watch?v=9hC-c3X9uGc) |
