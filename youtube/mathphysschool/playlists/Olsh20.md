@@ -1,8 +1,8 @@
 # Contents of the playlist [2020 G.Olshanski -- Representations of classical groups and related topics](https://www.youtube.com/playlist?list=PLLGkFbxve670ADsVxwRJVunxz2v3ghcOQ)
 
-This page updated: Mon 7 Jun 2021 02:35:01
+This page updated: Mon 7 Jun 2021 03:56:53
 
-Number of videos: [11](#videos)
+Number of videos: [12](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -25,3 +25,4 @@ Go to [Mathematical Physics School](../README.md)
 | Wed&nbsp;18&nbsp;Nov&nbsp;2020 | [Olsh20](../playlists/Olsh20 "2020 G.Olshanski -- Representations of classical groups and related topics") |  | [[**e**](https://studio.youtube.com/video/SKwUSAcKz5k/edit "Edit")] [G.Olshanski -- Representations of classical groups and related topics -- 10](https://www.youtube.com/watch?v=SKwUSAcKz5k&list=PLLGkFbxve670ADsVxwRJVunxz2v3ghcOQ) |
 | Wed&nbsp;25&nbsp;Nov&nbsp;2020 | [Olsh20](../playlists/Olsh20 "2020 G.Olshanski -- Representations of classical groups and related topics") |  | [[**e**](https://studio.youtube.com/video/OZbEGcwzuT0/edit "Edit")] [G.Olshanski -- Representations of classical groups and related topics -- 11](https://www.youtube.com/watch?v=OZbEGcwzuT0&list=PLLGkFbxve670ADsVxwRJVunxz2v3ghcOQ) |
 | Wed&nbsp;2&nbsp;Dec&nbsp;2020 | [Olsh20](../playlists/Olsh20 "2020 G.Olshanski -- Representations of classical groups and related topics") |  | [[**e**](https://studio.youtube.com/video/oX00t9xMPoM/edit "Edit")] [G.Olshanski -- Representations of classical groups and related topics -- 12](https://www.youtube.com/watch?v=oX00t9xMPoM&list=PLLGkFbxve670ADsVxwRJVunxz2v3ghcOQ) |
+| Wed&nbsp;28&nbsp;Oct&nbsp;2020 | [Olsh20](../playlists/Olsh20 "2020 G.Olshanski -- Representations of classical groups and related topics") |  | [[**e**](https://studio.youtube.com/video/0YKzW_KJ1vo/edit "Edit")] [G.Olshanski -- Representations of classical groups and related topics -- 07](https://www.youtube.com/watch?v=0YKzW_KJ1vo&list=PLLGkFbxve670ADsVxwRJVunxz2v3ghcOQ) |

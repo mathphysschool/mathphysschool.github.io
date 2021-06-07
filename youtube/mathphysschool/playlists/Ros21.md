@@ -1,8 +1,8 @@
 # Contents of the playlist [2021 Alexey Rosly - Hitchin systems](https://www.youtube.com/playlist?list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW)
 
-This page updated: Mon 7 Jun 2021 02:35:01
+This page updated: Mon 7 Jun 2021 03:56:52
 
-Number of videos: [15](#videos)
+Number of videos: [16](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -29,3 +29,4 @@ Go to [Mathematical Physics School](../README.md)
 | Wed&nbsp;12&nbsp;May&nbsp;2021 | [Ros21](../playlists/Ros21 "2021 Alexey Rosly - Hitchin systems") |  | [[**e**](https://studio.youtube.com/video/HinS9HcRKo4/edit "Edit")] [Alexey Rosly -- Inverse construction for matrix polynomial](https://www.youtube.com/watch?v=HinS9HcRKo4&list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW) |
 | Tue&nbsp;18&nbsp;May&nbsp;2021 | [Ros21](../playlists/Ros21 "2021 Alexey Rosly - Hitchin systems") |  | [[**e**](https://studio.youtube.com/video/RqRvf6Vqo80/edit "Edit")] [Alexey Rosly -- Linear motion on the Jacobian and the Lax pair](https://www.youtube.com/watch?v=RqRvf6Vqo80&list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW) |
 | Tue&nbsp;25&nbsp;May&nbsp;2021 | [Ros21](../playlists/Ros21 "2021 Alexey Rosly - Hitchin systems") |  | [[**e**](https://studio.youtube.com/video/mmIW3APRwJQ/edit "Edit")] [Alexey Rosly -- Hamiltonian structure of the Hitchin system](https://www.youtube.com/watch?v=mmIW3APRwJQ&list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW) |
+| Tue&nbsp;30&nbsp;Mar&nbsp;2021 | [Ros21](../playlists/Ros21 "2021 Alexey Rosly - Hitchin systems") |  | [[**e**](https://studio.youtube.com/video/eqeWDrjp998/edit "Edit")] [Alexey Rosly -- Homogeneous coordinates](https://www.youtube.com/watch?v=eqeWDrjp998&list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW) |
