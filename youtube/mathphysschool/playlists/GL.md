@@ -1,6 +1,6 @@
 # Contents of the playlist [семинар "Непертурбативные методы в квантовой теории поля"](https://www.youtube.com/playlist?list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw)
 
-This page updated: Mon 7 Jun 2021 13:24:51
+This page updated: Wed 9 Jun 2021 15:55:15
 
 Number of videos: [33](#videos)
 
