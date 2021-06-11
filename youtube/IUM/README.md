@@ -1,10 +1,10 @@
 # Contents of the youtube channel [Видеозаписи Независимого Московского Университета](https://www.youtube.com/channel/UCpi8qkXE7-q3TY19lIgO_Kw)
 
-This page updated: Wed 9 Jun 2021 15:55:40
+This page updated: Fri 11 Jun 2021 03:29:18
 
 Number of playlists: [195](#playlists)
 
-Number of videos: [1961](#videos)
+Number of videos: [1962](#videos)
 
 Number of other videos: [8](#other-videos)
 
@@ -214,6 +214,7 @@ Number of other videos: [8](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Thu&nbsp;10&nbsp;Jun&nbsp;2021 | None | [**[1]**](https://ium.mccme.ru/s21/s21-DiffGeom.html) | [[**e**](https://studio.youtube.com/video/Sl5nH6fedbc/edit "Edit")] [Дифференциальная геометрия, лекция 17, А.В.Пенской](https://www.youtube.com/watch?v=Sl5nH6fedbc "https://ium.mccme.ru/s21/s21-DiffGeom.html") |
 | Thu&nbsp;3&nbsp;Jun&nbsp;2021 | None | [**[1]**](https://ium.mccme.ru/s21/s21-DiffGeom.html) | [[**e**](https://studio.youtube.com/video/ATbHI9gb2mU/edit "Edit")] [Дифференциальная геометрия, лекция 16, А.В.Пенской](https://www.youtube.com/watch?v=ATbHI9gb2mU "https://ium.mccme.ru/s21/s21-DiffGeom.html") |
 | Wed&nbsp;2&nbsp;Jun&nbsp;2021 | [180](./playlists/180 "В.С.Жгун. Введение в группы и алгебры Ли. Весна 2021г.") |  | [[**e**](https://studio.youtube.com/video/QaFedYAa6sA/edit "Edit")] [Введение в группы и алгебры Ли, лекция 16, В.С.Жгун](https://www.youtube.com/watch?v=QaFedYAa6sA) |
 | Wed&nbsp;2&nbsp;Jun&nbsp;2021 | [180](./playlists/180 "В.С.Жгун. Введение в группы и алгебры Ли. Весна 2021г.") |  | [[**e**](https://studio.youtube.com/video/Enj7QVKdamk/edit "Edit")] [Введение в группы и алгебры Ли, лекция 15, В.С.Жгун](https://www.youtube.com/watch?v=Enj7QVKdamk) |

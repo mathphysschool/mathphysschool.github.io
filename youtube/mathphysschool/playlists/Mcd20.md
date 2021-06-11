@@ -1,6 +1,6 @@
 # Contents of the playlist [2020 Полиномы Макдональда и DAHA](https://www.youtube.com/playlist?list=PLLGkFbxve673d4IimgKUDiIAIMTlcnpyf)
 
-This page updated: Wed 9 Jun 2021 15:55:16
+This page updated: Fri 11 Jun 2021 03:28:55
 
 Number of videos: [10](#videos)
 

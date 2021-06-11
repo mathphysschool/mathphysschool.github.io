@@ -1,8 +1,8 @@
 # Contents of the playlist [2020 семинар по теории Зайберга-Виттена и интегрируемым системам](https://www.youtube.com/playlist?list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk)
 
-This page updated: Wed 9 Jun 2021 15:55:17
+This page updated: Fri 11 Jun 2021 03:28:55
 
-Number of videos: [50](#videos)
+Number of videos: [51](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -64,3 +64,4 @@ Go to [Mathematical Physics School](../README.md)
 | Fri&nbsp;14&nbsp;May&nbsp;2021 | [NN20](../playlists/NN20 "2020-2021 лекции Никиты Некрасова"), [SW](../playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") | [**[1]**](https://drive.google.com/file/d/1p2_8XFJiY1mfTRzNGnti-g_S2Qx5jgKA/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/cFhAhjo592Y/edit "Edit")] [Никита Некрасов -- 19. Калибровочные теории в 3 и 5 измерениях](https://www.youtube.com/watch?v=cFhAhjo592Y&list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk "записки: https://drive.google.com/file/d/1p2&#95;8XFJiY1mfTRzNGnti-g&#95;S2Qx5jgKA/view?usp=sharing") |
 | Fri&nbsp;30&nbsp;Apr&nbsp;2021 | [NN20](../playlists/NN20 "2020-2021 лекции Никиты Некрасова"), [SW](../playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") | [**[1]**](https://drive.google.com/file/d/1LT65SemLPoZHFCTV8gber08SjuXTyqYb/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/aS0gkAJjnKs/edit "Edit")] [Никита Некрасов -- 18. Энумеративная геометрия (2/2). Интеграл по пространству квазиотображений](https://www.youtube.com/watch?v=aS0gkAJjnKs&list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk "записки: https://drive.google.com/file/d/1LT65SemLPoZHFCTV8gber08SjuXTyqYb/view?usp=sharing") |
 | Fri&nbsp;21&nbsp;May&nbsp;2021 | [NN20](../playlists/NN20 "2020-2021 лекции Никиты Некрасова"), [SW](../playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") | [**[1]**](https://drive.google.com/file/d/1fcqEPsZluK9BIHZ56veuE0PYJNIUYM5L/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/iMYnF5t_aaY/edit "Edit")] [Никита Некрасов -- 20. Локализация в топологических струнах и в инстантонах (в пятимерьи)](https://www.youtube.com/watch?v=iMYnF5t_aaY&list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk "записки: https://drive.google.com/file/d/1fcqEPsZluK9BIHZ56veuE0PYJNIUYM5L/view?usp=sharing") |
+| Thu&nbsp;10&nbsp;Jun&nbsp;2021 | [NN20](../playlists/NN20 "2020-2021 лекции Никиты Некрасова"), [SW](../playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") |  | [[**e**](https://studio.youtube.com/video/oDKdnYFe_4k/edit "Edit")] [Никита Некрасов -- 21. Связь с теорией суперструн](https://www.youtube.com/watch?v=oDKdnYFe_4k&list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk) |
