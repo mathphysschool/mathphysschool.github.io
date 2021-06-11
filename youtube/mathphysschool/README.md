@@ -1,12 +1,12 @@
 # Contents of the youtube channel [Mathematical Physics School](https://www.youtube.com/channel/UCRACd55YrSwO8Fuy4Nx2oAA)
 
-This page updated: Fri 11 Jun 2021 03:28:51
+This page updated: Fri 11 Jun 2021 22:12:43
 
 Number of playlists: [27](#playlists)
 
-Number of videos: [688](#videos)
+Number of videos: [690](#videos)
 
-Number of other videos: [16](#other-videos)
+Number of other videos: [13](#other-videos)
 
 ## Playlists
 
@@ -46,6 +46,8 @@ Number of other videos: [16](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Fri&nbsp;11&nbsp;Jun&nbsp;2021 | [W20](./playlists/W20 "2020 W algebras and related topics") |  | [[**e**](https://studio.youtube.com/video/PBZQyP_rMlk/edit "Edit")] [Н. Сафонкин — Y=W (3/3)](https://www.youtube.com/watch?v=PBZQyP_rMlk) |
+| Fri&nbsp;11&nbsp;Jun&nbsp;2021 | [NN20](./playlists/NN20 "2020-2021 лекции Никиты Некрасова"), [SW](./playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") |  | [[**e**](https://studio.youtube.com/video/oDKdnYFe_4k/edit "Edit")] [Никита Некрасов -- 21. Связь с теорией суперструн](https://www.youtube.com/watch?v=oDKdnYFe_4k) |
 | Wed&nbsp;9&nbsp;Jun&nbsp;2021 | [Tue](./playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") | [**[1]**](https://drive.google.com/file/d/1NYY6PDrDjotPjq0crfeZd5yWkpnOTgqI/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/wcVkREsCAVU/edit "Edit")] [Мария Матушко — q-деформированная цепочка Халдейна–Шастри и спиновая система Руйсенаарса (1/2)](https://www.youtube.com/watch?v=wcVkREsCAVU "ссылка на записки: https://drive.google.com/file/d/1NYY6PDrDjotPjq0crfeZd5yWkpnOTgqI/view?usp=sharing") |
 | Wed&nbsp;9&nbsp;Jun&nbsp;2021 | [Tue](./playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") | [**[1]**](https://drive.google.com/file/d/12JDmJCcNCvGcr-UuFS1Ib_-P-WyCP1pJ/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/OtmmoQ9pvew/edit "Edit")] [Илья Гаюр — Иррегулярные изомонодромные деформации — гамильтонов формализм (3/4)](https://www.youtube.com/watch?v=OtmmoQ9pvew "ссылка на записки: https://drive.google.com/file/d/12JDmJCcNCvGcr-UuFS1Ib&#95;-P-WyCP1pJ/view?usp=sharing") |
 | Sun&nbsp;6&nbsp;Jun&nbsp;2021 | [Mcd20](./playlists/Mcd20 "2020 Полиномы Макдональда и DAHA") |  | [[**e**](https://studio.youtube.com/video/gJkppS7EaH4/edit "Edit")] [Евгений Македонский -- Сплетатели (intertwiners) в двойной аффинной алгебре Гекке.](https://www.youtube.com/watch?v=gJkppS7EaH4 "Сплетатели (intertwiners) в двойной аффинной алгебре Гекке и их действие на полиномах Макдональда.") |
@@ -743,7 +745,6 @@ This list includes either *unlisted* videos, or videos from other channels, avai
 
 |Date|Playlists|Links|Video title|Channel|
 |---|---|---|---|---|
-| Thu&nbsp;10&nbsp;Jun&nbsp;2021 | [NN20](./playlists/NN20 "2020-2021 лекции Никиты Некрасова"), [SW](./playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") |  | [[**e**](https://studio.youtube.com/video/oDKdnYFe_4k/edit "Edit")] [Никита Некрасов -- 21. Связь с теорией суперструн](https://www.youtube.com/watch?v=oDKdnYFe_4k) | [Mathematical Physics School](https://www.youtube.com/channel/UCRACd55YrSwO8Fuy4Nx2oAA) |
 | Mon&nbsp;12&nbsp;Oct&nbsp;2020 | [Fn20](./playlists/Fn20 "2020 Michael Finkelberg -- Geometric Representation Theory") |  | [[**e**](https://studio.youtube.com/video/qVrKsO7RKNc/edit "Edit")] [Lecture 2](https://www.youtube.com/watch?v=qVrKsO7RKNc) | [Artem Prikhodko](https://www.youtube.com/channel/UCpp6vBHLy_adyXWup9mw3OA) |
 | Fri&nbsp;13&nbsp;Nov&nbsp;2020 | [Fn20](./playlists/Fn20 "2020 Michael Finkelberg -- Geometric Representation Theory") |  | [[**e**](https://studio.youtube.com/video/nkmeocHoaZ8/edit "Edit")] [Lecture 3](https://www.youtube.com/watch?v=nkmeocHoaZ8) | [Artem Prikhodko](https://www.youtube.com/channel/UCpp6vBHLy_adyXWup9mw3OA) |
 | Wed&nbsp;21&nbsp;Oct&nbsp;2020 | [Fn20](./playlists/Fn20 "2020 Michael Finkelberg -- Geometric Representation Theory") |  | [[**e**](https://studio.youtube.com/video/pNuwiRTWAlk/edit "Edit")] [Lecture 4](https://www.youtube.com/watch?v=pNuwiRTWAlk) | [Artem Prikhodko](https://www.youtube.com/channel/UCpp6vBHLy_adyXWup9mw3OA) |
@@ -757,5 +758,3 @@ This list includes either *unlisted* videos, or videos from other channels, avai
 | Thu&nbsp;17&nbsp;Dec&nbsp;2020 | [Fn20](./playlists/Fn20 "2020 Michael Finkelberg -- Geometric Representation Theory") |  | [[**e**](https://studio.youtube.com/video/QYwezcEDVpY/edit "Edit")] [Lecture 12](https://www.youtube.com/watch?v=QYwezcEDVpY) | [Artem Prikhodko](https://www.youtube.com/channel/UCpp6vBHLy_adyXWup9mw3OA) |
 | Fri&nbsp;25&nbsp;Dec&nbsp;2020 | [Fn20](./playlists/Fn20 "2020 Michael Finkelberg -- Geometric Representation Theory") |  | [[**e**](https://studio.youtube.com/video/BdKrPZ5oZtQ/edit "Edit")] [Lecture 13](https://www.youtube.com/watch?v=BdKrPZ5oZtQ) | [Artem Prikhodko](https://www.youtube.com/channel/UCpp6vBHLy_adyXWup9mw3OA) |
 | Thu&nbsp;31&nbsp;Dec&nbsp;2020 | [Fn20](./playlists/Fn20 "2020 Michael Finkelberg -- Geometric Representation Theory") |  | [[**e**](https://studio.youtube.com/video/e78dvwFNnpE/edit "Edit")] [Lecture 14](https://www.youtube.com/watch?v=e78dvwFNnpE) | [Artem Prikhodko](https://www.youtube.com/channel/UCpp6vBHLy_adyXWup9mw3OA) |
-| Thu&nbsp;10&nbsp;Jun&nbsp;2021 | [W20](./playlists/W20 "2020 W algebras and related topics") |  | [[**e**](https://studio.youtube.com/video/PBZQyP_rMlk/edit "Edit")] [Н. Сафонкин — Y=W (3/3)](https://www.youtube.com/watch?v=PBZQyP_rMlk) | [Mathematical Physics School](https://www.youtube.com/channel/UCRACd55YrSwO8Fuy4Nx2oAA) |
-| Thu&nbsp;10&nbsp;Jun&nbsp;2021 | [NN20](./playlists/NN20 "2020-2021 лекции Никиты Некрасова"), [SW](./playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") |  | [[**e**](https://studio.youtube.com/video/oDKdnYFe_4k/edit "Edit")] [Никита Некрасов -- 21. Связь с теорией суперструн](https://www.youtube.com/watch?v=oDKdnYFe_4k) | [Mathematical Physics School](https://www.youtube.com/channel/UCRACd55YrSwO8Fuy4Nx2oAA) |

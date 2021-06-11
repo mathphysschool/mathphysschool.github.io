@@ -1,6 +1,6 @@
 # Contents of the playlist [2021 STIMaRT — зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”](https://www.youtube.com/playlist?list=PLLGkFbxve6715BbdgBYSEd2fEczrpt4jV)
 
-This page updated: Fri 11 Jun 2021 03:28:54
+This page updated: Fri 11 Jun 2021 22:12:48
 
 Number of videos: [16](#videos)
 
