@@ -1,10 +1,10 @@
 # Contents of the youtube channel [Видеозаписи Независимого Московского Университета](https://www.youtube.com/channel/UCpi8qkXE7-q3TY19lIgO_Kw)
 
-This page updated: Fri 11 Jun 2021 22:13:19
+This page updated: Fri 18 Jun 2021 19:20:16
 
 Number of playlists: [195](#playlists)
 
-Number of videos: [1962](#videos)
+Number of videos: [1963](#videos)
 
 Number of other videos: [8](#other-videos)
 
@@ -26,7 +26,7 @@ Number of other videos: [8](#other-videos)
 | Feb&nbsp;2021 | [184](./playlists/184 "Н.Курносов, И.Яковлев. Геометрия и топология многообразий Штейна. Весна 2021г.") | [**[1]**](https://ium.mccme.ru/s21/s21-NikonAndIvan.html) | [Н.Курносов, И.Яковлев. Геометрия и топология многообразий Штейна. Весна 2021г.](https://www.youtube.com/playlist?list=PLp9ABVh6_x4E57Bqu7T9PH3XV9OXzLAIh "https://ium.mccme.ru/s21/s21-NikonAndIvan.html") | [8](./playlists/184.md) |
 | Feb&nbsp;2021 | [183](./playlists/183 "М.Игнатьев. Флаги в бесконечномерных пространствах. Весна 2021г.") | [**[1]**](https://ium.mccme.ru/s21/s21-Ignatev.html) | [М.Игнатьев. Флаги в бесконечномерных пространствах. Весна 2021г.](https://www.youtube.com/playlist?list=PLp9ABVh6_x4E0pjojqQUWDWn93B5xtB8l "https://ium.mccme.ru/s21/s21-Ignatev.html") | [12](./playlists/183.md) |
 | Feb&nbsp;2021 | [182](./playlists/182 "Н.В.Богачёв. Геометрия, арифметика и динамика дискретных групп. Весна 2021г.") |  | [Н.В.Богачёв. Геометрия, арифметика и динамика дискретных групп. Весна 2021г.](https://www.youtube.com/playlist?list=PLp9ABVh6_x4G3ot4UfB7ijHS9XvfuoU_1) | [14](./playlists/182.md) |
-| Feb&nbsp;2021 | [181](./playlists/181 "А.В.Пенской. Дифференциальная геометрия. Весна 2021г.") | [**[1]**](https://ium.mccme.ru/s21/s21-DiffGeom.html) | [А.В.Пенской. Дифференциальная геометрия. Весна 2021г.](https://www.youtube.com/playlist?list=PLp9ABVh6_x4EoScNqVSG_EsZaLbjJLy05 "https://ium.mccme.ru/s21/s21-DiffGeom.html") | [15](./playlists/181.md) |
+| Feb&nbsp;2021 | [181](./playlists/181 "А.В.Пенской. Дифференциальная геометрия. Весна 2021г.") | [**[1]**](https://ium.mccme.ru/s21/s21-DiffGeom.html) | [А.В.Пенской. Дифференциальная геометрия. Весна 2021г.](https://www.youtube.com/playlist?list=PLp9ABVh6_x4EoScNqVSG_EsZaLbjJLy05 "https://ium.mccme.ru/s21/s21-DiffGeom.html") | [18](./playlists/181.md) |
 | Feb&nbsp;2021 | [180](./playlists/180 "В.С.Жгун. Введение в группы и алгебры Ли. Весна 2021г.") | [**[1]**](https://ium.mccme.ru/s21/s21-GrAlgLi.html) | [В.С.Жгун. Введение в группы и алгебры Ли. Весна 2021г.](https://www.youtube.com/playlist?list=PLp9ABVh6_x4FfHvG5m9GUXomUu2O-qBJR "Страница курса - https://ium.mccme.ru/s21/s21-GrAlgLi.html") | [16](./playlists/180.md) |
 | Feb&nbsp;2021 | [179](./playlists/179 "С.В.Шапошников. Анализ-2. Весна 2021г.") | [**[1]**](https://ium.mccme.ru/s21/s21-Analiz2.html) | [С.В.Шапошников. Анализ-2. Весна 2021г.](https://www.youtube.com/playlist?list=PLp9ABVh6_x4FD-8pRBuqUmKCERX47d53D "https://ium.mccme.ru/s21/s21-Analiz2.html") | [12](./playlists/179.md) |
 | Feb&nbsp;2021 | [178](./playlists/178 "А.Л.Городенцев. Алгебра-2. Весна 2021г.") | [**[1]**](https://ium.mccme.ru/s21/s21-Algebra2.html) | [А.Л.Городенцев. Алгебра-2. Весна 2021г.](https://www.youtube.com/playlist?list=PLp9ABVh6_x4FFlGgv933YanQOPRMBntix "https://ium.mccme.ru/s21/s21-Algebra2.html") | [12](./playlists/178.md) |
@@ -214,8 +214,9 @@ Number of other videos: [8](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
-| Thu&nbsp;10&nbsp;Jun&nbsp;2021 | None | [**[1]**](https://ium.mccme.ru/s21/s21-DiffGeom.html) | [[**e**](https://studio.youtube.com/video/Sl5nH6fedbc/edit "Edit")] [Дифференциальная геометрия, лекция 17, А.В.Пенской](https://www.youtube.com/watch?v=Sl5nH6fedbc "https://ium.mccme.ru/s21/s21-DiffGeom.html") |
-| Thu&nbsp;3&nbsp;Jun&nbsp;2021 | None | [**[1]**](https://ium.mccme.ru/s21/s21-DiffGeom.html) | [[**e**](https://studio.youtube.com/video/ATbHI9gb2mU/edit "Edit")] [Дифференциальная геометрия, лекция 16, А.В.Пенской](https://www.youtube.com/watch?v=ATbHI9gb2mU "https://ium.mccme.ru/s21/s21-DiffGeom.html") |
+| Thu&nbsp;17&nbsp;Jun&nbsp;2021 | [181](./playlists/181 "А.В.Пенской. Дифференциальная геометрия. Весна 2021г.") |  | [[**e**](https://studio.youtube.com/video/xBve_j1h02Y/edit "Edit")] [Дифференциальная геометрия, лекция 18, А.В.Пенской](https://www.youtube.com/watch?v=xBve_j1h02Y) |
+| Thu&nbsp;10&nbsp;Jun&nbsp;2021 | [181](./playlists/181 "А.В.Пенской. Дифференциальная геометрия. Весна 2021г.") | [**[1]**](https://ium.mccme.ru/s21/s21-DiffGeom.html) | [[**e**](https://studio.youtube.com/video/Sl5nH6fedbc/edit "Edit")] [Дифференциальная геометрия, лекция 17, А.В.Пенской](https://www.youtube.com/watch?v=Sl5nH6fedbc "https://ium.mccme.ru/s21/s21-DiffGeom.html") |
+| Thu&nbsp;3&nbsp;Jun&nbsp;2021 | [181](./playlists/181 "А.В.Пенской. Дифференциальная геометрия. Весна 2021г.") | [**[1]**](https://ium.mccme.ru/s21/s21-DiffGeom.html) | [[**e**](https://studio.youtube.com/video/ATbHI9gb2mU/edit "Edit")] [Дифференциальная геометрия, лекция 16, А.В.Пенской](https://www.youtube.com/watch?v=ATbHI9gb2mU "https://ium.mccme.ru/s21/s21-DiffGeom.html") |
 | Wed&nbsp;2&nbsp;Jun&nbsp;2021 | [180](./playlists/180 "В.С.Жгун. Введение в группы и алгебры Ли. Весна 2021г.") |  | [[**e**](https://studio.youtube.com/video/QaFedYAa6sA/edit "Edit")] [Введение в группы и алгебры Ли, лекция 16, В.С.Жгун](https://www.youtube.com/watch?v=QaFedYAa6sA) |
 | Wed&nbsp;2&nbsp;Jun&nbsp;2021 | [180](./playlists/180 "В.С.Жгун. Введение в группы и алгебры Ли. Весна 2021г.") |  | [[**e**](https://studio.youtube.com/video/Enj7QVKdamk/edit "Edit")] [Введение в группы и алгебры Ли, лекция 15, В.С.Жгун](https://www.youtube.com/watch?v=Enj7QVKdamk) |
 | Wed&nbsp;2&nbsp;Jun&nbsp;2021 | [188](./playlists/188 "М.Ю.Розенблюм.Теория полей классов II. Весна 2021г.") |  | [[**e**](https://studio.youtube.com/video/xOCk8PGZ_hM/edit "Edit")] [Теория полей классов II, лекция 15, М.Ю.Розенблюм](https://www.youtube.com/watch?v=xOCk8PGZ_hM) |
