@@ -1,8 +1,8 @@
 # Contents of the playlist [семинар "Непертурбативные методы в квантовой теории поля"](https://www.youtube.com/playlist?list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw)
 
-This page updated: Fri 18 Jun 2021 19:19:45
+This page updated: Tue 22 Jun 2021 16:43:02
 
-Number of videos: [34](#videos)
+Number of videos: [35](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -14,6 +14,7 @@ Go to [Mathematical Physics School](../README.md)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Sat&nbsp;19&nbsp;Jun&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/CHfwfWoZ0Cg/edit "Edit")] [Виктор Мишняков - Superintegrability and W-representation of matrix models](https://www.youtube.com/watch?v=CHfwfWoZ0Cg&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;12&nbsp;Jun&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/9tsnRxotrqs/edit "Edit")] [Константин Зарембо - Орбифолды N=4 супер-Янг-Миллса и N=2&#42;: от локализация к AdS/CFT](https://www.youtube.com/watch?v=9tsnRxotrqs&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;5&nbsp;Jun&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/20nOzePgK_U/edit "Edit")] [Артем Александров -  Модель Курамото и феномен синхронизации](https://www.youtube.com/watch?v=20nOzePgK_U&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw "Я расскажу про синхронизацию в модели Курамото на полном графе и графах с более сложной топологией. Покажу, что на полном графе в модели Курамото есть фазовый переход второго рода, а также продемонстрирую что модель на полном графе является почти интегрируемой в специальном случае. Затем затрону графы с более сложной топологией и покажу примеры, когда порядок фазового перехода меняется со второго на первый.") |
 | Sat&nbsp;29&nbsp;May&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/KGc6mOidPu0/edit "Edit")] [Дмитрий Трунин - Particle creation in nonstationary large N models](https://www.youtube.com/watch?v=KGc6mOidPu0&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw "In this talk I discuss particle creation in nonstationary interacting QFTs with &#34;non-kinetic&#34; behavior of loop corrections. First of all, I consider an analog of particle production in a quartic O(N) quantum oscillator with time-dependent frequency, which is a toy model of particle production in de Sitter space and dynamical Casimir effect. I calculate the exact Keldysh propagator in this model and show that in strongly nonstationary situations loop corrections result in an additional &#34;phantom&#34; degree of freedom, N→N+3/2, which modify the average number and energy of created particles. Then I extend this calculation to the dynamical Casimir effect in a two-dimensional nonlinear cavity with weakly (but possibly resonantly) oscillating walls.") |

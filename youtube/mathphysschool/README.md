@@ -1,10 +1,10 @@
 # Contents of the youtube channel [Mathematical Physics School](https://www.youtube.com/channel/UCRACd55YrSwO8Fuy4Nx2oAA)
 
-This page updated: Fri 18 Jun 2021 19:19:41
+This page updated: Tue 22 Jun 2021 16:42:58
 
 Number of playlists: [27](#playlists)
 
-Number of videos: [694](#videos)
+Number of videos: [695](#videos)
 
 Number of other videos: [13](#other-videos)
 
@@ -15,7 +15,7 @@ Number of other videos: [13](#other-videos)
 | Jun&nbsp;2021 | [JT21](./playlists/JT21 "2021 доклады о JT гравитации") |  | [2021 доклады о JT гравитации](https://www.youtube.com/playlist?list=PLLGkFbxve673qZpDb_XSpqWCIjHppooP6) | [6](./playlists/JT21.md) |
 | Jun&nbsp;2021 | [T21](./playlists/T21 "2021 доклады о мастер Т-операторе и квантово-классическом соответствии") |  | [2021 доклады о мастер Т-операторе и квантово-классическом соответствии](https://www.youtube.com/playlist?list=PLLGkFbxve670vmUt8cr9K6qKtUCW1LgWt) | [11](./playlists/T21.md) |
 | Jun&nbsp;2021 | [Misc](./playlists/Misc "Miscellaneous") |  | [Miscellaneous](https://www.youtube.com/playlist?list=PLLGkFbxve672zBD3owZuFwJQR4NF0TA-w) | [4](./playlists/Misc.md) |
-| Jun&nbsp;2021 | [GL](./playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") | [**[1]**](http://strings.itp.ac.ru/wp/?page_id=875) | [семинар &#34;Непертурбативные методы в квантовой теории поля&#34;](https://www.youtube.com/playlist?list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw "страница семинара: http://strings.itp.ac.ru/wp/?page&#95;id=875") | [34](./playlists/GL.md) |
+| Jun&nbsp;2021 | [GL](./playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") | [**[1]**](http://strings.itp.ac.ru/wp/?page_id=875) | [семинар &#34;Непертурбативные методы в квантовой теории поля&#34;](https://www.youtube.com/playlist?list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw "страница семинара: http://strings.itp.ac.ru/wp/?page&#95;id=875") | [35](./playlists/GL.md) |
 | Apr&nbsp;2021 | [Spr21](./playlists/Spr21 "2021 Весенняя студенческая школа по математике и физике") |  | [2021 Весенняя студенческая школа по математике и физике](https://www.youtube.com/playlist?list=PLLGkFbxve6717hq5zOz8EDQmHpyF6Cnc_) | [75](./playlists/Spr21.md) |
 | Apr&nbsp;2021 | [NN20](./playlists/NN20 "2020-2021 лекции Никиты Некрасова") | [**[1]**](https://drive.google.com/drive/folders/1bywmAmsTZX63tYKD0qeo5efzt_Xh7o-h?usp=sharing) | [2020-2021 лекции Никиты Некрасова](https://www.youtube.com/playlist?list=PLLGkFbxve671JhKJp6xfFYCqRTx1XSvVe "записки: https://drive.google.com/drive/folders/1bywmAmsTZX63tYKD0qeo5efzt&#95;Xh7o-h?usp=sharing") | [22](./playlists/NN20.md) |
 | Jan&nbsp;2021 | [Ros21](./playlists/Ros21 "2021 Alexey Rosly - Hitchin systems") |  | [2021 Alexey Rosly - Hitchin systems](https://www.youtube.com/playlist?list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW) | [16](./playlists/Ros21.md) |
@@ -46,6 +46,7 @@ Number of other videos: [13](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Sat&nbsp;19&nbsp;Jun&nbsp;2021 | [GL](./playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/CHfwfWoZ0Cg/edit "Edit")] [Виктор Мишняков - Superintegrability and W-representation of matrix models](https://www.youtube.com/watch?v=CHfwfWoZ0Cg) |
 | Fri&nbsp;18&nbsp;Jun&nbsp;2021 | [W20](./playlists/W20 "2020 W algebras and related topics") |  | [[**e**](https://studio.youtube.com/video/rznsPysIH5A/edit "Edit")] [Г. Коновалов — Явная формула для изоморфизма Маффея](https://www.youtube.com/watch?v=rznsPysIH5A) |
 | Wed&nbsp;16&nbsp;Jun&nbsp;2021 | [Tue](./playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") | [**[1]**](https://drive.google.com/file/d/1KMIA1Onaf98WA2zk4CCklS9Yni5F2nNS/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/Wm4kgZqMEO8/edit "Edit")] [Мария Матушко — q-деформированная цепочка Халдейна–Шастри и спиновая система Руйсенаарса (2/2)](https://www.youtube.com/watch?v=Wm4kgZqMEO8 "ссылка на записки: https://drive.google.com/file/d/1KMIA1Onaf98WA2zk4CCklS9Yni5F2nNS/view?usp=sharing") |
 | Wed&nbsp;16&nbsp;Jun&nbsp;2021 | [Tue](./playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") | [**[1]**](https://drive.google.com/file/d/1hAOykbggN80qSP5HmMBO2YIWElbsN8vL/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/vFS694__KII/edit "Edit")] [Илья Гаюр — Иррегулярные изомонодромные деформации — гамильтонов формализм (4/4)](https://www.youtube.com/watch?v=vFS694__KII "ссылка на записки: https://drive.google.com/file/d/1hAOykbggN80qSP5HmMBO2YIWElbsN8vL/view?usp=sharing") |

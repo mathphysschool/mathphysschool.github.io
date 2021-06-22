@@ -1,6 +1,6 @@
 # Contents of the playlist [2020 Зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”](https://www.youtube.com/playlist?list=PLLGkFbxve673Bx5y3iiJEunDe_6ZHxUk2)
 
-This page updated: Fri 18 Jun 2021 19:19:47
+This page updated: Tue 22 Jun 2021 16:43:05
 
 Number of videos: [26](#videos)
 

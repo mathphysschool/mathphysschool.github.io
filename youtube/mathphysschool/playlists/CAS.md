@@ -1,6 +1,6 @@
 # Contents of the playlist [Seminar on Mondays, Center for Advanced Studies, Skoltech](https://www.youtube.com/playlist?list=PLLGkFbxve671CJLpp5w3X4qjvS5u8GBMp)
 
-This page updated: Fri 18 Jun 2021 19:19:48
+This page updated: Tue 22 Jun 2021 16:43:05
 
 Number of videos: [60](#videos)
 

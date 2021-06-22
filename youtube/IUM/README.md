@@ -1,6 +1,6 @@
 # Contents of the youtube channel [Видеозаписи Независимого Московского Университета](https://www.youtube.com/channel/UCpi8qkXE7-q3TY19lIgO_Kw)
 
-This page updated: Fri 18 Jun 2021 19:20:16
+This page updated: Tue 22 Jun 2021 16:43:33
 
 Number of playlists: [195](#playlists)
 
