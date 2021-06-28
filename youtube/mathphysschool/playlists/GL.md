@@ -1,8 +1,8 @@
 # Contents of the playlist [семинар "Непертурбативные методы в квантовой теории поля"](https://www.youtube.com/playlist?list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw)
 
-This page updated: Tue 22 Jun 2021 16:43:02
+This page updated: Mon 28 Jun 2021 17:11:08
 
-Number of videos: [35](#videos)
+Number of videos: [36](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -14,6 +14,7 @@ Go to [Mathematical Physics School](../README.md)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Sat&nbsp;26&nbsp;Jun&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") | [**[1]**](https://arxiv.org/abs/2106.01238) | [[**e**](https://studio.youtube.com/video/bzhi7wTHxmU/edit "Edit")] [Сергей Лукьянов - Generalized  affine sl(2)  Gaudin model](https://www.youtube.com/watch?v=bzhi7wTHxmU&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw "Based on https://arxiv.org/abs/2106.01238") |
 | Sat&nbsp;19&nbsp;Jun&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/CHfwfWoZ0Cg/edit "Edit")] [Виктор Мишняков - Superintegrability and W-representation of matrix models](https://www.youtube.com/watch?v=CHfwfWoZ0Cg&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;12&nbsp;Jun&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/9tsnRxotrqs/edit "Edit")] [Константин Зарембо - Орбифолды N=4 супер-Янг-Миллса и N=2&#42;: от локализация к AdS/CFT](https://www.youtube.com/watch?v=9tsnRxotrqs&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;5&nbsp;Jun&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/20nOzePgK_U/edit "Edit")] [Артем Александров -  Модель Курамото и феномен синхронизации](https://www.youtube.com/watch?v=20nOzePgK_U&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw "Я расскажу про синхронизацию в модели Курамото на полном графе и графах с более сложной топологией. Покажу, что на полном графе в модели Курамото есть фазовый переход второго рода, а также продемонстрирую что модель на полном графе является почти интегрируемой в специальном случае. Затем затрону графы с более сложной топологией и покажу примеры, когда порядок фазового перехода меняется со второго на первый.") |

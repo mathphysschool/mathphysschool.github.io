@@ -1,10 +1,10 @@
 # Contents of the youtube channel [Видеозаписи Независимого Московского Университета](https://www.youtube.com/channel/UCpi8qkXE7-q3TY19lIgO_Kw)
 
-This page updated: Tue 22 Jun 2021 16:43:33
+This page updated: Mon 28 Jun 2021 17:11:33
 
 Number of playlists: [195](#playlists)
 
-Number of videos: [1963](#videos)
+Number of videos: [1964](#videos)
 
 Number of other videos: [8](#other-videos)
 
@@ -214,6 +214,7 @@ Number of other videos: [8](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Thu&nbsp;24&nbsp;Jun&nbsp;2021 | None | [**[1]**](https://zykin.mccme.ru) | [[**e**](https://studio.youtube.com/video/nZMFGGaTTLo/edit "Edit")] [Мемориальная конференция «Теория чисел и геометрия» памяти Алексея Зыкина.](https://www.youtube.com/watch?v=nZMFGGaTTLo "Сайт конференции: https://zykin.mccme.ru&#013;Москва, Независимый московский университет, ауд. 401, 24 июня 2021 г.&#013;&#013;&#013;11:00—12:00 Анна Тутубалина&#013;Конструкции pipe dreams для многочленов Шуберта типов B, C и D&#013;&#013;12:15—13:15 Дмитрий Адлер&#013;Формы Якоби и системы корней&#013;&#013;14:30—15:30 Ольга Балканова&#013;Теорема о простых геодезических&#013;&#013;15:40—17:20 Вадим Вологодский&#013;Мотивная дзета-функция&#013;(совместно с семинаром «Глобус»).") |
 | Thu&nbsp;17&nbsp;Jun&nbsp;2021 | [181](./playlists/181 "А.В.Пенской. Дифференциальная геометрия. Весна 2021г.") |  | [[**e**](https://studio.youtube.com/video/xBve_j1h02Y/edit "Edit")] [Дифференциальная геометрия, лекция 18, А.В.Пенской](https://www.youtube.com/watch?v=xBve_j1h02Y) |
 | Thu&nbsp;10&nbsp;Jun&nbsp;2021 | [181](./playlists/181 "А.В.Пенской. Дифференциальная геометрия. Весна 2021г.") | [**[1]**](https://ium.mccme.ru/s21/s21-DiffGeom.html) | [[**e**](https://studio.youtube.com/video/Sl5nH6fedbc/edit "Edit")] [Дифференциальная геометрия, лекция 17, А.В.Пенской](https://www.youtube.com/watch?v=Sl5nH6fedbc "https://ium.mccme.ru/s21/s21-DiffGeom.html") |
 | Thu&nbsp;3&nbsp;Jun&nbsp;2021 | [181](./playlists/181 "А.В.Пенской. Дифференциальная геометрия. Весна 2021г.") | [**[1]**](https://ium.mccme.ru/s21/s21-DiffGeom.html) | [[**e**](https://studio.youtube.com/video/ATbHI9gb2mU/edit "Edit")] [Дифференциальная геометрия, лекция 16, А.В.Пенской](https://www.youtube.com/watch?v=ATbHI9gb2mU "https://ium.mccme.ru/s21/s21-DiffGeom.html") |
