@@ -1,10 +1,10 @@
 # Contents of the youtube channel [Mathematical Physics School](https://www.youtube.com/channel/UCRACd55YrSwO8Fuy4Nx2oAA)
 
-This page updated: Mon 28 Jun 2021 17:11:05
+This page updated: Thu 8 Jul 2021 02:01:06
 
 Number of playlists: [27](#playlists)
 
-Number of videos: [697](#videos)
+Number of videos: [698](#videos)
 
 Number of other videos: [13](#other-videos)
 
@@ -46,6 +46,7 @@ Number of other videos: [13](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Fri&nbsp;2&nbsp;Jul&nbsp;2021 | None |  | [[**e**](https://studio.youtube.com/video/993i1otOXI0/edit "Edit")] [Г. Коновалов — Изоморфизм между колчанными многообразия и срезами в аффинном грассманиане.](https://www.youtube.com/watch?v=993i1otOXI0) |
 | Sat&nbsp;26&nbsp;Jun&nbsp;2021 | [GL](./playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") | [**[1]**](https://arxiv.org/abs/2106.01238) | [[**e**](https://studio.youtube.com/video/bzhi7wTHxmU/edit "Edit")] [Сергей Лукьянов - Generalized  affine sl(2)  Gaudin model](https://www.youtube.com/watch?v=bzhi7wTHxmU "Based on https://arxiv.org/abs/2106.01238") |
 | Fri&nbsp;25&nbsp;Jun&nbsp;2021 | [W20](./playlists/W20 "2020-2021 W algebras and related topics") |  | [[**e**](https://studio.youtube.com/video/6TtlfZQdhKs/edit "Edit")] [Г. Коновалов — Явная формула для изоморфизма Маффея (2/2)](https://www.youtube.com/watch?v=6TtlfZQdhKs) |
 | Sat&nbsp;19&nbsp;Jun&nbsp;2021 | [GL](./playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/CHfwfWoZ0Cg/edit "Edit")] [Виктор Мишняков - Superintegrability and W-representation of matrix models](https://www.youtube.com/watch?v=CHfwfWoZ0Cg) |
