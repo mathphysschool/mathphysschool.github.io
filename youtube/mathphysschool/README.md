@@ -1,10 +1,10 @@
 # Contents of the youtube channel [Mathematical Physics School](https://www.youtube.com/channel/UCRACd55YrSwO8Fuy4Nx2oAA)
 
-This page updated: Thu 8 Jul 2021 02:01:06
+This page updated: Mon 20 Sep 2021 15:12:04
 
-Number of playlists: [27](#playlists)
+Number of playlists: [29](#playlists)
 
-Number of videos: [698](#videos)
+Number of videos: [703](#videos)
 
 Number of other videos: [13](#other-videos)
 
@@ -12,6 +12,8 @@ Number of other videos: [13](#other-videos)
 
 |Date|Label|Links|Playlist title|Videos|
 |---|---|---|---|--:|
+| Sep&nbsp;2021 | [PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU](./playlists/PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU "2021 Grigory Olshanski -- Symmetric functions") |  | [2021 Grigory Olshanski -- Symmetric functions](https://www.youtube.com/playlist?list=PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU) | [1](./playlists/PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU.md) |
+| Sep&nbsp;2021 | [PLLGkFbxve673NIHezZTurCNSpuf8keZS1](./playlists/PLLGkFbxve673NIHezZTurCNSpuf8keZS1 "2021 Mikhail Bershtein -- Affine Quantum Groups") |  | [2021 Mikhail Bershtein -- Affine Quantum Groups](https://www.youtube.com/playlist?list=PLLGkFbxve673NIHezZTurCNSpuf8keZS1) | [1](./playlists/PLLGkFbxve673NIHezZTurCNSpuf8keZS1.md) |
 | Jun&nbsp;2021 | [JT21](./playlists/JT21 "2021 доклады о JT гравитации") |  | [2021 доклады о JT гравитации](https://www.youtube.com/playlist?list=PLLGkFbxve673qZpDb_XSpqWCIjHppooP6) | [6](./playlists/JT21.md) |
 | Jun&nbsp;2021 | [T21](./playlists/T21 "2021 доклады о мастер Т-операторе и квантово-классическом соответствии") |  | [2021 доклады о мастер Т-операторе и квантово-классическом соответствии](https://www.youtube.com/playlist?list=PLLGkFbxve670vmUt8cr9K6qKtUCW1LgWt) | [11](./playlists/T21.md) |
 | Jun&nbsp;2021 | [Misc](./playlists/Misc "Miscellaneous") |  | [Miscellaneous](https://www.youtube.com/playlist?list=PLLGkFbxve672zBD3owZuFwJQR4NF0TA-w) | [4](./playlists/Misc.md) |
@@ -23,7 +25,7 @@ Number of other videos: [13](#other-videos)
 | Jan&nbsp;2021 | [QM21](./playlists/QM21 "2021 Владимир Лосяков, Павел Гавриленко -- Введение в квантовую теорию") | [**[1]**](https://disk.yandex.ru/d/apQ3q2WW1ekSXA) | [2021 Владимир Лосяков, Павел Гавриленко -- Введение в квантовую теорию](https://www.youtube.com/playlist?list=PLLGkFbxve671m3Mbzhw8w_YpUB8l0hcnQ "Материалы курса: https://disk.yandex.ru/d/apQ3q2WW1ekSXA") | [36](./playlists/QM21.md) |
 | Jan&nbsp;2021 | [Wint21](./playlists/Wint21 "2021 STIMaRT — зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") | [**[1]**](https://crei.skoltech.ru/cas/ru/calendar-ru/stimart6r/), [**[2]**](https://drive.google.com/drive/folders/1sUnnJhXvt84X3f6MpJ69qCS6mSZ-zBRR?usp=sharing) | [2021 STIMaRT — зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”](https://www.youtube.com/playlist?list=PLLGkFbxve6715BbdgBYSEd2fEczrpt4jV "сайт школы: https://crei.skoltech.ru/cas/ru/calendar-ru/stimart6r/&#013;&#013;6-ая зимняя школа-конференция&#013;“Теория струн, интегрируемые модели и теория представлений”&#013;11-16 января 2021 г. / Zoom&#013;&#013;Записки лекций: https://drive.google.com/drive/folders/1sUnnJhXvt84X3f6MpJ69qCS6mSZ-zBRR?usp=sharing") | [16](./playlists/Wint21.md) |
 | Nov&nbsp;2020 | [Vert20](./playlists/Vert20 "2020 Vertex algebras and tensor categories") |  | [2020 Vertex algebras and tensor categories](https://www.youtube.com/playlist?list=PLLGkFbxve670tIZPb0CDm1Wc060TE1x3c) | [9](./playlists/Vert20.md) |
-| Nov&nbsp;2020 | [Tue](./playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [семинар &#34;Методы классических и квантовых интегрируемых систем&#34;](https://www.youtube.com/playlist?list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC) | [49](./playlists/Tue.md) |
+| Nov&nbsp;2020 | [Tue](./playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [семинар &#34;Методы классических и квантовых интегрируемых систем&#34;](https://www.youtube.com/playlist?list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC) | [51](./playlists/Tue.md) |
 | Sep&nbsp;2020 | [Shl20](./playlists/Shl20 "2020 Semen Shlosman -- Phase transitions in percolation and statphysics") |  | [2020 Semen Shlosman -- Phase transitions in percolation and statphysics](https://www.youtube.com/playlist?list=PLLGkFbxve672jbDwYkB6W8MczUfSF9FdJ) | [12](./playlists/Shl20.md) |
 | Sep&nbsp;2020 | [W20](./playlists/W20 "2020-2021 W algebras and related topics") |  | [2020-2021 W algebras and related topics](https://www.youtube.com/playlist?list=PLLGkFbxve671LF1xGQALPBO64RBkTPuzZ) | [33](./playlists/W20.md) |
 | Sep&nbsp;2020 | [Olsh20](./playlists/Olsh20 "2020 G.Olshanski -- Representations of classical groups and related topics") |  | [2020 G.Olshanski -- Representations of classical groups and related topics](https://www.youtube.com/playlist?list=PLLGkFbxve670ADsVxwRJVunxz2v3ghcOQ) | [12](./playlists/Olsh20.md) |
@@ -46,6 +48,11 @@ Number of other videos: [13](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Sat&nbsp;18&nbsp;Sep&nbsp;2021 | None |  | [[**e**](https://studio.youtube.com/video/oBhWiom2-ao/edit "Edit")] [Алексей Милехин - Charge fluctuation entropy of Hawking radiation: a replica-free way to find large](https://www.youtube.com/watch?v=oBhWiom2-ao) |
+| Thu&nbsp;16&nbsp;Sep&nbsp;2021 | [PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU](./playlists/PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU "2021 Grigory Olshanski -- Symmetric functions") |  | [[**e**](https://studio.youtube.com/video/zeROoRoIggw/edit "Edit")] [Grigory Olshanski -- Symmetric functions 1.](https://www.youtube.com/watch?v=zeROoRoIggw) |
+| Tue&nbsp;14&nbsp;Sep&nbsp;2021 | [Tue](./playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") | [**[1]**](https://drive.google.com/file/d/1mpaw9-Racht0SSHWBUU9odaak_Acpqf0/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/7wA1OXvTZXw/edit "Edit")] [Михаил Васильев -- Алгебры Гекке, уравнения Книжника-Замолодчикова и интегрируемые системы (1/3)](https://www.youtube.com/watch?v=7wA1OXvTZXw "записки: https://drive.google.com/file/d/1mpaw9-Racht0SSHWBUU9odaak&#95;Acpqf0/view?usp=sharing&#013;&#013;Я расскажу о том, как при помощи алгебр Гекке можно писать уравнения Книжника-Замолодчикова и как из них получать квантовые системы Калоджеро/Тоды.") |
+| Tue&nbsp;14&nbsp;Sep&nbsp;2021 | [Tue](./playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") | [**[1]**](https://drive.google.com/file/d/11H2QaLSXuJex18esFEI3zOnfb5Rn-419/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/OrM-6NBmXUk/edit "Edit")] [Ирина Боброва -- Симметрии второго уравнения Пенлеве (1/3)](https://www.youtube.com/watch?v=OrM-6NBmXUk "записки: https://drive.google.com/file/d/11H2QaLSXuJex18esFEI3zOnfb5Rn-419/view?usp=sharing") |
+| Tue&nbsp;14&nbsp;Sep&nbsp;2021 | [PLLGkFbxve673NIHezZTurCNSpuf8keZS1](./playlists/PLLGkFbxve673NIHezZTurCNSpuf8keZS1 "2021 Mikhail Bershtein -- Affine Quantum Groups") |  | [[**e**](https://studio.youtube.com/video/jD_-d8PW1l8/edit "Edit")] [Affine quantum groups Lecture 1](https://www.youtube.com/watch?v=jD_-d8PW1l8) |
 | Fri&nbsp;2&nbsp;Jul&nbsp;2021 | None |  | [[**e**](https://studio.youtube.com/video/993i1otOXI0/edit "Edit")] [Г. Коновалов — Изоморфизм между колчанными многообразия и срезами в аффинном грассманиане.](https://www.youtube.com/watch?v=993i1otOXI0) |
 | Sat&nbsp;26&nbsp;Jun&nbsp;2021 | [GL](./playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") | [**[1]**](https://arxiv.org/abs/2106.01238) | [[**e**](https://studio.youtube.com/video/bzhi7wTHxmU/edit "Edit")] [Сергей Лукьянов - Generalized  affine sl(2)  Gaudin model](https://www.youtube.com/watch?v=bzhi7wTHxmU "Based on https://arxiv.org/abs/2106.01238") |
 | Fri&nbsp;25&nbsp;Jun&nbsp;2021 | [W20](./playlists/W20 "2020-2021 W algebras and related topics") |  | [[**e**](https://studio.youtube.com/video/6TtlfZQdhKs/edit "Edit")] [Г. Коновалов — Явная формула для изоморфизма Маффея (2/2)](https://www.youtube.com/watch?v=6TtlfZQdhKs) |
