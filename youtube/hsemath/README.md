@@ -1,12 +1,12 @@
 # Contents of the youtube channel [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg)
 
-This page updated: Mon 20 Sep 2021 15:12:10
+This page updated: Mon 20 Sep 2021 15:22:44
 
 Number of playlists: [223](#playlists)
 
 Number of videos: [2176](#videos)
 
-Number of other videos: [131](#other-videos)
+Number of other videos: [132](#other-videos)
 
 ## Playlists
 
@@ -25,7 +25,7 @@ Number of other videos: [131](#other-videos)
 | Sep&nbsp;2021 | [213](./playlists/213 "Колесников А.В. Введение в теорию вероятностей, осень 2021") |  | [Колесников А.В. Введение в теорию вероятностей, осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoApMWuh9pZS8SGVufOJhneT) | [1](./playlists/213.md) |
 | Sep&nbsp;2021 | [212](./playlists/212 "Жгун В.С. Теория полей классов. Осень 2021.") |  | [Жгун В.С. Теория полей классов. Осень 2021.](https://www.youtube.com/playlist?list=PLq3E5oubNNoBrf4WpDqw-w94shk0jMs0Z) | [2](./playlists/212.md) |
 | Sep&nbsp;2021 | [211](./playlists/211 "А.Клименко, В.Тиморин. Геометрия и динамика. Осень 2021") |  | [А.Клименко, В.Тиморин. Геометрия и динамика. Осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoDUEhSn6ruzvKmSNeRBtR_j) | [2](./playlists/211.md) |
-| Sep&nbsp;2021 | [210](./playlists/210 "Дымов А.В. Цепи Маркова, осень 2021") |  | [Дымов А.В. Цепи Маркова, осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoAEeFeGKdD4yxH-VdHbiEeO) | [1](./playlists/210.md) |
+| Sep&nbsp;2021 | [210](./playlists/210 "Дымов А.В. Цепи Маркова, осень 2021") |  | [Дымов А.В. Цепи Маркова, осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoAEeFeGKdD4yxH-VdHbiEeO) | [2](./playlists/210.md) |
 | Sep&nbsp;2021 | [209](./playlists/209 "Рыбников Л.Г., Теория представлений, осень 2021") |  | [Рыбников Л.Г., Теория представлений, осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoDppC1wQZsy8q5c3ZXE_iSF) | [3](./playlists/209.md) |
 | Sep&nbsp;2021 | [208](./playlists/208 "Гайфуллин А. Группы классов отображений. Осень 2021") |  | [Гайфуллин А. Группы классов отображений. Осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoDi6ACF5LfG3vqoP2-fznwf) | [2](./playlists/208.md) |
 | Sep&nbsp;2021 | [207](./playlists/207 "Гайфуллин А. Группы классов отображений. Осень 2021") |  | [Гайфуллин А. Группы классов отображений. Осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoAmYXjrYvptif63ZtJ7GXIb) | [0](./playlists/207.md) |
@@ -2435,6 +2435,7 @@ This list includes either *unlisted* videos, or videos from other channels, avai
 | Mon&nbsp;20&nbsp;Sep&nbsp;2021 | [212](./playlists/212 "Жгун В.С. Теория полей классов. Осень 2021.") |  | [[**e**](https://studio.youtube.com/video/hv9GGZV8WhI/edit "Edit")] [Жгун В.С. Теория полей классов. 21.09.21](https://www.youtube.com/watch?v=hv9GGZV8WhI) | [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg) |
 | Wed&nbsp;15&nbsp;Sep&nbsp;2021 | [211](./playlists/211 "А.Клименко, В.Тиморин. Геометрия и динамика. Осень 2021") |  | [[**e**](https://studio.youtube.com/video/J18EXlURyHg/edit "Edit")] [А.Клименко, В.Тиморин. Геометрия и динамика. 20.09.2021](https://www.youtube.com/watch?v=J18EXlURyHg) | [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg) |
 | Fri&nbsp;10&nbsp;Sep&nbsp;2021 | [210](./playlists/210 "Дымов А.В. Цепи Маркова, осень 2021") |  | [[**e**](https://studio.youtube.com/video/wfuNSUG1Qco/edit "Edit")] [Дымов А.В. Цепи Маркова, 17.09.2021](https://www.youtube.com/watch?v=wfuNSUG1Qco "Markov Chains (associate prof.Dymov A.) 2021") | [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg) |
+| Mon&nbsp;20&nbsp;Sep&nbsp;2021 | [210](./playlists/210 "Дымов А.В. Цепи Маркова, осень 2021") |  | [[**e**](https://studio.youtube.com/video/S8Br99-Er94/edit "Edit")] [Private video](https://www.youtube.com/watch?v=S8Br99-Er94 "This video is private.") | Unknown |
 | Fri&nbsp;17&nbsp;Sep&nbsp;2021 | [209](./playlists/209 "Рыбников Л.Г., Теория представлений, осень 2021") |  | [[**e**](https://studio.youtube.com/video/bsrdRekQ0i0/edit "Edit")] [Рыбников Л.Г. Теория представлений. 21 сентября 2021](https://www.youtube.com/watch?v=bsrdRekQ0i0) | [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg) |
 | Thu&nbsp;16&nbsp;Sep&nbsp;2021 | [205](./playlists/205 "Пенской А.В. Комплексная геометрия. Осень 2021") |  | [[**e**](https://studio.youtube.com/video/qPZUp-vPoYE/edit "Edit")] [Deleted video](https://www.youtube.com/watch?v=qPZUp-vPoYE "This video is unavailable.") | Unknown |
 | Wed&nbsp;8&nbsp;Sep&nbsp;2021 | [204](./playlists/204 "Калмынин А.Б. Введение в алгебраическую теорию чисел, осень 2021") |  | [[**e**](https://studio.youtube.com/video/cO7WI1RSl1U/edit "Edit")] [Private video](https://www.youtube.com/watch?v=cO7WI1RSl1U "This video is private.") | Unknown |
