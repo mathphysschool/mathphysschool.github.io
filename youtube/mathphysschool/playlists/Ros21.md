@@ -1,6 +1,6 @@
 # Contents of the playlist [2021 Alexey Rosly - Hitchin systems](https://www.youtube.com/playlist?list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW)
 
-This page updated: Mon 20 Sep 2021 15:22:42
+This page updated: Mon 27 Sep 2021 06:49:23
 
 Number of videos: [16](#videos)
 
@@ -14,8 +14,8 @@ Go to [Mathematical Physics School](../README.md)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
-| Mon&nbsp;25&nbsp;Jan&nbsp;2021 | [Ros21](../playlists/Ros21 "2021 Alexey Rosly - Hitchin systems") |  | [[**e**](https://studio.youtube.com/video/2Uu444qaEiY/edit "Edit")] [Николай Семенякин - Разделение переменных в цепочке Тоды](https://www.youtube.com/watch?v=2Uu444qaEiY&list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW) |
-| Sun&nbsp;7&nbsp;Feb&nbsp;2021 | [Ros21](../playlists/Ros21 "2021 Alexey Rosly - Hitchin systems") |  | [[**e**](https://studio.youtube.com/video/Woe0NmDehZ4/edit "Edit")] [Николай Семенякин - Комментарии к задачам по разделению переменных](https://www.youtube.com/watch?v=Woe0NmDehZ4&list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW) |
+| Tue&nbsp;26&nbsp;Jan&nbsp;2021 | [Ros21](../playlists/Ros21 "2021 Alexey Rosly - Hitchin systems") |  | [[**e**](https://studio.youtube.com/video/2Uu444qaEiY/edit "Edit")] [Николай Семенякин - Разделение переменных в цепочке Тоды](https://www.youtube.com/watch?v=2Uu444qaEiY&list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW) |
+| Mon&nbsp;8&nbsp;Feb&nbsp;2021 | [Ros21](../playlists/Ros21 "2021 Alexey Rosly - Hitchin systems") |  | [[**e**](https://studio.youtube.com/video/Woe0NmDehZ4/edit "Edit")] [Николай Семенякин - Комментарии к задачам по разделению переменных](https://www.youtube.com/watch?v=Woe0NmDehZ4&list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW) |
 | Tue&nbsp;9&nbsp;Feb&nbsp;2021 | [Ros21](../playlists/Ros21 "2021 Alexey Rosly - Hitchin systems") |  | [[**e**](https://studio.youtube.com/video/DRZ30bki4gE/edit "Edit")] [Alexey Rosly -- Holomorphic vector bundles](https://www.youtube.com/watch?v=DRZ30bki4gE&list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW) |
 | Tue&nbsp;16&nbsp;Feb&nbsp;2021 | [Ros21](../playlists/Ros21 "2021 Alexey Rosly - Hitchin systems") |  | [[**e**](https://studio.youtube.com/video/mjRgWsqkcf8/edit "Edit")] [Alexey Rosly -- Cohomologies of holomorphic bundles - 1](https://www.youtube.com/watch?v=mjRgWsqkcf8&list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW) |
 | Sun&nbsp;21&nbsp;Feb&nbsp;2021 | [Ros21](../playlists/Ros21 "2021 Alexey Rosly - Hitchin systems") |  | [[**e**](https://studio.youtube.com/video/LHastsrcYnw/edit "Edit")] [Alexey Rosly -- Cohomologies of holomorphic bundles - 2](https://www.youtube.com/watch?v=LHastsrcYnw&list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW) |
