@@ -1,6 +1,6 @@
 # Contents of the playlist [2021 Grigory Olshanski -- Symmetric functions](https://www.youtube.com/playlist?list=PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU)
 
-This page updated: Sun 3 Oct 2021 18:29:15
+This page updated: Sun 3 Oct 2021 19:35:43
 
 Number of videos: [3](#videos)
 

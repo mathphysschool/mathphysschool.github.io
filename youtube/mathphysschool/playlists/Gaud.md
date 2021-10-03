@@ -1,6 +1,6 @@
 # Contents of the playlist [2021-2022 Gaudin model and related topics](https://www.youtube.com/playlist?list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX)
 
-This page updated: Sun 3 Oct 2021 18:29:15
+This page updated: Sun 3 Oct 2021 19:35:43
 
 Number of videos: [1](#videos)
 

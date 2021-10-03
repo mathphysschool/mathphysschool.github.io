@@ -1,6 +1,6 @@
 # Contents of the playlist [семинар "Методы классических и квантовых интегрируемых систем"](https://www.youtube.com/playlist?list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC)
 
-This page updated: Sun 3 Oct 2021 18:29:15
+This page updated: Sun 3 Oct 2021 19:35:43
 
 Number of videos: [53](#videos)
 
