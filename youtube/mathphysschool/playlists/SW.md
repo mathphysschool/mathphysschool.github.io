@@ -1,6 +1,6 @@
 # Contents of the playlist [2020 семинар по теории Зайберга-Виттена и интегрируемым системам](https://www.youtube.com/playlist?list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk)
 
-This page updated: Wed 6 Oct 2021 03:17:50
+This page updated: Wed 6 Oct 2021 03:24:52
 
 Number of videos: [52](#videos)
 
