@@ -1,6 +1,6 @@
 # Contents of the playlist [2021 Alexey Rosly - Hitchin systems](https://www.youtube.com/playlist?list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW)
 
-This page updated: Sun 3 Oct 2021 19:35:43
+This page updated: Wed 6 Oct 2021 03:17:50
 
 Number of videos: [16](#videos)
 

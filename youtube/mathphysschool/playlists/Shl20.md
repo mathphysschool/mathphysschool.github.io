@@ -1,6 +1,6 @@
 # Contents of the playlist [2020 Semen Shlosman -- Phase transitions in percolation and statphysics](https://www.youtube.com/playlist?list=PLLGkFbxve672jbDwYkB6W8MczUfSF9FdJ)
 
-This page updated: Sun 3 Oct 2021 19:35:43
+This page updated: Wed 6 Oct 2021 03:17:50
 
 Number of videos: [12](#videos)
 

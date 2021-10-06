@@ -1,8 +1,8 @@
 # Contents of the playlist [семинары по математической физике на матфаке ВШЭ и в Сколтехе](https://www.youtube.com/playlist?list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1)
 
-This page updated: Sun 3 Oct 2021 19:35:43
+This page updated: Wed 6 Oct 2021 03:17:50
 
-Number of videos: [96](#videos)
+Number of videos: [97](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -110,3 +110,4 @@ Go to [Mathematical Physics School](../README.md)
 | Thu&nbsp;16&nbsp;Sep&nbsp;2021 | [M-W](../playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/5aPX4BnSTCQ/edit "Edit")] [Андрей Григорьев -- Конструкция листов в системах Калоджеро—Пенлеве](https://www.youtube.com/watch?v=5aPX4BnSTCQ&list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1 "Первая половина будет вводной. Я напомню конструкцию рациональной системы Калоджеро—Мозера при помощи гамильтоновой редукции.  Затем совсем кратко будет сказано об уравнениях Пенлеве. Далее будут введены системы Калоджеро—Пенелеве. Мы покажем, что преобразования Бэклунда уравнений Пенлеве переносятся на системы Калоджеро—Пенлеве и используем это для построения листов (специальных семейств решений). Если будет время, мы обсудим конструкцию преобразований фолдинга для уравнений Пенлеве и то, как с её помощью можно получать координаты на построенных листах") |
 | Thu&nbsp;23&nbsp;Sep&nbsp;2021 | [M-W](../playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/dxiYBxkCgKY/edit "Edit")] [Илья Вильковиский — Интегрируемые структуры конформных теорий и анзац Бете для аффинного Янгиана](https://www.youtube.com/watch?v=dxiYBxkCgKY&list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1) |
 | Tue&nbsp;28&nbsp;Sep&nbsp;2021 | [M-W](../playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/12lNEdQ26fc/edit "Edit")] [Василий Югов -- Пространства модулей плоских связностей](https://www.youtube.com/watch?v=12lNEdQ26fc&list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1 "Анонс:&#013;Я расскажу про конструкцию пространства модулей плоских связностей на Римановой поверхности как результата гамильтоновой редукции. После этого речь пойдет о вложенном в него Лагранжевом подмногообразии оперов в случае группы SL(2, C). Если успею, то расскажу про метод WKB и нахождение канонических координат оперов с его помощью.") |
+| Tue&nbsp;5&nbsp;Oct&nbsp;2021 | [M-W](../playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/gmbA16nxlwM/edit "Edit")] [Василий Югов -- Пространства модулей плоских связностей (2/3)](https://www.youtube.com/watch?v=gmbA16nxlwM&list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1) |
