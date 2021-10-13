@@ -1,8 +1,8 @@
 # Contents of the playlist [семинары по математической физике на матфаке ВШЭ и в Сколтехе](https://www.youtube.com/playlist?list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1)
 
-This page updated: Wed 6 Oct 2021 03:24:52
+This page updated: Wed 13 Oct 2021 14:21:00
 
-Number of videos: [97](#videos)
+Number of videos: [99](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -111,3 +111,5 @@ Go to [Mathematical Physics School](../README.md)
 | Thu&nbsp;23&nbsp;Sep&nbsp;2021 | [M-W](../playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/dxiYBxkCgKY/edit "Edit")] [Илья Вильковиский — Интегрируемые структуры конформных теорий и анзац Бете для аффинного Янгиана](https://www.youtube.com/watch?v=dxiYBxkCgKY&list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1) |
 | Tue&nbsp;28&nbsp;Sep&nbsp;2021 | [M-W](../playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/12lNEdQ26fc/edit "Edit")] [Василий Югов -- Пространства модулей плоских связностей](https://www.youtube.com/watch?v=12lNEdQ26fc&list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1 "Анонс:&#013;Я расскажу про конструкцию пространства модулей плоских связностей на Римановой поверхности как результата гамильтоновой редукции. После этого речь пойдет о вложенном в него Лагранжевом подмногообразии оперов в случае группы SL(2, C). Если успею, то расскажу про метод WKB и нахождение канонических координат оперов с его помощью.") |
 | Tue&nbsp;5&nbsp;Oct&nbsp;2021 | [M-W](../playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/gmbA16nxlwM/edit "Edit")] [Василий Югов -- Пространства модулей плоских связностей (2/3)](https://www.youtube.com/watch?v=gmbA16nxlwM&list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1) |
+| Wed&nbsp;6&nbsp;Oct&nbsp;2021 | [M-W](../playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/7VRzv5puB04/edit "Edit")] [Андрей Григорьев -- Конструкция листов в системах Калоджеро—Пенлеве (2/2)](https://www.youtube.com/watch?v=7VRzv5puB04&list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1) |
+| Mon&nbsp;11&nbsp;Oct&nbsp;2021 | [M-W](../playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/pAILbpuSjH0/edit "Edit")] [Роман Гонин -- Двойная аффинная алгебра Гекке. Квантовая тороидальная gl&#95;1 и её фоковский модуль](https://www.youtube.com/watch?v=pAILbpuSjH0&list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1) |

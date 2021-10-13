@@ -1,6 +1,6 @@
 # Contents of the playlist [2019 Алексей Юнг -- Суперсимметричные калибровочные теории](https://www.youtube.com/playlist?list=PLLGkFbxve671KnoxbIn8FfXG1nyZDzY3x)
 
-This page updated: Wed 6 Oct 2021 03:24:52
+This page updated: Wed 13 Oct 2021 14:21:00
 
 Number of videos: [12](#videos)
 

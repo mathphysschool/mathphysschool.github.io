@@ -1,8 +1,8 @@
 # Contents of the playlist [семинар "Методы классических и квантовых интегрируемых систем"](https://www.youtube.com/playlist?list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC)
 
-This page updated: Wed 6 Oct 2021 03:24:52
+This page updated: Wed 13 Oct 2021 14:21:00
 
-Number of videos: [55](#videos)
+Number of videos: [56](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -69,3 +69,4 @@ Go to [Mathematical Physics School](../README.md)
 | Wed&nbsp;15&nbsp;Sep&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") | [**[1]**](https://drive.google.com/file/d/1mpaw9-Racht0SSHWBUU9odaak_Acpqf0/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/7wA1OXvTZXw/edit "Edit")] [Михаил Васильев — Алгебры Гекке, уравнения Книжника-Замолодчикова и интегрируемые системы (1/3)](https://www.youtube.com/watch?v=7wA1OXvTZXw&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC "записки: https://drive.google.com/file/d/1mpaw9-Racht0SSHWBUU9odaak&#95;Acpqf0/view?usp=sharing&#013;&#013;Я расскажу о том, как при помощи алгебр Гекке можно писать уравнения Книжника-Замолодчикова и как из них получать квантовые системы Калоджеро/Тоды.") |
 | Tue&nbsp;21&nbsp;Sep&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") | [**[1]**](https://drive.google.com/file/d/1B_nzcaEHRIA4SNENlu6A2sVZlFc6hUtS/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/7AqhjaVQEF8/edit "Edit")] [Михаил Васильев — Алгебры Гекке, уравнения Книжника-Замолодчикова и интегрируемые системы (2/3)](https://www.youtube.com/watch?v=7AqhjaVQEF8&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC "записки: https://drive.google.com/file/d/1B&#95;nzcaEHRIA4SNENlu6A2sVZlFc6hUtS/view?usp=sharing&#013;&#013;&#013;Я расскажу о том, как при помощи алгебр Гекке можно писать уравнения Книжника-Замолодчикова и как из них получать квантовые системы Калоджеро/Тоды.") |
 | Mon&nbsp;4&nbsp;Oct&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/z_HmAmIjdUs/edit "Edit")] [Михаил Васильев — Алгебры Гекке, уравнения Книжника-Замолодчикова и интегрируемые системы (3/3)](https://www.youtube.com/watch?v=z_HmAmIjdUs&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC) |
+| Mon&nbsp;11&nbsp;Oct&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/_l_QdxSpqjg/edit "Edit")] [Egor Dotsenko — Ladder relations and osp(1&#124;2) Toda chain (1/2)](https://www.youtube.com/watch?v=_l_QdxSpqjg&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC "I will try to explain how ladder relations appear in the study of Bessel function and osp(1&#124;2) superalgebra") |
