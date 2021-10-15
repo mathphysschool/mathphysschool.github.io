@@ -1,8 +1,8 @@
 # Contents of the playlist [2020 семинар по теории Зайберга-Виттена и интегрируемым системам](https://www.youtube.com/playlist?list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk)
 
-This page updated: Wed 13 Oct 2021 14:21:00
+This page updated: Fri 15 Oct 2021 17:07:12
 
-Number of videos: [52](#videos)
+Number of videos: [53](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -66,3 +66,4 @@ Go to [Mathematical Physics School](../README.md)
 | Fri&nbsp;21&nbsp;May&nbsp;2021 | [NN20](../playlists/NN20 "2020-2021 лекции Никиты Некрасова"), [SW](../playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") | [**[1]**](https://drive.google.com/file/d/1fcqEPsZluK9BIHZ56veuE0PYJNIUYM5L/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/iMYnF5t_aaY/edit "Edit")] [Никита Некрасов -- 20. Локализация в топологических струнах и в инстантонах (в пятимерьи)](https://www.youtube.com/watch?v=iMYnF5t_aaY&list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk "записки: https://drive.google.com/file/d/1fcqEPsZluK9BIHZ56veuE0PYJNIUYM5L/view?usp=sharing") |
 | Fri&nbsp;11&nbsp;Jun&nbsp;2021 | [NN20](../playlists/NN20 "2020-2021 лекции Никиты Некрасова"), [SW](../playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") |  | [[**e**](https://studio.youtube.com/video/oDKdnYFe_4k/edit "Edit")] [Никита Некрасов -- 21. Связь с теорией суперструн](https://www.youtube.com/watch?v=oDKdnYFe_4k&list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk) |
 | Fri&nbsp;1&nbsp;Oct&nbsp;2021 | [SW](../playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") |  | [[**e**](https://studio.youtube.com/video/xL89pOv-ky8/edit "Edit")] [Никита Григорьев -- Координаты Фока-Гончарова (1/3)](https://www.youtube.com/watch?v=xL89pOv-ky8&list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk) |
+| Fri&nbsp;8&nbsp;Oct&nbsp;2021 | [SW](../playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") |  | [[**e**](https://studio.youtube.com/video/If1-c_C397g/edit "Edit")] [Никита Григорьев -- Координаты Фока-Гончарова (2/3)](https://www.youtube.com/watch?v=If1-c_C397g&list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk) |

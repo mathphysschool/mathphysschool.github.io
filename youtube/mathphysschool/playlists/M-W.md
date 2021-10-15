@@ -1,6 +1,6 @@
 # Contents of the playlist [семинары по математической физике на матфаке ВШЭ и в Сколтехе](https://www.youtube.com/playlist?list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1)
 
-This page updated: Wed 13 Oct 2021 14:21:00
+This page updated: Fri 15 Oct 2021 17:07:12
 
 Number of videos: [99](#videos)
 

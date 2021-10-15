@@ -1,8 +1,8 @@
 # Contents of the playlist [семинар "Непертурбативные методы в квантовой теории поля"](https://www.youtube.com/playlist?list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw)
 
-This page updated: Wed 13 Oct 2021 14:21:00
+This page updated: Fri 15 Oct 2021 17:07:11
 
-Number of videos: [38](#videos)
+Number of videos: [39](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -14,6 +14,7 @@ Go to [Mathematical Physics School](../README.md)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Sat&nbsp;9&nbsp;Oct&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/yA_4VetbdGA/edit "Edit")] [Никита Сопенко - Высшие классы Берри](https://www.youtube.com/watch?v=yA_4VetbdGA&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;2&nbsp;Oct&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/4hIFI9goaXQ/edit "Edit")] [Дмитрий Галахов - Квиверные БПС алгебры](https://www.youtube.com/watch?v=4hIFI9goaXQ&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;18&nbsp;Sep&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/oBhWiom2-ao/edit "Edit")] [Алексей Милехин - Charge fluctuation entropy of Hawking radiation: a replica-free way to find large](https://www.youtube.com/watch?v=oBhWiom2-ao&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;26&nbsp;Jun&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") | [**[1]**](https://arxiv.org/abs/2106.01238) | [[**e**](https://studio.youtube.com/video/bzhi7wTHxmU/edit "Edit")] [Сергей Лукьянов - Generalized  affine sl(2)  Gaudin model](https://www.youtube.com/watch?v=bzhi7wTHxmU&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw "Based on https://arxiv.org/abs/2106.01238") |
