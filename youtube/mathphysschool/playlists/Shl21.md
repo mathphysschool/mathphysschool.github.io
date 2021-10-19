@@ -1,6 +1,6 @@
 # Contents of the playlist [2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance](https://www.youtube.com/playlist?list=PLLGkFbxve673FoRGJXxZ8kr6PxewnRY_X)
 
-This page updated: Fri 15 Oct 2021 17:07:11
+This page updated: Tue 19 Oct 2021 23:51:31
 
 Number of videos: [3](#videos)
 

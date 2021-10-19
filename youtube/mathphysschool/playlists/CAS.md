@@ -1,8 +1,8 @@
 # Contents of the playlist [Seminar on Mondays, Center for Advanced Studies, Skoltech](https://www.youtube.com/playlist?list=PLLGkFbxve671CJLpp5w3X4qjvS5u8GBMp)
 
-This page updated: Fri 15 Oct 2021 17:07:12
+This page updated: Tue 19 Oct 2021 23:51:31
 
-Number of videos: [63](#videos)
+Number of videos: [64](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -14,6 +14,7 @@ Seminar webpage: <https://crei.skoltech.ru/cas/calendar/sem-mon/>
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Tue&nbsp;19&nbsp;Oct&nbsp;2021 | [CAS](../playlists/CAS "Seminar on Mondays, Center for Advanced Studies, Skoltech") |  | [[**e**](https://studio.youtube.com/video/jAHKKP80P_Q/edit "Edit")] [Di Francesco](https://www.youtube.com/watch?v=jAHKKP80P_Q&list=PLLGkFbxve671CJLpp5w3X4qjvS5u8GBMp) |
 | Wed&nbsp;6&nbsp;Oct&nbsp;2021 | [CAS](../playlists/CAS "Seminar on Mondays, Center for Advanced Studies, Skoltech") |  | [[**e**](https://studio.youtube.com/video/pxk03PqPr-Q/edit "Edit")] [Roman Gonin -- Semi-infinite construction of twisted Fock module for quantum toroidal gl&#95;1](https://www.youtube.com/watch?v=pxk03PqPr-Q&list=PLLGkFbxve671CJLpp5w3X4qjvS5u8GBMp "Fock module of quantum toroidal gl&#95;1 appears in different areas of mathematics and mathematical physics. The algebra has SL(2,Z)-symmetry, this enables us to consider the Fock module twisted by an element of SL(2,Z). We give an explicit construction of a slope n'/n twisted Fock module via vertex operators of quantum affine gl&#95;n. The main technical tool is semi-infinite construction via double affine Hecke algebra.&#013;The results are consistent with Gorsky-Negut conjecture (Kononov-Smirnov theorem) on stable envelopes for Hilbert schemes of points in the plane and can be viewed as a manifestation of (gl&#95;1, gl&#95;n)-duality") |
 | Tue&nbsp;5&nbsp;Oct&nbsp;2021 | [CAS](../playlists/CAS "Seminar on Mondays, Center for Advanced Studies, Skoltech") |  | [[**e**](https://studio.youtube.com/video/CODjN9PjoaU/edit "Edit")] [Leonid Rybnikov -- Bethe subalgebras in Yangians and Kirillov-Reshetikhin crystals](https://www.youtube.com/watch?v=CODjN9PjoaU&list=PLLGkFbxve671CJLpp5w3X4qjvS5u8GBMp) |
 | Tue&nbsp;21&nbsp;Sep&nbsp;2021 | [CAS](../playlists/CAS "Seminar on Mondays, Center for Advanced Studies, Skoltech") |  | [[**e**](https://studio.youtube.com/video/iLjXRIXFbt0/edit "Edit")] [Дмитрий Беляев -- Гладкие гауссовы поля](https://www.youtube.com/watch?v=iLjXRIXFbt0&list=PLLGkFbxve671CJLpp5w3X4qjvS5u8GBMp "Smooth Gaussian fields appear in many areas of science (oceanography, astrophysics, engineering, ...) but they are also extremely interesting and rich mathematical objects. My initial interest was motivated by conjectures of Berry and Bogomolny-Schmit that connected Laplace eigenfunctions, random plane waves and critical percolation. My main interest is in the geometric properties of level lines of these fields and their connection to percolation theory.&#013;In this talk, I will explain what kind of fields I am interested in, give an overview of some recent results, explain what kind of ideas and methods are currently used in this area and present some open problems and conjectures") |

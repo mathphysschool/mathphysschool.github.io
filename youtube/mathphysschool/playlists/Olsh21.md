@@ -1,8 +1,8 @@
 # Contents of the playlist [2021 Grigory Olshanski -- Symmetric functions](https://www.youtube.com/playlist?list=PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU)
 
-This page updated: Fri 15 Oct 2021 17:07:11
+This page updated: Tue 19 Oct 2021 23:51:31
 
-Number of videos: [4](#videos)
+Number of videos: [5](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -18,3 +18,4 @@ Go to [Mathematical Physics School](../README.md)
 | Fri&nbsp;24&nbsp;Sep&nbsp;2021 | [Olsh21](../playlists/Olsh21 "2021 Grigory Olshanski -- Symmetric functions") |  | [[**e**](https://studio.youtube.com/video/PlQcWrBP6N0/edit "Edit")] [Grigory Olshanski -- Symmetric functions 2](https://www.youtube.com/watch?v=PlQcWrBP6N0&list=PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU) |
 | Fri&nbsp;1&nbsp;Oct&nbsp;2021 | [Olsh21](../playlists/Olsh21 "2021 Grigory Olshanski -- Symmetric functions") |  | [[**e**](https://studio.youtube.com/video/azeSUB82Vfw/edit "Edit")] [Grigory Olshanski -- Symmetric functions 3](https://www.youtube.com/watch?v=azeSUB82Vfw&list=PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU) |
 | Fri&nbsp;8&nbsp;Oct&nbsp;2021 | [Olsh21](../playlists/Olsh21 "2021 Grigory Olshanski -- Symmetric functions") |  | [[**e**](https://studio.youtube.com/video/Wsjy-peF0DY/edit "Edit")] [Grigori Olshanski -- Symmetric functions 4](https://www.youtube.com/watch?v=Wsjy-peF0DY&list=PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU) |
+| Fri&nbsp;15&nbsp;Oct&nbsp;2021 | [Olsh21](../playlists/Olsh21 "2021 Grigory Olshanski -- Symmetric functions") |  | [[**e**](https://studio.youtube.com/video/7Ng8pzLDS70/edit "Edit")] [Grigori Olshanski -- Symmetric functions 5](https://www.youtube.com/watch?v=7Ng8pzLDS70&list=PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU) |
