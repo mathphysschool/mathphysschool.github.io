@@ -1,8 +1,8 @@
 # Contents of the playlist [2020 семинар по теории Зайберга-Виттена и интегрируемым системам](https://www.youtube.com/playlist?list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk)
 
-This page updated: Tue 19 Oct 2021 23:51:31
+This page updated: Wed 20 Oct 2021 00:00:10
 
-Number of videos: [53](#videos)
+Number of videos: [54](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -67,3 +67,4 @@ Go to [Mathematical Physics School](../README.md)
 | Fri&nbsp;11&nbsp;Jun&nbsp;2021 | [NN20](../playlists/NN20 "2020-2021 лекции Никиты Некрасова"), [SW](../playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") |  | [[**e**](https://studio.youtube.com/video/oDKdnYFe_4k/edit "Edit")] [Никита Некрасов -- 21. Связь с теорией суперструн](https://www.youtube.com/watch?v=oDKdnYFe_4k&list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk) |
 | Fri&nbsp;1&nbsp;Oct&nbsp;2021 | [SW](../playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") |  | [[**e**](https://studio.youtube.com/video/xL89pOv-ky8/edit "Edit")] [Никита Григорьев -- Координаты Фока-Гончарова (1/3)](https://www.youtube.com/watch?v=xL89pOv-ky8&list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk) |
 | Fri&nbsp;8&nbsp;Oct&nbsp;2021 | [SW](../playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") |  | [[**e**](https://studio.youtube.com/video/If1-c_C397g/edit "Edit")] [Никита Григорьев -- Координаты Фока-Гончарова (2/3)](https://www.youtube.com/watch?v=If1-c_C397g&list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk) |
+| Fri&nbsp;15&nbsp;Oct&nbsp;2021 | [SW](../playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") |  | [[**e**](https://studio.youtube.com/video/TalhOpuxrUk/edit "Edit")] [Никита Григорьев -- Координаты Фока-Гончарова (3/4)](https://www.youtube.com/watch?v=TalhOpuxrUk&list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk) |

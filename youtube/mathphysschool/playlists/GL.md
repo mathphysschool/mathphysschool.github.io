@@ -1,8 +1,8 @@
 # Contents of the playlist [семинар "Непертурбативные методы в квантовой теории поля"](https://www.youtube.com/playlist?list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw)
 
-This page updated: Tue 19 Oct 2021 23:51:31
+This page updated: Wed 20 Oct 2021 00:00:10
 
-Number of videos: [39](#videos)
+Number of videos: [40](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -14,6 +14,7 @@ Go to [Mathematical Physics School](../README.md)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Sat&nbsp;16&nbsp;Oct&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/xO_Jj4qtwJM/edit "Edit")] [Владимир Казаков - Матричный бутстрап](https://www.youtube.com/watch?v=xO_Jj4qtwJM&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;9&nbsp;Oct&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/yA_4VetbdGA/edit "Edit")] [Никита Сопенко - Высшие классы Берри](https://www.youtube.com/watch?v=yA_4VetbdGA&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;2&nbsp;Oct&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/4hIFI9goaXQ/edit "Edit")] [Дмитрий Галахов - Квиверные БПС алгебры](https://www.youtube.com/watch?v=4hIFI9goaXQ&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;18&nbsp;Sep&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/oBhWiom2-ao/edit "Edit")] [Алексей Милехин - Charge fluctuation entropy of Hawking radiation: a replica-free way to find large](https://www.youtube.com/watch?v=oBhWiom2-ao&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
