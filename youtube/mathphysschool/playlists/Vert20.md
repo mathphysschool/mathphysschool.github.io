@@ -1,6 +1,6 @@
 # Contents of the playlist [2020 Vertex algebras and tensor categories](https://www.youtube.com/playlist?list=PLLGkFbxve670tIZPb0CDm1Wc060TE1x3c)
 
-This page updated: Wed 20 Oct 2021 00:00:10
+This page updated: Thu 21 Oct 2021 01:20:20
 
 Number of videos: [9](#videos)
 
