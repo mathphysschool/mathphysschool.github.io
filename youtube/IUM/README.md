@@ -1,6 +1,6 @@
 # Contents of the youtube channel [Видеозаписи Независимого Московского Университета](https://www.youtube.com/channel/UCpi8qkXE7-q3TY19lIgO_Kw)
 
-[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](#)
+[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
 Number of playlists: [222](#playlists)
 

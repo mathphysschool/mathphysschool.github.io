@@ -1,6 +1,6 @@
 # Contents of the playlist [2021-2022 Gaudin model and related topics](https://www.youtube.com/playlist?list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX)
 
-[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](#)
+[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
 Number of videos: [3](#videos)
 

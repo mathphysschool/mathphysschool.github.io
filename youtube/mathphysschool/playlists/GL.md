@@ -1,6 +1,6 @@
 # Contents of the playlist [семинар "Непертурбативные методы в квантовой теории поля"](https://www.youtube.com/playlist?list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw)
 
-[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](#)
+[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
 Number of videos: [40](#videos)
 

@@ -1,6 +1,6 @@
 # Contents of the youtube channel [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg)
 
-[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](#)
+[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
 Number of playlists: [230](#playlists)
 

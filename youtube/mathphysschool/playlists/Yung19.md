@@ -1,6 +1,6 @@
 # Contents of the playlist [2019 Алексей Юнг -- Суперсимметричные калибровочные теории](https://www.youtube.com/playlist?list=PLLGkFbxve671KnoxbIn8FfXG1nyZDzY3x)
 
-[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](#)
+[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
 Number of videos: [12](#videos)
 
