@@ -1,4 +1,6 @@
-# Contents of the playlist [2020 G.Olshanski -- Representations of classical groups and related topics](https://www.youtube.com/playlist?list=PLLGkFbxve670ADsVxwRJVunxz2v3ghcOQ)[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](#)
+# Contents of the playlist [2020 G.Olshanski -- Representations of classical groups and related topics](https://www.youtube.com/playlist?list=PLLGkFbxve670ADsVxwRJVunxz2v3ghcOQ)
+
+[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](#)
 
 Number of videos: [12](#videos)
 

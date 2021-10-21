@@ -1,4 +1,6 @@
-# Contents of the playlist [Miscellaneous](https://www.youtube.com/playlist?list=PLLGkFbxve672zBD3owZuFwJQR4NF0TA-w)[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](#)
+# Contents of the playlist [Miscellaneous](https://www.youtube.com/playlist?list=PLLGkFbxve672zBD3owZuFwJQR4NF0TA-w)
+
+[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](#)
 
 Number of videos: [4](#videos)
 
