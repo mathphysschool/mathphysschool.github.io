@@ -26,3 +26,6 @@ Go to [Mathematical Physics School](../README.md)
 | Fri&nbsp;22&nbsp;Nov&nbsp;2019 | [Yung19](../playlists/Yung19 "2019 Алексей Юнг -- Суперсимметричные калибровочные теории") |  | [[**e**](https://studio.youtube.com/video/yEZKIgeIL-A/edit "Edit")] [Алексей Юнг -- Суперсимметричные калибровочные теории -- 10](https://www.youtube.com/watch?v=yEZKIgeIL-A&list=PLLGkFbxve671KnoxbIn8FfXG1nyZDzY3x) |
 | Mon&nbsp;25&nbsp;Nov&nbsp;2019 | [Yung19](../playlists/Yung19 "2019 Алексей Юнг -- Суперсимметричные калибровочные теории") |  | [[**e**](https://studio.youtube.com/video/Vgqx1DyiYWY/edit "Edit")] [Алексей Юнг -- Суперсимметричные калибровочные теории -- 11](https://www.youtube.com/watch?v=Vgqx1DyiYWY&list=PLLGkFbxve671KnoxbIn8FfXG1nyZDzY3x) |
 | Fri&nbsp;29&nbsp;Nov&nbsp;2019 | [Yung19](../playlists/Yung19 "2019 Алексей Юнг -- Суперсимметричные калибровочные теории") |  | [[**e**](https://studio.youtube.com/video/v7pX0M0g7xE/edit "Edit")] [Алексей Юнг -- Суперсимметричные калибровочные теории -- 12](https://www.youtube.com/watch?v=v7pX0M0g7xE&list=PLLGkFbxve671KnoxbIn8FfXG1nyZDzY3x) |
+
+
+ If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.

@@ -16,3 +16,6 @@ Go to [Mathematical Physics School](../README.md)
 |---|---|---|---|
 | Tue&nbsp;19&nbsp;Oct&nbsp;2021 | [Kri21](../playlists/Kri21 "2021 Igor Krichever -- Integrable systems") |  | [[**e**](https://studio.youtube.com/video/dE2xjS5kk6A/edit "Edit")] [Igor Krichever -- Integrable systems. Lecture 3](https://www.youtube.com/watch?v=dE2xjS5kk6A&list=PLLGkFbxve672FSoeyhuPicPlKD3Tqz9J9) |
 | Tue&nbsp;19&nbsp;Oct&nbsp;2021 | [Kri21](../playlists/Kri21 "2021 Igor Krichever -- Integrable systems") |  | [[**e**](https://studio.youtube.com/video/5q5DAXptW7o/edit "Edit")] [Igor Krichever -- Integrable systems. Lecture 4](https://www.youtube.com/watch?v=5q5DAXptW7o&list=PLLGkFbxve672FSoeyhuPicPlKD3Tqz9J9) |
+
+
+ If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.

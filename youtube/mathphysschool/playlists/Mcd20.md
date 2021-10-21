@@ -24,3 +24,6 @@ Go to [Mathematical Physics School](../README.md)
 | Fri&nbsp;15&nbsp;May&nbsp;2020 | [Mcd20](../playlists/Mcd20 "2020 Полиномы Макдональда и DAHA") |  | [[**e**](https://studio.youtube.com/video/NSgEUYkS8VY/edit "Edit")] [Михаил Берштейн -- Действие SL(2,Z) на DAHA, сферическая DAHA](https://www.youtube.com/watch?v=NSgEUYkS8VY&list=PLLGkFbxve673d4IimgKUDiIAIMTlcnpyf) |
 | Fri&nbsp;22&nbsp;May&nbsp;2020 | [Mcd20](../playlists/Mcd20 "2020 Полиномы Макдональда и DAHA") |  | [[**e**](https://studio.youtube.com/video/zTCZ647A98M/edit "Edit")] [Михаил Берштейн -- сферическая DAHA. предел n к бесконечности](https://www.youtube.com/watch?v=zTCZ647A98M&list=PLLGkFbxve673d4IimgKUDiIAIMTlcnpyf) |
 | Fri&nbsp;29&nbsp;May&nbsp;2020 | [Mcd20](../playlists/Mcd20 "2020 Полиномы Макдональда и DAHA") |  | [[**e**](https://studio.youtube.com/video/pLZtgaASxpw/edit "Edit")] [Александр Зимин -- тождество Дайсона](https://www.youtube.com/watch?v=pLZtgaASxpw&list=PLLGkFbxve673d4IimgKUDiIAIMTlcnpyf) |
+
+
+ If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.

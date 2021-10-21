@@ -28,3 +28,6 @@ Lecture notes: <https://drive.google.com/drive/folders/1y1l5i-fzkIfrwxMVgJ8D56gP
 | Thu&nbsp;3&nbsp;Dec&nbsp;2020 | [Kri20](../playlists/Kri20 "2020 Igor Krichever -- Integrable Systems") |  | [[**e**](https://studio.youtube.com/video/smvVkuzmk8U/edit "Edit")] [I.Krichever -- Integrable Systems 13](https://www.youtube.com/watch?v=smvVkuzmk8U&list=PLLGkFbxve672AOMaYwSTrqFRBc00ZnQmb) |
 | Sun&nbsp;13&nbsp;Dec&nbsp;2020 | [Kri20](../playlists/Kri20 "2020 Igor Krichever -- Integrable Systems") | [**[1]**](https://drive.google.com/drive/u/2/folders/1y1l5i-fzkIfrwxMVgJ8D56gPbZUEG8jF?usp=sharing) | [[**e**](https://studio.youtube.com/video/oKUbJ40tVIg/edit "Edit")] [I.Krichever -- Integrable Systems 14](https://www.youtube.com/watch?v=oKUbJ40tVIg&list=PLLGkFbxve672AOMaYwSTrqFRBc00ZnQmb "Записки лекций: https://drive.google.com/drive/u/2/folders/1y1l5i-fzkIfrwxMVgJ8D56gPbZUEG8jF?usp=sharing") |
 | Thu&nbsp;17&nbsp;Dec&nbsp;2020 | [Kri20](../playlists/Kri20 "2020 Igor Krichever -- Integrable Systems") |  | [[**e**](https://studio.youtube.com/video/XkNr-FbsdAs/edit "Edit")] [I.Krichever -- Integrable Systems 15](https://www.youtube.com/watch?v=XkNr-FbsdAs&list=PLLGkFbxve672AOMaYwSTrqFRBc00ZnQmb) |
+
+
+ If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.

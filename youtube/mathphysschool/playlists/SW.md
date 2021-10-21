@@ -68,3 +68,6 @@ Go to [Mathematical Physics School](../README.md)
 | Fri&nbsp;1&nbsp;Oct&nbsp;2021 | [SW](../playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") |  | [[**e**](https://studio.youtube.com/video/xL89pOv-ky8/edit "Edit")] [Никита Григорьев -- Координаты Фока-Гончарова (1/3)](https://www.youtube.com/watch?v=xL89pOv-ky8&list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk) |
 | Fri&nbsp;8&nbsp;Oct&nbsp;2021 | [SW](../playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") |  | [[**e**](https://studio.youtube.com/video/If1-c_C397g/edit "Edit")] [Никита Григорьев -- Координаты Фока-Гончарова (2/3)](https://www.youtube.com/watch?v=If1-c_C397g&list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk) |
 | Fri&nbsp;15&nbsp;Oct&nbsp;2021 | [SW](../playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") |  | [[**e**](https://studio.youtube.com/video/TalhOpuxrUk/edit "Edit")] [Никита Григорьев -- Координаты Фока-Гончарова (3/4)](https://www.youtube.com/watch?v=TalhOpuxrUk&list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk) |
+
+
+ If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.

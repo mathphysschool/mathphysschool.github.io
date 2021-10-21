@@ -74,3 +74,6 @@ Go to [Mathematical Physics School](../README.md)
 | Wed&nbsp;13&nbsp;Oct&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/8RzFEYm5KsM/edit "Edit")] [Елизавета Трунина — Дискретные уравнения Пенлеве (1/2)](https://www.youtube.com/watch?v=8RzFEYm5KsM&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC) |
 | Thu&nbsp;21&nbsp;Oct&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/yfG-4aKppok/edit "Edit")] [Андрей Ляшик — Центр RTT алгебры](https://www.youtube.com/watch?v=yfG-4aKppok&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC "Я расскажу про центр RTT алгебры, придуманный Назаровым. Такой центр отличен от квантового детерминанта и намного дружелюбнее.") |
 | Thu&nbsp;21&nbsp;Oct&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/nmlKmFfy2cg/edit "Edit")] [Елизавета Трунина — Приколы с дискретным уравнением Пенлеве (2/2)](https://www.youtube.com/watch?v=nmlKmFfy2cg&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC) |
+
+
+ If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.

@@ -36,3 +36,6 @@ Go to [Mathematical Physics School](../README.md)
 | Fri&nbsp;15&nbsp;Jan&nbsp;2021 | [Wint21](../playlists/Wint21 "2021 STIMaRT — зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") |  | [[**e**](https://studio.youtube.com/video/zDFd22BBYfg/edit "Edit")] [Дмитрий Абанин -- Квантовая запутанность в системах многих частиц, лекция 2](https://www.youtube.com/watch?v=zDFd22BBYfg&list=PLLGkFbxve6715BbdgBYSEd2fEczrpt4jV) |
 | Fri&nbsp;15&nbsp;Jan&nbsp;2021 | [Wint21](../playlists/Wint21 "2021 STIMaRT — зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") |  | [[**e**](https://studio.youtube.com/video/_PStxNVB8Gs/edit "Edit")] [Илья Вильковиский -- Семинар #1 к лекциям Дмитрия Абанина](https://www.youtube.com/watch?v=_PStxNVB8Gs&list=PLLGkFbxve6715BbdgBYSEd2fEczrpt4jV) |
 | Sat&nbsp;16&nbsp;Jan&nbsp;2021 | [Wint21](../playlists/Wint21 "2021 STIMaRT — зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") |  | [[**e**](https://studio.youtube.com/video/Lm56amri1lY/edit "Edit")] [Дмитрий Абанин -- Квантовая запутанность в системах многих частиц, лекция 3](https://www.youtube.com/watch?v=Lm56amri1lY&list=PLLGkFbxve6715BbdgBYSEd2fEczrpt4jV) |
+
+
+ If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.

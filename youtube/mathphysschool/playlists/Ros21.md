@@ -30,3 +30,6 @@ Go to [Mathematical Physics School](../README.md)
 | Tue&nbsp;18&nbsp;May&nbsp;2021 | [Ros21](../playlists/Ros21 "2021 Alexey Rosly - Hitchin systems") |  | [[**e**](https://studio.youtube.com/video/RqRvf6Vqo80/edit "Edit")] [Alexey Rosly -- Linear motion on the Jacobian and the Lax pair](https://www.youtube.com/watch?v=RqRvf6Vqo80&list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW) |
 | Tue&nbsp;25&nbsp;May&nbsp;2021 | [Ros21](../playlists/Ros21 "2021 Alexey Rosly - Hitchin systems") |  | [[**e**](https://studio.youtube.com/video/mmIW3APRwJQ/edit "Edit")] [Alexey Rosly -- Hamiltonian structure of the Hitchin system](https://www.youtube.com/watch?v=mmIW3APRwJQ&list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW) |
 | Tue&nbsp;30&nbsp;Mar&nbsp;2021 | [Ros21](../playlists/Ros21 "2021 Alexey Rosly - Hitchin systems") |  | [[**e**](https://studio.youtube.com/video/eqeWDrjp998/edit "Edit")] [Alexey Rosly -- Homogeneous coordinates](https://www.youtube.com/watch?v=eqeWDrjp998&list=PLLGkFbxve671HAjNL2O-0tMUhYEo6n3WW) |
+
+
+ If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.

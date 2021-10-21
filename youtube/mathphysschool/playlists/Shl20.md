@@ -26,3 +26,6 @@ Go to [Mathematical Physics School](../README.md)
 | Sat&nbsp;21&nbsp;Nov&nbsp;2020 | [Shl20](../playlists/Shl20 "2020 Semen Shlosman -- Phase transitions in percolation and statphysics") |  | [[**e**](https://studio.youtube.com/video/fOb-7TFWyWc/edit "Edit")] [Phase transitions 9](https://www.youtube.com/watch?v=fOb-7TFWyWc&list=PLLGkFbxve672jbDwYkB6W8MczUfSF9FdJ "Gibbs states 2") |
 | Fri&nbsp;13&nbsp;Nov&nbsp;2020 | [Shl20](../playlists/Shl20 "2020 Semen Shlosman -- Phase transitions in percolation and statphysics") |  | [[**e**](https://studio.youtube.com/video/GSHqWFzIFy0/edit "Edit")] [Phase transitions 8](https://www.youtube.com/watch?v=GSHqWFzIFy0&list=PLLGkFbxve672jbDwYkB6W8MczUfSF9FdJ "Распределение Гиббса") |
 | Wed&nbsp;11&nbsp;Nov&nbsp;2020 | [Shl20](../playlists/Shl20 "2020 Semen Shlosman -- Phase transitions in percolation and statphysics") |  | [[**e**](https://studio.youtube.com/video/qG6ob0RLt0c/edit "Edit")] [Phase transitions 7](https://www.youtube.com/watch?v=qG6ob0RLt0c&list=PLLGkFbxve672jbDwYkB6W8MczUfSF9FdJ "Теория Руссо-Симора-Уелша (RSW). &#013;Степенное убывание корреляций в критической точке.") |
+
+
+ If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.
