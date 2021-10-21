@@ -1,6 +1,4 @@
-# Contents of the playlist [2019 Skoltech Summer School on Mathematical Physics](https://www.youtube.com/playlist?list=PLLGkFbxve673cVRaHenTEV8rRnMjc_z1C)
-
-This page updated: Thu 21 Oct 2021 01:20:20
+# Contents of the playlist [2019 Skoltech Summer School on Mathematical Physics](https://www.youtube.com/playlist?list=PLLGkFbxve673cVRaHenTEV8rRnMjc_z1C)[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](#)
 
 Number of videos: [24](#videos)
 

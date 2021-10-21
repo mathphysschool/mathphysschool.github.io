@@ -1,6 +1,4 @@
-# Contents of the youtube channel [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg)
-
-This page updated: Thu 21 Oct 2021 01:20:20
+# Contents of the youtube channel [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg)[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](#)
 
 Number of playlists: [230](#playlists)
 
@@ -249,7 +247,7 @@ Number of other videos: [158](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
-| Wed&nbsp;20&nbsp;Oct&nbsp;2021 | [219](./playlists/219 "НИС Магистерской программы (Побережный)") |  | [[**e**](https://studio.youtube.com/video/Pkr4KAYfy_o/edit "Edit")] [Иван Сечин — Нединамические и динамические R-матрицы](https://www.youtube.com/watch?v=Pkr4KAYfy_o) |
+| Wed&nbsp;20&nbsp;Oct&nbsp;2021 | [219](./playlists/219 "НИС Магистерской программы (Побережный)") | [**[1]**](https://drive.google.com/file/d/14vgkAbVXTDau6h-ygCwqg_cQxB17-XWs/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/Pkr4KAYfy_o/edit "Edit")] [Иван Сечин — Нединамические и динамические R-матрицы](https://www.youtube.com/watch?v=Pkr4KAYfy_o "записки: https://drive.google.com/file/d/14vgkAbVXTDau6h-ygCwqg&#95;cQxB17-XWs/view?usp=sharing") |
 | Wed&nbsp;20&nbsp;Oct&nbsp;2021 | [225](./playlists/225 "Сапонов П.А., Пятов П.Н.НИС Математические основы квантовой механики, осень 2021") |  | [[**e**](https://studio.youtube.com/video/SG8dmPKUCrE/edit "Edit")] [Сапонов П.А., Пятов П.Н. НИС Математические основы квантовой механики 20.10.2021](https://www.youtube.com/watch?v=SG8dmPKUCrE) |
 | Wed&nbsp;20&nbsp;Oct&nbsp;2021 | [209](./playlists/209 "Рыбников Л.Г., Теория представлений, осень 2021") |  | [[**e**](https://studio.youtube.com/video/HQJROy_DfmQ/edit "Edit")] [Рыбников Л.Г. Теория представлений. 19 октября 2021](https://www.youtube.com/watch?v=HQJROy_DfmQ) |
 | Tue&nbsp;19&nbsp;Oct&nbsp;2021 | [219](./playlists/219 "НИС Магистерской программы (Побережный)") |  | [[**e**](https://studio.youtube.com/video/ohx-b7DC9Q8/edit "Edit")] [Игорь Спиридонов-Группы классов отображений, пространства Тейхмюллера и пространства модулей кривых2](https://www.youtube.com/watch?v=ohx-b7DC9Q8 "Центральным объектом доклада будут группы классов отображений двумерных ориентируемых поверхностей. Также, мы определим пространства Тейхмюллера и поговорим об их базовых свойствах: вычислим несколькими способами размерность и приведём план доказательства стягиваемости. После этого мы обсудим действие группы классов отображений на пространстве Тейхмюллера и построим пространства модулей гладких комплексных кривых. Я расскажу про связь их когомологий с характеристическими классами расслоений со слоем поверхность. Если позволит время, в конце доклада мы обсудим группы Торелли и соответствующие им пространства модулей") |

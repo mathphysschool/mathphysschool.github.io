@@ -1,6 +1,4 @@
-# Contents of the playlist [Miscellaneous](https://www.youtube.com/playlist?list=PLLGkFbxve672zBD3owZuFwJQR4NF0TA-w)
-
-This page updated: Thu 21 Oct 2021 01:20:19
+# Contents of the playlist [Miscellaneous](https://www.youtube.com/playlist?list=PLLGkFbxve672zBD3owZuFwJQR4NF0TA-w)[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](#)
 
 Number of videos: [4](#videos)
 

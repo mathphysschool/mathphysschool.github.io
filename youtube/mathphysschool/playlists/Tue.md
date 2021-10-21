@@ -1,8 +1,6 @@
-# Contents of the playlist [семинар "Методы классических и квантовых интегрируемых систем"](https://www.youtube.com/playlist?list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC)
+# Contents of the playlist [семинар "Методы классических и квантовых интегрируемых систем"](https://www.youtube.com/playlist?list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC)[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](#)
 
-This page updated: Thu 21 Oct 2021 01:20:20
-
-Number of videos: [58](#videos)
+Number of videos: [60](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -72,3 +70,5 @@ Go to [Mathematical Physics School](../README.md)
 | Mon&nbsp;11&nbsp;Oct&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/_l_QdxSpqjg/edit "Edit")] [Egor Dotsenko — Ladder relations and osp(1&#124;2) Toda chain (1/2)](https://www.youtube.com/watch?v=_l_QdxSpqjg&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC "I will try to explain how ladder relations appear in the study of Bessel function and osp(1&#124;2) superalgebra") |
 | Wed&nbsp;13&nbsp;Oct&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/5m_RdPsBN0U/edit "Edit")] [Egor Dotsenko — Ladder relations and osp(1&#124;2) Toda chain (2/2)](https://www.youtube.com/watch?v=5m_RdPsBN0U&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC "I will try to explain how ladder relations appear in the study of Bessel function and osp(1&#124;2) superalgebra") |
 | Wed&nbsp;13&nbsp;Oct&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/8RzFEYm5KsM/edit "Edit")] [Елизавета Трунина — Дискретные уравнения Пенлеве (1/2)](https://www.youtube.com/watch?v=8RzFEYm5KsM&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC) |
+| Thu&nbsp;21&nbsp;Oct&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/yfG-4aKppok/edit "Edit")] [Андрей Ляшик — Центр RTT алгебры](https://www.youtube.com/watch?v=yfG-4aKppok&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC "Я расскажу про центр RTT алгебры, придуманный Назаровым. Такой центр отличен от квантового детерминанта и намного дружелюбнее.") |
+| Thu&nbsp;21&nbsp;Oct&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/nmlKmFfy2cg/edit "Edit")] [Елизавета Трунина — Приколы с дискретным уравнением Пенлеве (2/2)](https://www.youtube.com/watch?v=nmlKmFfy2cg&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC) |
