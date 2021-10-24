@@ -4,7 +4,7 @@
 
 Number of playlists: [34](#playlists)
 
-Number of videos: [776](#videos)
+Number of videos: [782](#videos)
 
 Number of other videos: [18](#other-videos)
 
@@ -15,7 +15,7 @@ Number of other videos: [18](#other-videos)
 | Oct&nbsp;2021 | [Kri21](./playlists/Kri21 "2021 Igor Krichever -- Integrable systems") |  | [2021 Igor Krichever -- Integrable systems](https://www.youtube.com/playlist?list=PLLGkFbxve672FSoeyhuPicPlKD3Tqz9J9) | [2](./playlists/Kri21.md) |
 | Oct&nbsp;2021 | [Fn21](./playlists/Fn21 "2021 Michael Finkelberg -- Geometric representation theory") |  | [2021 Michael Finkelberg -- Geometric representation theory](https://www.youtube.com/playlist?list=PLLGkFbxve670NByR3MfseS6C6I5YeTeD5) | [4](./playlists/Fn21.md) |
 | Oct&nbsp;2021 | [Gaud](./playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [2021-2022 Gaudin model and related topics](https://www.youtube.com/playlist?list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) | [3](./playlists/Gaud.md) |
-| Sep&nbsp;2021 | [Shl21](./playlists/Shl21 "2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance") |  | [2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance](https://www.youtube.com/playlist?list=PLLGkFbxve673FoRGJXxZ8kr6PxewnRY_X) | [3](./playlists/Shl21.md) |
+| Sep&nbsp;2021 | [Shl21](./playlists/Shl21 "2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance") |  | [2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance](https://www.youtube.com/playlist?list=PLLGkFbxve673FoRGJXxZ8kr6PxewnRY_X) | [5](./playlists/Shl21.md) |
 | Sep&nbsp;2021 | [AK75](./playlists/AK75 "International Conference &#34;Integrability&#34; Dedicated to 75th Anniversary of A. K. Pogrebkov") |  | [International Conference &#34;Integrability&#34; Dedicated to 75th Anniversary of A. K. Pogrebkov](https://www.youtube.com/playlist?list=PLLGkFbxve673YBRC8H2DunNGa1ECo5Y5V) | [28](./playlists/AK75.md) |
 | Sep&nbsp;2021 | [Olsh21](./playlists/Olsh21 "2021 Grigory Olshanski -- Symmetric functions") |  | [2021 Grigory Olshanski -- Symmetric functions](https://www.youtube.com/playlist?list=PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU) | [5](./playlists/Olsh21.md) |
 | Sep&nbsp;2021 | [QG21](./playlists/QG21 "2021 Mikhail Bershtein -- Affine Quantum Groups") |  | [2021 Mikhail Bershtein -- Affine Quantum Groups](https://www.youtube.com/playlist?list=PLLGkFbxve673NIHezZTurCNSpuf8keZS1) | [6](./playlists/QG21.md) |
@@ -53,6 +53,12 @@ Number of other videos: [18](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Sat&nbsp;23&nbsp;Oct&nbsp;2021 | None |  | [[**e**](https://studio.youtube.com/video/YfAK7YEEDQE/edit "Edit")] [А. Григорьев —  Метод сдвига аргумента и подалгебры Мищенко-Фоменко (2/2)](https://www.youtube.com/watch?v=YfAK7YEEDQE) |
+| Sat&nbsp;23&nbsp;Oct&nbsp;2021 | None |  | [[**e**](https://studio.youtube.com/video/WwQQI4_bSl8/edit "Edit")] [Артур Гуцалюк - Спиновые цепочки со взаимодействием &#34;средней дальности&#34; и клеточные автоматы](https://www.youtube.com/watch?v=WwQQI4_bSl8) |
+| Fri&nbsp;22&nbsp;Oct&nbsp;2021 | [Shl21](./playlists/Shl21 "2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance") |  | [[**e**](https://studio.youtube.com/video/RK9JNvjQ4VY/edit "Edit")] [S. Shlosman. Conformal invariance 5](https://www.youtube.com/watch?v=RK9JNvjQ4VY "Кестен: На плоскости p&#95;cr = 1/2.") |
+| Fri&nbsp;22&nbsp;Oct&nbsp;2021 | [Shl21](./playlists/Shl21 "2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance") |  | [[**e**](https://studio.youtube.com/video/uhAzVrFALUI/edit "Edit")] [S. Shlosman. Conformal invariance 4](https://www.youtube.com/watch?v=uhAzVrFALUI "Окончание доказательства конструктивности параметра критического просачивания.") |
+| Fri&nbsp;22&nbsp;Oct&nbsp;2021 | None |  | [[**e**](https://studio.youtube.com/video/_ewjlDwDBKI/edit "Edit")] [Grigori Olshanski -- Symmetric functions 6](https://www.youtube.com/watch?v=_ewjlDwDBKI) |
+| Fri&nbsp;22&nbsp;Oct&nbsp;2021 | None |  | [[**e**](https://studio.youtube.com/video/gqYcsVdXl0Y/edit "Edit")] [Никита Некрасов](https://www.youtube.com/watch?v=gqYcsVdXl0Y) |
 | Thu&nbsp;21&nbsp;Oct&nbsp;2021 | [Tue](./playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/nmlKmFfy2cg/edit "Edit")] [Елизавета Трунина — Приколы с дискретным уравнением Пенлеве (2/2)](https://www.youtube.com/watch?v=nmlKmFfy2cg) |
 | Thu&nbsp;21&nbsp;Oct&nbsp;2021 | [Tue](./playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/yfG-4aKppok/edit "Edit")] [Андрей Ляшик — Центр RTT алгебры](https://www.youtube.com/watch?v=yfG-4aKppok "Я расскажу про центр RTT алгебры, придуманный Назаровым. Такой центр отличен от квантового детерминанта и намного дружелюбнее.") |
 | Tue&nbsp;19&nbsp;Oct&nbsp;2021 | [Kri21](./playlists/Kri21 "2021 Igor Krichever -- Integrable systems") |  | [[**e**](https://studio.youtube.com/video/5q5DAXptW7o/edit "Edit")] [Igor Krichever -- Integrable systems. Lecture 4](https://www.youtube.com/watch?v=5q5DAXptW7o) |
