@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [41](#videos)
+Number of videos: [42](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -14,6 +14,7 @@ Go to [Mathematical Physics School](../README.md)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Sat&nbsp;30&nbsp;Oct&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/1Dvs00iVMGY/edit "Edit")] [Karol Kozlowski - Convergence of the form factor series in the Sinh-Gordon quantum field theory in 1](https://www.youtube.com/watch?v=1Dvs00iVMGY&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;23&nbsp;Oct&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/WwQQI4_bSl8/edit "Edit")] [Артур Гуцалюк - Спиновые цепочки со взаимодействием &#34;средней дальности&#34; и клеточные автоматы](https://www.youtube.com/watch?v=WwQQI4_bSl8&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;16&nbsp;Oct&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/xO_Jj4qtwJM/edit "Edit")] [Владимир Казаков - Матричный бутстрап](https://www.youtube.com/watch?v=xO_Jj4qtwJM&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;9&nbsp;Oct&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/yA_4VetbdGA/edit "Edit")] [Никита Сопенко - Высшие классы Берри](https://www.youtube.com/watch?v=yA_4VetbdGA&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |

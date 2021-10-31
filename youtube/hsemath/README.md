@@ -6,7 +6,7 @@ Number of playlists: [234](#playlists)
 
 Number of channel videos: [2398](#videos)
 
-Number of other videos: [179](#other-videos)
+Number of other videos: [178](#other-videos)
 
 ## Playlists
 
@@ -30,7 +30,7 @@ Number of other videos: [179](#other-videos)
 | Sep&nbsp;2021 | [219](./playlists/219 "НИС Магистерской программы (Побережный)") |  | [НИС Магистерской программы (Побережный)](https://www.youtube.com/playlist?list=PLq3E5oubNNoDeQxFj7qt_GmaJz10Uqy_A) | [9](./playlists/219.md) |
 | Sep&nbsp;2021 | [218](./playlists/218 "Финкельберг М.В. Алгебраическая геометрия, осень 2021") |  | [Финкельберг М.В. Алгебраическая геометрия, осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoDKy3UIz2tQxetk3x9CuTXp) | [12](./playlists/218.md) |
 | Sep&nbsp;2021 | [217](./playlists/217 "Амбург Н.Я. Графы на поверхностях. Осень 2021") |  | [Амбург Н.Я. Графы на поверхностях. Осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoAydwj7nSP8OY6N_AFWDWB6) | [6](./playlists/217.md) |
-| Sep&nbsp;2021 | [216](./playlists/216 "Побережный В.А., Гамильтонова механика, 2021") |  | [Побережный В.А., Гамильтонова механика, 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoAS5NVBTBHia-xixzTJcG_y) | [5](./playlists/216.md) |
+| Sep&nbsp;2021 | [216](./playlists/216 "Побережный В.А., Гамильтонова механика, 2021") |  | [Побережный В.А., Гамильтонова механика, 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoAS5NVBTBHia-xixzTJcG_y) | [4](./playlists/216.md) |
 | Sep&nbsp;2021 | [215](./playlists/215 "Б.Иомдин Лингвистика, осень 2021") |  | [Б.Иомдин Лингвистика, осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoD6AfR2K_GKWiQ0AMalCqID) | [6](./playlists/215.md) |
 | Sep&nbsp;2021 | [214](./playlists/214 "Казарян М.Э. Введение в  алгебраическую топологию, осень 2021") |  | [Казарян М.Э. Введение в  алгебраическую топологию, осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoBFRjCAydOaG-RTa-HKJDpD) | [15](./playlists/214.md) |
 | Sep&nbsp;2021 | [213](./playlists/213 "Колесников А.В. Введение в теорию вероятностей, осень 2021") |  | [Колесников А.В. Введение в теорию вероятностей, осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoApMWuh9pZS8SGVufOJhneT) | [1](./playlists/213.md) |
@@ -2681,7 +2681,6 @@ This list includes either *unlisted* videos, or videos from other channels, avai
 | Fri&nbsp;22&nbsp;Oct&nbsp;2021 | [219](./playlists/219 "НИС Магистерской программы (Побережный)") |  | [[**e**](https://studio.youtube.com/video/frpHvcf4Alo/edit "Edit")] [НИС Магистерской программы](https://www.youtube.com/watch?v=frpHvcf4Alo) | [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg) |
 | Tue&nbsp;12&nbsp;Oct&nbsp;2021 | [218](./playlists/218 "Финкельберг М.В. Алгебраическая геометрия, осень 2021") |  | [[**e**](https://studio.youtube.com/video/2-TRZY-Zg_g/edit "Edit")] [Deleted video](https://www.youtube.com/watch?v=2-TRZY-Zg_g "This video is unavailable.") | Unknown |
 | Thu&nbsp;14&nbsp;Oct&nbsp;2021 | [218](./playlists/218 "Финкельберг М.В. Алгебраическая геометрия, осень 2021") |  | [[**e**](https://studio.youtube.com/video/cqfIBuIzqdk/edit "Edit")] [Deleted video](https://www.youtube.com/watch?v=cqfIBuIzqdk "This video is unavailable.") | Unknown |
-| Tue&nbsp;28&nbsp;Sep&nbsp;2021 | [216](./playlists/216 "Побережный В.А., Гамильтонова механика, 2021") |  | [[**e**](https://studio.youtube.com/video/NAYzSTJJKMg/edit "Edit")] [Deleted video](https://www.youtube.com/watch?v=NAYzSTJJKMg "This video is unavailable.") | Unknown |
 | Tue&nbsp;5&nbsp;Oct&nbsp;2021 | [216](./playlists/216 "Побережный В.А., Гамильтонова механика, 2021") |  | [[**e**](https://studio.youtube.com/video/3CpTpq--VB0/edit "Edit")] [Deleted video](https://www.youtube.com/watch?v=3CpTpq--VB0 "This video is unavailable.") | Unknown |
 | Mon&nbsp;18&nbsp;Oct&nbsp;2021 | [216](./playlists/216 "Побережный В.А., Гамильтонова механика, 2021") |  | [[**e**](https://studio.youtube.com/video/_eRC_zkSYwE/edit "Edit")] [Deleted video](https://www.youtube.com/watch?v=_eRC_zkSYwE "This video is unavailable.") | Unknown |
 | Fri&nbsp;22&nbsp;Oct&nbsp;2021 | [216](./playlists/216 "Побережный В.А., Гамильтонова механика, 2021") |  | [[**e**](https://studio.youtube.com/video/sc99kFTF1Iw/edit "Edit")] [Побережный В.А., Гамильтонова механика, 26.10.2021](https://www.youtube.com/watch?v=sc99kFTF1Iw) | [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg) |
