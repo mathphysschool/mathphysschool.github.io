@@ -4,7 +4,7 @@
 
 Number of playlists: [34](#playlists)
 
-Number of channel videos: [794](#videos)
+Number of channel videos: [795](#videos)
 
 Number of other videos: [21](#other-videos)
 
@@ -12,7 +12,7 @@ Number of other videos: [21](#other-videos)
 
 |Date|Label|Links|Playlist title|Videos|
 |---|---|---|---|--:|
-| Oct&nbsp;2021 | [Kri21](./playlists/Kri21 "2021 Игорь Кричевер — Интегрируемые системы") |  | [2021 Игорь Кричевер — Интегрируемые системы](https://www.youtube.com/playlist?list=PLLGkFbxve672FSoeyhuPicPlKD3Tqz9J9) | [3](./playlists/Kri21.md) |
+| Oct&nbsp;2021 | [Kri21](./playlists/Kri21 "2021 Игорь Кричевер — Интегрируемые системы") |  | [2021 Игорь Кричевер — Интегрируемые системы](https://www.youtube.com/playlist?list=PLLGkFbxve672FSoeyhuPicPlKD3Tqz9J9) | [4](./playlists/Kri21.md) |
 | Oct&nbsp;2021 | [Fn21](./playlists/Fn21 "2021 Michael Finkelberg -- Geometric representation theory") |  | [2021 Michael Finkelberg -- Geometric representation theory](https://www.youtube.com/playlist?list=PLLGkFbxve670NByR3MfseS6C6I5YeTeD5) | [6](./playlists/Fn21.md) |
 | Oct&nbsp;2021 | [Gaud](./playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [2021-2022 Gaudin model and related topics](https://www.youtube.com/playlist?list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) | [5](./playlists/Gaud.md) |
 | Sep&nbsp;2021 | [Shl21](./playlists/Shl21 "2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance") |  | [2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance](https://www.youtube.com/playlist?list=PLLGkFbxve673FoRGJXxZ8kr6PxewnRY_X) | [5](./playlists/Shl21.md) |
@@ -53,6 +53,7 @@ Number of other videos: [21](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Mon&nbsp;1&nbsp;Nov&nbsp;2021 | [Kri21](./playlists/Kri21 "2021 Игорь Кричевер — Интегрируемые системы") |  | [[**e**](https://studio.youtube.com/video/ZEPF6qm98Tc/edit "Edit")] [Игорь Кричевер — Интегрируемые системы. Лекция 6](https://www.youtube.com/watch?v=ZEPF6qm98Tc) |
 | Mon&nbsp;1&nbsp;Nov&nbsp;2021 | [Fn21](./playlists/Fn21 "2021 Michael Finkelberg -- Geometric representation theory") |  | [[**e**](https://studio.youtube.com/video/xpupdWYn9uU/edit "Edit")] [Michael Finkelberg — Geometric representation theory. 6](https://www.youtube.com/watch?v=xpupdWYn9uU) |
 | Sat&nbsp;30&nbsp;Oct&nbsp;2021 | [Gaud](./playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/h2nz5bTGo8k/edit "Edit")] [В. Иванов — Универсальная подалгебра Годена](https://www.youtube.com/watch?v=h2nz5bTGo8k) |
 | Sat&nbsp;30&nbsp;Oct&nbsp;2021 | [GL](./playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/1Dvs00iVMGY/edit "Edit")] [Karol Kozlowski - Convergence of the form factor series in the Sinh-Gordon quantum field theory in 1](https://www.youtube.com/watch?v=1Dvs00iVMGY) |

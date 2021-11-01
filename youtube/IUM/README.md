@@ -4,9 +4,9 @@
 
 Number of playlists: [222](#playlists)
 
-Number of channel videos: [2153](#videos)
+Number of channel videos: [2154](#videos)
 
-Number of other videos: [16](#other-videos)
+Number of other videos: [15](#other-videos)
 
 ## Playlists
 
@@ -241,6 +241,7 @@ Number of other videos: [16](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Mon&nbsp;1&nbsp;Nov&nbsp;2021 | [197](./playlists/197 "А.В. Фонарёв. Алгебра - 1. Осень 2021 г.") | [**[1]**](https://ium.mccme.ru/f21/f21-Algebra1.html) | [[**e**](https://studio.youtube.com/video/e1KmI5SvP7c/edit "Edit")] [Алгебра-1, лекция 9, А.В.Фонарев](https://www.youtube.com/watch?v=e1KmI5SvP7c "Страница курса -- https://ium.mccme.ru/f21/f21-Algebra1.html") |
 | Sat&nbsp;30&nbsp;Oct&nbsp;2021 | [202](./playlists/202 "С.В. Шапошников. Анализ на многообразиях. Осень 2021 г.") | [**[1]**](https://ium.mccme.ru/f21/f21-Analiz3.html) | [[**e**](https://studio.youtube.com/video/nedKBKmj6gs/edit "Edit")] [Анализ на многообразиях, лекция 8, С.В.Шапошников](https://www.youtube.com/watch?v=nedKBKmj6gs "https://ium.mccme.ru/f21/f21-Analiz3.html") |
 | Thu&nbsp;28&nbsp;Oct&nbsp;2021 | [210](./playlists/210 "Г.Б. Шабат. Алгебраические кривые. Осень 2021 г.") | [**[1]**](https://ium.mccme.ru/f21/f21-Shabat-AC.html) | [[**e**](https://studio.youtube.com/video/TbexCYV9XLQ/edit "Edit")] [Алгебраические кривые. Лекция 7. Г.Б. Шабат.](https://www.youtube.com/watch?v=TbexCYV9XLQ "Спецкурс для 2 курса и старше.&#013;Страница курса: https://ium.mccme.ru/f21/f21-Shabat-AC.html") |
 | Thu&nbsp;28&nbsp;Oct&nbsp;2021 | [198](./playlists/198 "А.Б. Сосинский. Геометрия. Осень 2021 г.") | [**[1]**](https://ium.mccme.ru/f21/f21-Geometry.html) | [[**e**](https://studio.youtube.com/video/vKFIpNvdEPk/edit "Edit")] [Геометрия. Лекция 8. А.Б. Сосинский.](https://www.youtube.com/watch?v=vKFIpNvdEPk "Лекция для 1 курса.&#013;Страница курса: https://ium.mccme.ru/f21/f21-Geometry.html") |
@@ -2410,7 +2411,6 @@ This list includes either *unlisted* videos, or videos from other channels, avai
 | Tue&nbsp;26&nbsp;Oct&nbsp;2021 | [211](./playlists/211 "C.Абрамян. Нестабильная теория гомотопий. Осень 2021 г.") |  | [[**e**](https://studio.youtube.com/video/3i8X8Nl3S5U/edit "Edit")] [Deleted video](https://www.youtube.com/watch?v=3i8X8Nl3S5U "This video is unavailable.") | Unknown |
 | Mon&nbsp;11&nbsp;Oct&nbsp;2021 | [207](./playlists/207 "Т.Е. Панов. Кобордизмы и действия тора. Осень 2021 г.") |  | [[**e**](https://studio.youtube.com/video/ZWERklkT2TY/edit "Edit")] [Deleted video](https://www.youtube.com/watch?v=ZWERklkT2TY "This video is unavailable.") | Unknown |
 | Mon&nbsp;25&nbsp;Oct&nbsp;2021 | [207](./playlists/207 "Т.Е. Панов. Кобордизмы и действия тора. Осень 2021 г.") |  | [[**e**](https://studio.youtube.com/video/Ia3Zji0CT8w/edit "Edit")] [Deleted video](https://www.youtube.com/watch?v=Ia3Zji0CT8w "This video is unavailable.") | Unknown |
-| Mon&nbsp;1&nbsp;Nov&nbsp;2021 | [197](./playlists/197 "А.В. Фонарёв. Алгебра - 1. Осень 2021 г.") | [**[1]**](https://ium.mccme.ru/f21/f21-Algebra1.html) | [[**e**](https://studio.youtube.com/video/e1KmI5SvP7c/edit "Edit")] [Алгебра-1, лекция 9, А.В.Фонарев](https://www.youtube.com/watch?v=e1KmI5SvP7c "Страница курса -- https://ium.mccme.ru/f21/f21-Algebra1.html") | [Видеозаписи Независимого Московского Университета](https://www.youtube.com/channel/UCpi8qkXE7-q3TY19lIgO_Kw) |
 | Wed&nbsp;15&nbsp;Aug&nbsp;2018 | [110](./playlists/110 "А. А. Белавин, С. Е. Пархоменко. Введение в КТП-1, осень 2013") | [**[1]**](http://ium.mccme.ru/f13/f13-belavin-parhomenko.html) | [[**e**](https://studio.youtube.com/video/_jkBKo7c-rU/edit "Edit")] [А. А. Белавин, С. Е. Пархоменко. Введение в квантовую теорию поля-1, лекция 1, часть 1](https://www.youtube.com/watch?v=_jkBKo7c-rU "Совместный НМУ-ИППИ РАН спецкурс (лекции и семинары).&#013;12 сентября 2013 г. 17:30, НМУ 310 (Большой Власьевский пер., 11)&#013;http://ium.mccme.ru/f13/f13-belavin-parhomenko.html") | [Видеозаписи Независимого Московского Университета](https://www.youtube.com/channel/UCpi8qkXE7-q3TY19lIgO_Kw) |
 | Wed&nbsp;15&nbsp;Aug&nbsp;2018 | [110](./playlists/110 "А. А. Белавин, С. Е. Пархоменко. Введение в КТП-1, осень 2013") | [**[1]**](http://ium.mccme.ru/f13/f13-belavin-parhomenko.html) | [[**e**](https://studio.youtube.com/video/LMQzZB7pvdk/edit "Edit")] [А. А. Белавин, С. Е. Пархоменко. Введение в квантовую теорию поля-1, лекция 10, часть 2](https://www.youtube.com/watch?v=LMQzZB7pvdk "Совместный НМУ-ИППИ РАН спецкурс (лекции и семинары).&#013;14 ноября 2013 г. 17:30, НМУ 310 (Большой Власьевский пер., 11)&#013;http://ium.mccme.ru/f13/f13-belavin-parhomenko.html") | [Видеозаписи Независимого Московского Университета](https://www.youtube.com/channel/UCpi8qkXE7-q3TY19lIgO_Kw) |
 | Wed&nbsp;15&nbsp;Aug&nbsp;2018 | [110](./playlists/110 "А. А. Белавин, С. Е. Пархоменко. Введение в КТП-1, осень 2013") | [**[1]**](http://ium.mccme.ru/f13/f13-belavin-parhomenko.html) | [[**e**](https://studio.youtube.com/video/z3Nn_pfqyYg/edit "Edit")] [А. А. Белавин, С. Е. Пархоменко. Введение в квантовую теорию поля-1, лекция 13, часть 1](https://www.youtube.com/watch?v=z3Nn_pfqyYg "Совместный НМУ-ИППИ РАН спецкурс (лекции и семинары).&#013;5 декабря 2013 г. 17:30, НМУ 310 (Большой Власьевский пер., 11)&#013;http://ium.mccme.ru/f13/f13-belavin-parhomenko.html") | [Видеозаписи Независимого Московского Университета](https://www.youtube.com/channel/UCpi8qkXE7-q3TY19lIgO_Kw) |
