@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [62](#videos)
+Number of videos: [63](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -76,6 +76,7 @@ Go to [Mathematical Physics School](../README.md)
 | Wed&nbsp;27&nbsp;Oct&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/iPoEOxNXoYc/edit "Edit")] [Елизавета Трунина — Приколы с дискретным уравнением Пенлеве (3/3)](https://www.youtube.com/watch?v=iPoEOxNXoYc&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC) |
 | Thu&nbsp;21&nbsp;Oct&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/yfG-4aKppok/edit "Edit")] [Андрей Ляшик — Центр RTT алгебры](https://www.youtube.com/watch?v=yfG-4aKppok&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC "Я расскажу про центр RTT алгебры, придуманный Назаровым. Такой центр отличен от квантового детерминанта и намного дружелюбнее.") |
 | Wed&nbsp;27&nbsp;Oct&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/cCbGnJMoHME/edit "Edit")] [Андрей Ляшик — Ортогональные R-матрицы в векторных и спинорных представлениях (1/2)](https://www.youtube.com/watch?v=cCbGnJMoHME&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC) |
+| Wed&nbsp;3&nbsp;Nov&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/BJYZX-7RwLg/edit "Edit")] [Maria Matushko — Spinor R-matrix and Yang-Baxter equation](https://www.youtube.com/watch?v=BJYZX-7RwLg&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC) |
 
 
  If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.
