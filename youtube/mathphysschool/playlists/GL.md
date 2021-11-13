@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [43](#videos)
+Number of videos: [44](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -14,6 +14,7 @@ Go to [Mathematical Physics School](../README.md)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Sat&nbsp;13&nbsp;Nov&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/rZO2hU47KAM/edit "Edit")] [Stefano Negro -  The relevance of being irrelevant](https://www.youtube.com/watch?v=rZO2hU47KAM&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;6&nbsp;Nov&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/zui7Y7qlje4/edit "Edit")] [Фёдор Левкович-Маслюк - Disc partition function of 2d R^2 gravity from DWG matrix model](https://www.youtube.com/watch?v=zui7Y7qlje4&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;30&nbsp;Oct&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/1Dvs00iVMGY/edit "Edit")] [Karol Kozlowski - Convergence of the form factor series in the Sinh-Gordon quantum field theory in 1](https://www.youtube.com/watch?v=1Dvs00iVMGY&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;23&nbsp;Oct&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/WwQQI4_bSl8/edit "Edit")] [Артур Гуцалюк - Спиновые цепочки со взаимодействием &#34;средней дальности&#34; и клеточные автоматы](https://www.youtube.com/watch?v=WwQQI4_bSl8&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |

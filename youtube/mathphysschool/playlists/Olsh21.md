@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [7](#videos)
+Number of videos: [8](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -21,6 +21,7 @@ Go to [Mathematical Physics School](../README.md)
 | Fri&nbsp;15&nbsp;Oct&nbsp;2021 | [Olsh21](../playlists/Olsh21 "2021 Grigory Olshanski -- Symmetric functions") |  | [[**e**](https://studio.youtube.com/video/7Ng8pzLDS70/edit "Edit")] [Grigori Olshanski -- Symmetric functions 5](https://www.youtube.com/watch?v=7Ng8pzLDS70&list=PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU) |
 | Fri&nbsp;22&nbsp;Oct&nbsp;2021 | [Olsh21](../playlists/Olsh21 "2021 Grigory Olshanski -- Symmetric functions") |  | [[**e**](https://studio.youtube.com/video/_ewjlDwDBKI/edit "Edit")] [Grigori Olshanski -- Symmetric functions 6](https://www.youtube.com/watch?v=_ewjlDwDBKI&list=PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU) |
 | Fri&nbsp;29&nbsp;Oct&nbsp;2021 | [Olsh21](../playlists/Olsh21 "2021 Grigory Olshanski -- Symmetric functions") |  | [[**e**](https://studio.youtube.com/video/ER5wxAND99c/edit "Edit")] [Grigori Olshanski -- Symmetric functions 7](https://www.youtube.com/watch?v=ER5wxAND99c&list=PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU) |
+| Fri&nbsp;12&nbsp;Nov&nbsp;2021 | [Olsh21](../playlists/Olsh21 "2021 Grigory Olshanski -- Symmetric functions") |  | [[**e**](https://studio.youtube.com/video/Fez-yeqGxwI/edit "Edit")] [Grigori Olshanski -- Symmetric functions 8](https://www.youtube.com/watch?v=Fez-yeqGxwI&list=PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU) |
 
 
  If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.

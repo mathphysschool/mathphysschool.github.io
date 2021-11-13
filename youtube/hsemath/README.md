@@ -4,9 +4,9 @@
 
 Number of playlists: [236](#playlists)
 
-Number of channel videos: [2440](#videos)
+Number of channel videos: [2442](#videos)
 
-Number of other videos: [178](#other-videos)
+Number of other videos: [177](#other-videos)
 
 ## Playlists
 
@@ -40,7 +40,7 @@ Number of other videos: [178](#other-videos)
 | Sep&nbsp;2021 | [211](./playlists/211 "Жгун В.С. Введение в теорию алгебраических чисел и полей классов. Осень 2021") |  | [Жгун В.С. Введение в теорию алгебраических чисел и полей классов. Осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoBrf4WpDqw-w94shk0jMs0Z) | [6](./playlists/211.md) |
 | Sep&nbsp;2021 | [210](./playlists/210 "А.Клименко, В.Тиморин. Геометрия и динамика. Осень 2021") |  | [А.Клименко, В.Тиморин. Геометрия и динамика. Осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoDUEhSn6ruzvKmSNeRBtR_j) | [9](./playlists/210.md) |
 | Sep&nbsp;2021 | [209](./playlists/209 "Дымов А.В., А.С.Скрипченко. Цепи Маркова. осень 2021") |  | [Дымов А.В., А.С.Скрипченко. Цепи Маркова. осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoAEeFeGKdD4yxH-VdHbiEeO) | [7](./playlists/209.md) |
-| Sep&nbsp;2021 | [208](./playlists/208 "Рыбников Л.Г. Теория представлений. осень 2021") |  | [Рыбников Л.Г. Теория представлений. осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoDppC1wQZsy8q5c3ZXE_iSF) | [11](./playlists/208.md) |
+| Sep&nbsp;2021 | [208](./playlists/208 "Рыбников Л.Г. Теория представлений. осень 2021") |  | [Рыбников Л.Г. Теория представлений. осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoDppC1wQZsy8q5c3ZXE_iSF) | [12](./playlists/208.md) |
 | Sep&nbsp;2021 | [207](./playlists/207 "Гайфуллин А. Группы классов отображений. Осень 2021") |  | [Гайфуллин А. Группы классов отображений. Осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoDi6ACF5LfG3vqoP2-fznwf) | [9](./playlists/207.md) |
 | Sep&nbsp;2021 | [206](./playlists/206 "Рыбаков М.Н.  Майнор «Логика» Осень 2021") |  | [Рыбаков М.Н.  Майнор «Логика» Осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoAiWYOxXE5PrcgL3Ezy6cS4) | [6](./playlists/206.md) |
 | Sep&nbsp;2021 | [205](./playlists/205 "Пенской А.В. Комплексная геометрия. Осень 2021") |  | [Пенской А.В. Комплексная геометрия. Осень 2021](https://www.youtube.com/playlist?list=PLq3E5oubNNoDhEeWpyrksAc37fafGJZKU) | [12](./playlists/205.md) |
@@ -255,6 +255,8 @@ Number of other videos: [178](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Sat&nbsp;13&nbsp;Nov&nbsp;2021 | [185](./playlists/185 "Красносельский А.М. Математический анализ 2. осень 2021") |  | [[**e**](https://studio.youtube.com/video/7DTlsP-3E3k/edit "Edit")] [Красносельский А.М. Математический анализ 12.11.2021](https://www.youtube.com/watch?v=7DTlsP-3E3k) |
+| Sat&nbsp;13&nbsp;Nov&nbsp;2021 | [208](./playlists/208 "Рыбников Л.Г. Теория представлений. осень 2021") |  | [[**e**](https://studio.youtube.com/video/Memt0oSfJ9I/edit "Edit")] [Рыбников Л.Г. Теория представлений. 12 ноября 2021](https://www.youtube.com/watch?v=Memt0oSfJ9I) |
 | Fri&nbsp;12&nbsp;Nov&nbsp;2021 | [197](./playlists/197 "Рыбников Л.Г. Группы и алгебры Ли, осень 2021") |  | [[**e**](https://studio.youtube.com/video/gyMLX0-uHlM/edit "Edit")] [Рыбников Л.Г. Группы и алгебры Ли. 12 ноября 2021](https://www.youtube.com/watch?v=gyMLX0-uHlM) |
 | Fri&nbsp;12&nbsp;Nov&nbsp;2021 | [208](./playlists/208 "Рыбников Л.Г. Теория представлений. осень 2021") |  | [[**e**](https://studio.youtube.com/video/40vRJtoSpFA/edit "Edit")] [Рыбников Л.Г. Теория представлений. 9 ноября 2021](https://www.youtube.com/watch?v=40vRJtoSpFA) |
 | Fri&nbsp;12&nbsp;Nov&nbsp;2021 | [205](./playlists/205 "Пенской А.В. Комплексная геометрия. Осень 2021") |  | [[**e**](https://studio.youtube.com/video/PfdKDUDEgXs/edit "Edit")] [Пенской А.В. Комплексная геометрия. Лекция 9](https://www.youtube.com/watch?v=PfdKDUDEgXs) |
@@ -2766,7 +2768,6 @@ This list includes either *unlisted* videos, or videos from other channels, avai
 | Mon&nbsp;18&nbsp;Oct&nbsp;2021 | [187](./playlists/187 "Мауро Мариани. Теория вероятностей. бак3. осень 2021") |  | [[**e**](https://studio.youtube.com/video/XMb3xC1dqCk/edit "Edit")] [Deleted video](https://www.youtube.com/watch?v=XMb3xC1dqCk "This video is unavailable.") | Unknown |
 | Fri&nbsp;22&nbsp;Oct&nbsp;2021 | [187](./playlists/187 "Мауро Мариани. Теория вероятностей. бак3. осень 2021") |  | [[**e**](https://studio.youtube.com/video/8-lrvsfFT18/edit "Edit")] [Deleted video](https://www.youtube.com/watch?v=8-lrvsfFT18 "This video is unavailable.") | Unknown |
 | Fri&nbsp;22&nbsp;Oct&nbsp;2021 | [185](./playlists/185 "Красносельский А.М. Математический анализ 2. осень 2021") |  | [[**e**](https://studio.youtube.com/video/UGcShYlsr00/edit "Edit")] [Deleted video](https://www.youtube.com/watch?v=UGcShYlsr00 "This video is unavailable.") | Unknown |
-| Mon&nbsp;8&nbsp;Nov&nbsp;2021 | [185](./playlists/185 "Красносельский А.М. Математический анализ 2. осень 2021") |  | [[**e**](https://studio.youtube.com/video/7DTlsP-3E3k/edit "Edit")] [Красносельский А.М. Математический анализ 12.11.2021](https://www.youtube.com/watch?v=7DTlsP-3E3k) | [Mathematics at HSE](https://www.youtube.com/channel/UCASlwNxf7mHBUEPr1s6fsDg) |
 | Thu&nbsp;30&nbsp;Sep&nbsp;2021 | [184](./playlists/184 "Хорошкин С.М. НИС Гладкие многообразия 2. осень 2021") |  | [[**e**](https://studio.youtube.com/video/SYSKISia2ko/edit "Edit")] [Deleted video](https://www.youtube.com/watch?v=SYSKISia2ko "This video is unavailable.") | Unknown |
 | Mon&nbsp;8&nbsp;Nov&nbsp;2021 | [184](./playlists/184 "Хорошкин С.М. НИС Гладкие многообразия 2. осень 2021") |  | [[**e**](https://studio.youtube.com/video/zwkkWlzkFgg/edit "Edit")] [Deleted video](https://www.youtube.com/watch?v=zwkkWlzkFgg "This video is unavailable.") | Unknown |
 | Fri&nbsp;22&nbsp;Oct&nbsp;2021 | [183](./playlists/183 "Клименко А.В. Дифференциальные уравнения, бак2/3, осень 2021") |  | [[**e**](https://studio.youtube.com/video/7igonIrB4UA/edit "Edit")] [Deleted video](https://www.youtube.com/watch?v=7igonIrB4UA "This video is unavailable.") | Unknown |
