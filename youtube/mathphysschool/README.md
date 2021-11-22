@@ -4,7 +4,7 @@
 
 Number of playlists: [34](#playlists)
 
-Number of channel videos: [821](#videos)
+Number of channel videos: [825](#videos)
 
 Number of other videos: [19](#other-videos)
 
@@ -17,7 +17,7 @@ Number of other videos: [19](#other-videos)
 | Oct&nbsp;2021 | [Gaud](./playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [2021-2022 Gaudin model and related topics](https://www.youtube.com/playlist?list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) | [7](./playlists/Gaud.md) |
 | Sep&nbsp;2021 | [Shl21](./playlists/Shl21 "2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance") |  | [2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance](https://www.youtube.com/playlist?list=PLLGkFbxve673FoRGJXxZ8kr6PxewnRY_X) | [7](./playlists/Shl21.md) |
 | Sep&nbsp;2021 | [AK75](./playlists/AK75 "International Conference &#34;Integrability&#34; Dedicated to 75th Anniversary of A. K. Pogrebkov") |  | [International Conference &#34;Integrability&#34; Dedicated to 75th Anniversary of A. K. Pogrebkov](https://www.youtube.com/playlist?list=PLLGkFbxve673YBRC8H2DunNGa1ECo5Y5V) | [28](./playlists/AK75.md) |
-| Sep&nbsp;2021 | [Olsh21](./playlists/Olsh21 "2021 Grigory Olshanski -- Symmetric functions") |  | [2021 Grigory Olshanski -- Symmetric functions](https://www.youtube.com/playlist?list=PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU) | [8](./playlists/Olsh21.md) |
+| Sep&nbsp;2021 | [Olsh21](./playlists/Olsh21 "2021 Grigory Olshanski -- Symmetric functions") |  | [2021 Grigory Olshanski -- Symmetric functions](https://www.youtube.com/playlist?list=PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU) | [9](./playlists/Olsh21.md) |
 | Sep&nbsp;2021 | [QG21](./playlists/QG21 "2021 Mikhail Bershtein -- Affine Quantum Groups") |  | [2021 Mikhail Bershtein -- Affine Quantum Groups](https://www.youtube.com/playlist?list=PLLGkFbxve673NIHezZTurCNSpuf8keZS1) | [10](./playlists/QG21.md) |
 | Jun&nbsp;2021 | [JT21](./playlists/JT21 "2021 доклады о JT гравитации") |  | [2021 доклады о JT гравитации](https://www.youtube.com/playlist?list=PLLGkFbxve673qZpDb_XSpqWCIjHppooP6) | [6](./playlists/JT21.md) |
 | Jun&nbsp;2021 | [T21](./playlists/T21 "2021 доклады о мастер Т-операторе и квантово-классическом соответствии") |  | [2021 доклады о мастер Т-операторе и квантово-классическом соответствии](https://www.youtube.com/playlist?list=PLLGkFbxve670vmUt8cr9K6qKtUCW1LgWt) | [11](./playlists/T21.md) |
@@ -53,8 +53,12 @@ Number of other videos: [19](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Sat&nbsp;20&nbsp;Nov&nbsp;2021 | None |  | [[**e**](https://studio.youtube.com/video/RMwoV1L23EY/edit "Edit")] [И. Моторин — Подалгебра Бете в янгиане и квантование алгебры Годена.](https://www.youtube.com/watch?v=RMwoV1L23EY) |
+| Sat&nbsp;20&nbsp;Nov&nbsp;2021 | None |  | [[**e**](https://studio.youtube.com/video/HcF_5ioFNxQ/edit "Edit")] [Альберт Соломонович Шварц - Геометрический подход к квантовой теории и инклюзивная матрица рассеяния](https://www.youtube.com/watch?v=HcF_5ioFNxQ) |
+| Sat&nbsp;20&nbsp;Nov&nbsp;2021 | None |  | [[**e**](https://studio.youtube.com/video/FoBFnixmx_c/edit "Edit")] [Integrable systems](https://www.youtube.com/watch?v=FoBFnixmx_c) |
+| Fri&nbsp;19&nbsp;Nov&nbsp;2021 | None |  | [[**e**](https://studio.youtube.com/video/aIbFUVqS3tk/edit "Edit")] [Conformal invariance 8](https://www.youtube.com/watch?v=aIbFUVqS3tk "Окончание доказательства конформной инвариантности критического просачивания") |
 | Fri&nbsp;19&nbsp;Nov&nbsp;2021 | [M-W](./playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/sSTFZKYZ1jQ/edit "Edit")] [Светлана Гаврилова — Полиномы Шура и меры Шура как статсуммы](https://www.youtube.com/watch?v=sSTFZKYZ1jQ "Я планирую рассказать про интерпретацию функций и меры Шура как некоторых статсумм на квадратной решетке, а также, пользуясь леммой Линдстрёма-Гесселя-Вьено, доказать, что она действительно является детерминантным точечным процессом (что было сформулировано в прошлые разы). Также мы докажем косое тождество Коши, и если останется время, поговорим про процессы Шура и связанные сюжеты.") |
-| Fri&nbsp;19&nbsp;Nov&nbsp;2021 | None |  | [[**e**](https://studio.youtube.com/video/xnAt9Hq3zqQ/edit "Edit")] [Grigori Olshanski -- Symmetric functions 9](https://www.youtube.com/watch?v=xnAt9Hq3zqQ) |
+| Fri&nbsp;19&nbsp;Nov&nbsp;2021 | [Olsh21](./playlists/Olsh21 "2021 Grigory Olshanski -- Symmetric functions") |  | [[**e**](https://studio.youtube.com/video/xnAt9Hq3zqQ/edit "Edit")] [Grigori Olshanski -- Symmetric functions 9](https://www.youtube.com/watch?v=xnAt9Hq3zqQ) |
 | Fri&nbsp;19&nbsp;Nov&nbsp;2021 | [Fn21](./playlists/Fn21 "2021 Michael Finkelberg -- Geometric representation theory") |  | [[**e**](https://studio.youtube.com/video/xMTR_MiZwYA/edit "Edit")] [Michael Finkelberg —  Representations of affine Hecke algebras, lecture 8](https://www.youtube.com/watch?v=xMTR_MiZwYA) |
 | Thu&nbsp;18&nbsp;Nov&nbsp;2021 | [M-W](./playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/CPDRkM_1MbM/edit "Edit")] [Василий Югов — Пространства модулей плоских связностей. ВКБ описание оперов (4/4)](https://www.youtube.com/watch?v=CPDRkM_1MbM) |
 | Thu&nbsp;18&nbsp;Nov&nbsp;2021 | [Tue](./playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/TnkAa1fE8GM/edit "Edit")] [Leonid Cherepanov — Double sine (2/2)](https://www.youtube.com/watch?v=TnkAa1fE8GM "I will talk about basic properties of classical double sine and hyperbolic gamma-function defined by Ruijsenaars and compare two definitions.") |
