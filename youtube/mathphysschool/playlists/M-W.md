@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [108](#videos)
+Number of videos: [109](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -122,6 +122,7 @@ Go to [Mathematical Physics School](../README.md)
 | Thu&nbsp;11&nbsp;Nov&nbsp;2021 | [M-W](../playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/IQaoepPkXrM/edit "Edit")] [Василий Югов — Пространства модулей плоских связностей (3/4)](https://www.youtube.com/watch?v=IQaoepPkXrM&list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1) |
 | Thu&nbsp;18&nbsp;Nov&nbsp;2021 | [M-W](../playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/CPDRkM_1MbM/edit "Edit")] [Василий Югов — Пространства модулей плоских связностей. ВКБ описание оперов (4/4)](https://www.youtube.com/watch?v=CPDRkM_1MbM&list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1) |
 | Fri&nbsp;19&nbsp;Nov&nbsp;2021 | [M-W](../playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/sSTFZKYZ1jQ/edit "Edit")] [Светлана Гаврилова — Полиномы Шура и меры Шура как статсуммы](https://www.youtube.com/watch?v=sSTFZKYZ1jQ&list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1 "Я планирую рассказать про интерпретацию функций и меры Шура как некоторых статсумм на квадратной решетке, а также, пользуясь леммой Линдстрёма-Гесселя-Вьено, доказать, что она действительно является детерминантным точечным процессом (что было сформулировано в прошлые разы). Также мы докажем косое тождество Коши, и если останется время, поговорим про процессы Шура и связанные сюжеты.") |
+| Mon&nbsp;22&nbsp;Nov&nbsp;2021 | [M-W](../playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/AqKfZSpSgUY/edit "Edit")] [Никита Игнатюк — Многообразия Калаби-Яу. Определения, деформации комплексной структуры (1/2)](https://www.youtube.com/watch?v=AqKfZSpSgUY&list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1 "Мы поговорим об основных примерах КЯ-многообразий, известных на сегодняшний день и обсудим общие свойства модулей комплексных структур на многообразиях Калаби-Яу. Далее я собираюсь рассказать про общий метод вычисления кэлерова потенциала на пространстве модулей комплексных структур многообразия Калаби-Яу, и затем посчитать его для нескольких простых случаев. Если останется время, поговорим о гомологической зеркальной симметрии и имеющихся способах нахождения зеркальных партнеров для многообразий Калаби-Яу некоторых типов.") |
 
 
  If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.
