@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [67](#videos)
+Number of videos: [68](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -81,6 +81,7 @@ Go to [Mathematical Physics School](../README.md)
 | Thu&nbsp;18&nbsp;Nov&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/MF_VFFBme_k/edit "Edit")] [Leonid Cherepanov — Double sine (1/2) IN RUSSIAN](https://www.youtube.com/watch?v=MF_VFFBme_k&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC "I will talk about basic properties of classical double sine and hyperbolic gamma-function defined by Ruijsenaars and compare two definitions.") |
 | Thu&nbsp;18&nbsp;Nov&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/TnkAa1fE8GM/edit "Edit")] [Leonid Cherepanov — Double sine (2/2)](https://www.youtube.com/watch?v=TnkAa1fE8GM&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC "I will talk about basic properties of classical double sine and hyperbolic gamma-function defined by Ruijsenaars and compare two definitions.") |
 | Thu&nbsp;18&nbsp;Nov&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/oVReRt5Qk2s/edit "Edit")] [Prof. Vadim Prokofev — On two equivalent descriptions of KP hierarchy](https://www.youtube.com/watch?v=oVReRt5Qk2s&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC "We will discuss two approaches to KP hierarchy. The first one makes use of pseudodifferential operators while the second one uses bilinear Hirota identity.") |
+| Tue&nbsp;23&nbsp;Nov&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/giCArWLmiAw/edit "Edit")] [Mikhail Vasilyev — q-Whittaker function and q-difference Toda (sl&#95;2 case)](https://www.youtube.com/watch?v=giCArWLmiAw&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC "I will talk about the construction of q-Whittaker functions from the representation theory of U&#95;q(sl&#95;2). We will also show that they are eigenfunctions of the relativistic open Toda chain.") |
 
 
  If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.
