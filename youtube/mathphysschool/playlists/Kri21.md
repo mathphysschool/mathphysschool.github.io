@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [6](#videos)
+Number of videos: [7](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -20,6 +20,7 @@ Go to [Mathematical Physics School](../README.md)
 | Mon&nbsp;1&nbsp;Nov&nbsp;2021 | [Kri21](../playlists/Kri21 "2021 Игорь Кричевер — Интегрируемые системы") |  | [[**e**](https://studio.youtube.com/video/ZEPF6qm98Tc/edit "Edit")] [Игорь Кричевер — Интегрируемые системы. Лекция 6](https://www.youtube.com/watch?v=ZEPF6qm98Tc&list=PLLGkFbxve672FSoeyhuPicPlKD3Tqz9J9) |
 | Sat&nbsp;13&nbsp;Nov&nbsp;2021 | [Kri21](../playlists/Kri21 "2021 Игорь Кричевер — Интегрируемые системы") |  | [[**e**](https://studio.youtube.com/video/yAiQUDtyYMw/edit "Edit")] [Игорь Кричевер — Интегрируемые системы. Лекция 7](https://www.youtube.com/watch?v=yAiQUDtyYMw&list=PLLGkFbxve672FSoeyhuPicPlKD3Tqz9J9) |
 | Sat&nbsp;20&nbsp;Nov&nbsp;2021 | [Kri21](../playlists/Kri21 "2021 Игорь Кричевер — Интегрируемые системы") |  | [[**e**](https://studio.youtube.com/video/FoBFnixmx_c/edit "Edit")] [Игорь Кричевер — Интегрируемые системы. Лекция 8](https://www.youtube.com/watch?v=FoBFnixmx_c&list=PLLGkFbxve672FSoeyhuPicPlKD3Tqz9J9) |
+| Fri&nbsp;26&nbsp;Nov&nbsp;2021 | [Kri21](../playlists/Kri21 "2021 Игорь Кричевер — Интегрируемые системы") |  | [[**e**](https://studio.youtube.com/video/V4V19Giw0iI/edit "Edit")] [Игорь Кричевер — Интегрируемые системы. Лекция 9](https://www.youtube.com/watch?v=V4V19Giw0iI&list=PLLGkFbxve672FSoeyhuPicPlKD3Tqz9J9) |
 
 
  If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.

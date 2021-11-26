@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [8](#videos)
+Number of videos: [9](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -22,6 +22,7 @@ Go to [Mathematical Physics School](../README.md)
 | Sun&nbsp;7&nbsp;Nov&nbsp;2021 | [Shl21](../playlists/Shl21 "2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance") |  | [[**e**](https://studio.youtube.com/video/a-rMWU1v1N0/edit "Edit")] [Conformal invariance 6.](https://www.youtube.com/watch?v=a-rMWU1v1N0&list=PLLGkFbxve673FoRGJXxZ8kr6PxewnRY_X "Crossing probabilities для прямоугольников.&#013;RSW theory.") |
 | Sun&nbsp;7&nbsp;Nov&nbsp;2021 | [Shl21](../playlists/Shl21 "2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance") |  | [[**e**](https://studio.youtube.com/video/msHMaBoA5b8/edit "Edit")] [Shlosman S. Conformal invariance 7](https://www.youtube.com/watch?v=msHMaBoA5b8&list=PLLGkFbxve673FoRGJXxZ8kr6PxewnRY_X "Доказательство конформной инвариантности crossing probabilities, 1.") |
 | Fri&nbsp;19&nbsp;Nov&nbsp;2021 | [Shl21](../playlists/Shl21 "2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance") |  | [[**e**](https://studio.youtube.com/video/aIbFUVqS3tk/edit "Edit")] [Conformal invariance 8](https://www.youtube.com/watch?v=aIbFUVqS3tk&list=PLLGkFbxve673FoRGJXxZ8kr6PxewnRY_X "Окончание доказательства конформной инвариантности критического просачивания") |
+| Fri&nbsp;26&nbsp;Nov&nbsp;2021 | [Shl21](../playlists/Shl21 "2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance") |  | [[**e**](https://studio.youtube.com/video/ur7NBPktEJ4/edit "Edit")] [Conformal invariance 10](https://www.youtube.com/watch?v=ur7NBPktEJ4&list=PLLGkFbxve673FoRGJXxZ8kr6PxewnRY_X "The Kanotorovich distance between measures") |
 
 
  If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.

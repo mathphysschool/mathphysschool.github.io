@@ -4,7 +4,7 @@
 
 Number of playlists: [34](#playlists)
 
-Number of channel videos: [829](#videos)
+Number of channel videos: [832](#videos)
 
 Number of other videos: [19](#other-videos)
 
@@ -12,10 +12,10 @@ Number of other videos: [19](#other-videos)
 
 |Date|Label|Links|Playlist title|Videos|
 |---|---|---|---|--:|
-| Oct&nbsp;2021 | [Kri21](./playlists/Kri21 "2021 Игорь Кричевер — Интегрируемые системы") |  | [2021 Игорь Кричевер — Интегрируемые системы](https://www.youtube.com/playlist?list=PLLGkFbxve672FSoeyhuPicPlKD3Tqz9J9) | [6](./playlists/Kri21.md) |
+| Oct&nbsp;2021 | [Kri21](./playlists/Kri21 "2021 Игорь Кричевер — Интегрируемые системы") |  | [2021 Игорь Кричевер — Интегрируемые системы](https://www.youtube.com/playlist?list=PLLGkFbxve672FSoeyhuPicPlKD3Tqz9J9) | [7](./playlists/Kri21.md) |
 | Oct&nbsp;2021 | [Fn21](./playlists/Fn21 "2021 Michael Finkelberg — Representations of affine Hecke algebras") |  | [2021 Michael Finkelberg — Representations of affine Hecke algebras](https://www.youtube.com/playlist?list=PLLGkFbxve670NByR3MfseS6C6I5YeTeD5) | [9](./playlists/Fn21.md) |
 | Oct&nbsp;2021 | [Gaud](./playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [2021-2022 Gaudin model and related topics](https://www.youtube.com/playlist?list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) | [8](./playlists/Gaud.md) |
-| Sep&nbsp;2021 | [Shl21](./playlists/Shl21 "2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance") |  | [2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance](https://www.youtube.com/playlist?list=PLLGkFbxve673FoRGJXxZ8kr6PxewnRY_X) | [8](./playlists/Shl21.md) |
+| Sep&nbsp;2021 | [Shl21](./playlists/Shl21 "2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance") |  | [2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance](https://www.youtube.com/playlist?list=PLLGkFbxve673FoRGJXxZ8kr6PxewnRY_X) | [9](./playlists/Shl21.md) |
 | Sep&nbsp;2021 | [AK75](./playlists/AK75 "International Conference &#34;Integrability&#34; Dedicated to 75th Anniversary of A. K. Pogrebkov") |  | [International Conference &#34;Integrability&#34; Dedicated to 75th Anniversary of A. K. Pogrebkov](https://www.youtube.com/playlist?list=PLLGkFbxve673YBRC8H2DunNGa1ECo5Y5V) | [28](./playlists/AK75.md) |
 | Sep&nbsp;2021 | [Olsh21](./playlists/Olsh21 "2021 Grigory Olshanski -- Symmetric functions") |  | [2021 Grigory Olshanski -- Symmetric functions](https://www.youtube.com/playlist?list=PLLGkFbxve673GTMhJfJlCUm-bXMoRehLU) | [9](./playlists/Olsh21.md) |
 | Sep&nbsp;2021 | [QG21](./playlists/QG21 "2021 Mikhail Bershtein -- Affine Quantum Groups") |  | [2021 Mikhail Bershtein -- Affine Quantum Groups](https://www.youtube.com/playlist?list=PLLGkFbxve673NIHezZTurCNSpuf8keZS1) | [11](./playlists/QG21.md) |
@@ -53,6 +53,9 @@ Number of other videos: [19](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Fri&nbsp;26&nbsp;Nov&nbsp;2021 | [Kri21](./playlists/Kri21 "2021 Игорь Кричевер — Интегрируемые системы") |  | [[**e**](https://studio.youtube.com/video/V4V19Giw0iI/edit "Edit")] [Игорь Кричевер — Интегрируемые системы. Лекция 9](https://www.youtube.com/watch?v=V4V19Giw0iI) |
+| Fri&nbsp;26&nbsp;Nov&nbsp;2021 | [Shl21](./playlists/Shl21 "2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance") |  | [[**e**](https://studio.youtube.com/video/ur7NBPktEJ4/edit "Edit")] [Conformal invariance 10](https://www.youtube.com/watch?v=ur7NBPktEJ4 "The Kanotorovich distance between measures") |
+| Fri&nbsp;26&nbsp;Nov&nbsp;2021 | None |  | [[**e**](https://studio.youtube.com/video/_RI_LewIpBE/edit "Edit")] [Grigori Olshanski -- Symmetric functions 10](https://www.youtube.com/watch?v=_RI_LewIpBE) |
 | Tue&nbsp;23&nbsp;Nov&nbsp;2021 | [Tue](./playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/giCArWLmiAw/edit "Edit")] [Mikhail Vasilyev — q-Whittaker function and q-difference Toda (sl&#95;2 case)](https://www.youtube.com/watch?v=giCArWLmiAw "I will talk about the construction of q-Whittaker functions from the representation theory of U&#95;q(sl&#95;2). We will also show that they are eigenfunctions of the relativistic open Toda chain.") |
 | Tue&nbsp;23&nbsp;Nov&nbsp;2021 | [QG21](./playlists/QG21 "2021 Mikhail Bershtein -- Affine Quantum Groups") |  | [[**e**](https://studio.youtube.com/video/bHsV8sJjJpg/edit "Edit")] [Affine quantum groups -- Lecture 11](https://www.youtube.com/watch?v=bHsV8sJjJpg) |
 | Tue&nbsp;23&nbsp;Nov&nbsp;2021 | [Fn21](./playlists/Fn21 "2021 Michael Finkelberg — Representations of affine Hecke algebras") |  | [[**e**](https://studio.youtube.com/video/TUUwf2k5Ev8/edit "Edit")] [Michael Finkelberg — Representations of affine Hecke algebras, lecture 9](https://www.youtube.com/watch?v=TUUwf2k5Ev8) |
