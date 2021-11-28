@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [45](#videos)
+Number of videos: [46](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -14,6 +14,7 @@ Go to [Mathematical Physics School](../README.md)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Sat&nbsp;27&nbsp;Nov&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/uN2JSfXNjwM/edit "Edit")] [Дамир Садеков - Обобщение 2d гравитации на случаи с простейшими неинвариантными состояниями](https://www.youtube.com/watch?v=uN2JSfXNjwM&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;20&nbsp;Nov&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/HcF_5ioFNxQ/edit "Edit")] [Альберт Соломонович Шварц - Геометрический подход к квантовой теории и инклюзивная матрица рассеяния](https://www.youtube.com/watch?v=HcF_5ioFNxQ&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;13&nbsp;Nov&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/rZO2hU47KAM/edit "Edit")] [Stefano Negro -  The relevance of being irrelevant](https://www.youtube.com/watch?v=rZO2hU47KAM&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;6&nbsp;Nov&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/zui7Y7qlje4/edit "Edit")] [Фёдор Левкович-Маслюк - Disc partition function of 2d R^2 gravity from DWG matrix model](https://www.youtube.com/watch?v=zui7Y7qlje4&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
