@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [9](#videos)
+Number of videos: [11](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -23,6 +23,8 @@ Go to [Mathematical Physics School](../README.md)
 | Sat&nbsp;13&nbsp;Nov&nbsp;2021 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/yKfydPtbKx8/edit "Edit")] [В. Иванов —  Универсальная алгебра Годена (3/3)](https://www.youtube.com/watch?v=yKfydPtbKx8&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
 | Sat&nbsp;20&nbsp;Nov&nbsp;2021 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/RMwoV1L23EY/edit "Edit")] [И. Моторин — Подалгебра Бете в янгиане и квантование алгебры Годена. (1/3)](https://www.youtube.com/watch?v=RMwoV1L23EY&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
 | Sat&nbsp;27&nbsp;Nov&nbsp;2021 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/xNjnh4ej3ZA/edit "Edit")] [И. Моторин — Подалгебры Бете в янгиане и квантование алгебры Годена (2/3)](https://www.youtube.com/watch?v=xNjnh4ej3ZA&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
+| Sat&nbsp;4&nbsp;Dec&nbsp;2021 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/djaczc515Ko/edit "Edit")] [И. Моторин — Подалгебры Бете в янгиане и квантование алгебры Годена (3/3)](https://www.youtube.com/watch?v=djaczc515Ko&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
+| Sat&nbsp;4&nbsp;Dec&nbsp;2021 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/Kh0rwunBidg/edit "Edit")] [М. Васильев —  Квантование алгебр Годена (1/3)](https://www.youtube.com/watch?v=Kh0rwunBidg&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
 
 
  If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.
