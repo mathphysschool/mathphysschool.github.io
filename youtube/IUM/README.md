@@ -4,7 +4,7 @@
 
 Number of playlists: [222](#playlists)
 
-Number of channel videos: [2269](#videos)
+Number of channel videos: [2270](#videos)
 
 Number of other videos: [18](#other-videos)
 
@@ -32,7 +32,7 @@ Number of other videos: [18](#other-videos)
 | Aug&nbsp;2021 | [205](./playlists/205 "А.Б. Калмынин. Дзета-функция Римана. Осень 2021 г.") | [**[1]**](https://ium.mccme.ru/f21/f21-kalmynin.html) | [А.Б. Калмынин. Дзета-функция Римана. Осень 2021 г.](https://www.youtube.com/playlist?list=PLp9ABVh6_x4GWD0MjDo-1J2u6kKVZw4aO "https://ium.mccme.ru/f21/f21-kalmynin.html") | [14](./playlists/205.md) |
 | Aug&nbsp;2021 | [204](./playlists/204 "А.Д. Елагин. Гомологические методы в теории представлений конечномерных алгебр - 2. Осень 2021 г.") | [**[1]**](https://ium.mccme.ru/f21/f21-elagin.html) | [А.Д. Елагин. Гомологические методы в теории представлений конечномерных алгебр - 2. Осень 2021 г.](https://www.youtube.com/playlist?list=PLp9ABVh6_x4GodMwlTZ05IsldZP7C6ke9 "https://ium.mccme.ru/f21/f21-elagin.html") | [14](./playlists/204.md) |
 | Aug&nbsp;2021 | [203](./playlists/203 "В.И. Богачев. Введение в стохастический анализ и исчисление Маллявэна. Осень 2021 г.") | [**[1]**](https://ium.mccme.ru/f21/f21-vibogachev.html) | [В.И. Богачев. Введение в стохастический анализ и исчисление Маллявэна. Осень 2021 г.](https://www.youtube.com/playlist?list=PLp9ABVh6_x4G5gt4gk68XAuHbpTmYuvl0 "https://ium.mccme.ru/f21/f21-vibogachev.html") | [12](./playlists/203.md) |
-| Aug&nbsp;2021 | [202](./playlists/202 "С.В. Шапошников. Анализ на многообразиях. Осень 2021 г.") | [**[1]**](https://ium.mccme.ru/f21/f21-Analiz3.html) | [С.В. Шапошников. Анализ на многообразиях. Осень 2021 г.](https://www.youtube.com/playlist?list=PLp9ABVh6_x4GL5mJNC-I98FEhdFisEyeN "https://ium.mccme.ru/f21/f21-Analiz3.html") | [14](./playlists/202.md) |
+| Aug&nbsp;2021 | [202](./playlists/202 "С.В. Шапошников. Анализ на многообразиях. Осень 2021 г.") | [**[1]**](https://ium.mccme.ru/f21/f21-Analiz3.html) | [С.В. Шапошников. Анализ на многообразиях. Осень 2021 г.](https://www.youtube.com/playlist?list=PLp9ABVh6_x4GL5mJNC-I98FEhdFisEyeN "https://ium.mccme.ru/f21/f21-Analiz3.html") | [15](./playlists/202.md) |
 | Aug&nbsp;2021 | [201](./playlists/201 "А.Л. Городенцев. Алгебра - 3. Осень 2021 г.") | [**[1]**](https://ium.mccme.ru/f21/f21-Algebra3.html) | [А.Л. Городенцев. Алгебра - 3. Осень 2021 г.](https://www.youtube.com/playlist?list=PLp9ABVh6_x4ElWA1T94GRj44hzf_83CKA "https://ium.mccme.ru/f21/f21-Algebra3.html") | [13](./playlists/201.md) |
 | Aug&nbsp;2021 | [200](./playlists/200 "Ю.М. Бурман. Топология - 2. Осень 2021 г.") | [**[1]**](https://ium.mccme.ru/f21/f21-Topology2.html) | [Ю.М. Бурман. Топология - 2. Осень 2021 г.](https://www.youtube.com/playlist?list=PLp9ABVh6_x4Fxq3Ty9Dm3qdgYkRlrlfqO "https://ium.mccme.ru/f21/f21-Topology2.html") | [15](./playlists/200.md) |
 | Aug&nbsp;2021 | [199](./playlists/199 "В.А. Тиморин. Математический анализ - 1. Осень 2021 г.") |  | [В.А. Тиморин. Математический анализ - 1. Осень 2021 г.](https://www.youtube.com/playlist?list=PLp9ABVh6_x4F8kk99Wfwj7qvGLREa2H5G) | [13](./playlists/199.md) |
@@ -241,6 +241,7 @@ Number of other videos: [18](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Fri&nbsp;10&nbsp;Dec&nbsp;2021 | [202](./playlists/202 "С.В. Шапошников. Анализ на многообразиях. Осень 2021 г.") | [**[1]**](https://ium.mccme.ru/f21/f21-Analiz3.html) | [[**e**](https://studio.youtube.com/video/_jz7fDApv3g/edit "Edit")] [Анализ на многообразиях. Лекция 14. С.В. Шапошников.](https://www.youtube.com/watch?v=_jz7fDApv3g "https://ium.mccme.ru/f21/f21-Analiz3.html") |
 | Thu&nbsp;9&nbsp;Dec&nbsp;2021 | [201](./playlists/201 "А.Л. Городенцев. Алгебра - 3. Осень 2021 г.") | [**[1]**](https://ium.mccme.ru/f21/f21-Algebra3.html) | [[**e**](https://studio.youtube.com/video/mybB9dGgmlU/edit "Edit")] [Алгебра - 3. Лекция 14. А.Л. Городенцев](https://www.youtube.com/watch?v=mybB9dGgmlU "https://ium.mccme.ru/f21/f21-Algebra3.html") |
 | Thu&nbsp;9&nbsp;Dec&nbsp;2021 | [203](./playlists/203 "В.И. Богачев. Введение в стохастический анализ и исчисление Маллявэна. Осень 2021 г.") | [**[1]**](https://ium.mccme.ru/f21/f21-vibogachev.html) | [[**e**](https://studio.youtube.com/video/G_efnCxEVvk/edit "Edit")] [Введение в стохастический анализ и исчисление Маллявэна, Лекция 12, В.И.Богачев.](https://www.youtube.com/watch?v=G_efnCxEVvk "https://ium.mccme.ru/f21/f21-vibogachev.html") |
 | Thu&nbsp;9&nbsp;Dec&nbsp;2021 | [206](./playlists/206 "В.О. Медведев. Теория минимальных подмногообразий - 1. Осень 2021 г.") | [**[1]**](https://ium.mccme.ru/f21/f21-Medvedev.html) | [[**e**](https://studio.youtube.com/video/EpIrVVPrDxo/edit "Edit")] [Теория минимальных подмногообразий - I. Лекция 13. В.О. Медведев.](https://www.youtube.com/watch?v=EpIrVVPrDxo "https://ium.mccme.ru/f21/f21-Medvedev.html") |
