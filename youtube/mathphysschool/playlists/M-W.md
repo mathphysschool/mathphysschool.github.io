@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [111](#videos)
+Number of videos: [112](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -125,6 +125,7 @@ Go to [Mathematical Physics School](../README.md)
 | Mon&nbsp;22&nbsp;Nov&nbsp;2021 | [M-W](../playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/AqKfZSpSgUY/edit "Edit")] [Никита Игнатюк — Многообразия Калаби-Яу. Определения, деформации комплексной структуры (1/2)](https://www.youtube.com/watch?v=AqKfZSpSgUY&list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1 "Мы поговорим об основных примерах КЯ-многообразий, известных на сегодняшний день и обсудим общие свойства модулей комплексных структур на многообразиях Калаби-Яу. Далее я собираюсь рассказать про общий метод вычисления кэлерова потенциала на пространстве модулей комплексных структур многообразия Калаби-Яу, и затем посчитать его для нескольких простых случаев. Если останется время, поговорим о гомологической зеркальной симметрии и имеющихся способах нахождения зеркальных партнеров для многообразий Калаби-Яу некоторых типов.") |
 | Tue&nbsp;30&nbsp;Nov&nbsp;2021 | [M-W](../playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/EkUXGutQbX8/edit "Edit")] [Никита Игнатюк — Многообразия Калаби-Яу. Определения, деформации комплексной структуры (2/3)](https://www.youtube.com/watch?v=EkUXGutQbX8&list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1) |
 | Mon&nbsp;6&nbsp;Dec&nbsp;2021 | [M-W](../playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") | [**[1]**](https://arxiv.org/abs/2104.04963) | [[**e**](https://studio.youtube.com/video/T_kKDj8xpBM/edit "Edit")] [Иван Сечин — Алгебра Склянина, эллиптическая квантовая группа и их одновременное обобщение](https://www.youtube.com/watch?v=T_kKDj8xpBM&list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1 "статья: https://arxiv.org/abs/2104.04963") |
+| Tue&nbsp;14&nbsp;Dec&nbsp;2021 | [M-W](../playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/mufZhzBb9u0/edit "Edit")] [Никита Игнатюк — Многообразия Калаби-Яу. Определения, деформации комплексной структуры (3/3)](https://www.youtube.com/watch?v=mufZhzBb9u0&list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1) |
 
 
  If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.

@@ -4,7 +4,7 @@
 
 Number of playlists: [34](#playlists)
 
-Number of channel videos: [856](#videos)
+Number of channel videos: [859](#videos)
 
 Number of other videos: [19](#other-videos)
 
@@ -13,7 +13,7 @@ Number of other videos: [19](#other-videos)
 |Date|Label|Links|Playlist title|Videos|
 |---|---|---|---|--:|
 | Oct&nbsp;2021 | [Kri21](./playlists/Kri21 "2021 Игорь Кричевер — Интегрируемые системы") |  | [2021 Игорь Кричевер — Интегрируемые системы](https://www.youtube.com/playlist?list=PLLGkFbxve672FSoeyhuPicPlKD3Tqz9J9) | [8](./playlists/Kri21.md) |
-| Oct&nbsp;2021 | [Fn21](./playlists/Fn21 "2021 Michael Finkelberg — Representations of affine Hecke algebras") |  | [2021 Michael Finkelberg — Representations of affine Hecke algebras](https://www.youtube.com/playlist?list=PLLGkFbxve670NByR3MfseS6C6I5YeTeD5) | [11](./playlists/Fn21.md) |
+| Oct&nbsp;2021 | [Fn21](./playlists/Fn21 "2021 Michael Finkelberg — Representations of affine Hecke algebras") |  | [2021 Michael Finkelberg — Representations of affine Hecke algebras](https://www.youtube.com/playlist?list=PLLGkFbxve670NByR3MfseS6C6I5YeTeD5) | [12](./playlists/Fn21.md) |
 | Oct&nbsp;2021 | [Gaud](./playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [2021-2022 Gaudin model and related topics](https://www.youtube.com/playlist?list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) | [12](./playlists/Gaud.md) |
 | Sep&nbsp;2021 | [Shl21](./playlists/Shl21 "2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance") |  | [2021 Senya Shlosman -- Statistical mechanics, percolation theory and conformal invariance](https://www.youtube.com/playlist?list=PLLGkFbxve673FoRGJXxZ8kr6PxewnRY_X) | [9](./playlists/Shl21.md) |
 | Sep&nbsp;2021 | [AK75](./playlists/AK75 "International Conference &#34;Integrability&#34; Dedicated to 75th Anniversary of A. K. Pogrebkov") |  | [International Conference &#34;Integrability&#34; Dedicated to 75th Anniversary of A. K. Pogrebkov](https://www.youtube.com/playlist?list=PLLGkFbxve673YBRC8H2DunNGa1ECo5Y5V) | [28](./playlists/AK75.md) |
@@ -41,7 +41,7 @@ Number of other videos: [19](#other-videos)
 | Mar&nbsp;2020 | [Mcd20](./playlists/Mcd20 "2020 Полиномы Макдональда и DAHA") |  | [2020 Полиномы Макдональда и DAHA](https://www.youtube.com/playlist?list=PLLGkFbxve673d4IimgKUDiIAIMTlcnpyf) | [10](./playlists/Mcd20.md) |
 | Feb&nbsp;2020 | [SW](./playlists/SW "2020 семинар по теории Зайберга-Виттена и интегрируемым системам") |  | [2020 семинар по теории Зайберга-Виттена и интегрируемым системам](https://www.youtube.com/playlist?list=PLLGkFbxve670pVFdePaO-Ab96mp_ioqOk) | [59](./playlists/SW.md) |
 | Jan&nbsp;2020 | [Wint20](./playlists/Wint20 "2020 Зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") | [**[1]**](https://crei.skoltech.ru/cas/ru/calendar-ru/stimart5r/) | [2020 Зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”](https://www.youtube.com/playlist?list=PLLGkFbxve673Bx5y3iiJEunDe_6ZHxUk2 "https://crei.skoltech.ru/cas/ru/calendar-ru/stimart5r/&#013;&#013;5-ая зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений” / Москва / 20-25 января 2020 г.") | [26](./playlists/Wint20.md) |
-| Oct&nbsp;2019 | [M-W](./playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [семинары по математической физике на матфаке ВШЭ и в Сколтехе](https://www.youtube.com/playlist?list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1) | [111](./playlists/M-W.md) |
+| Oct&nbsp;2019 | [M-W](./playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [семинары по математической физике на матфаке ВШЭ и в Сколтехе](https://www.youtube.com/playlist?list=PLLGkFbxve670YsbKNkbjTjTlcZEtSLpO1) | [112](./playlists/M-W.md) |
 | Oct&nbsp;2019 | [CAS](./playlists/CAS "Seminar on Mondays, Center for Advanced Studies, Skoltech") | [**[1]**](https://crei.skoltech.ru/cas/calendar/sem-mon/) | [Seminar on Mondays, Center for Advanced Studies, Skoltech](https://www.youtube.com/playlist?list=PLLGkFbxve671CJLpp5w3X4qjvS5u8GBMp "Seminar webpage: https://crei.skoltech.ru/cas/calendar/sem-mon/") | [70](./playlists/CAS.md) |
 | Oct&nbsp;2019 | [Yung19](./playlists/Yung19 "2019 Алексей Юнг -- Суперсимметричные калибровочные теории") |  | [2019 Алексей Юнг -- Суперсимметричные калибровочные теории](https://www.youtube.com/playlist?list=PLLGkFbxve671KnoxbIn8FfXG1nyZDzY3x) | [12](./playlists/Yung19.md) |
 | Aug&nbsp;2019 | [Spr19](./playlists/Spr19 "2019 Весенняя студенческая школа по математике и физике") | [**[1]**](https://crei.skoltech.ru/cas/ru/calendar-ru/conf190430ru/) | [2019 Весенняя студенческая школа по математике и физике](https://www.youtube.com/playlist?list=PLLGkFbxve673GK73CegwPWneQOc58YMyG "Страница школы: https://crei.skoltech.ru/cas/ru/calendar-ru/conf190430ru/") | [28](./playlists/Spr19.md) |
@@ -53,6 +53,9 @@ Number of other videos: [19](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Tue&nbsp;14&nbsp;Dec&nbsp;2021 | None |  | [[**e**](https://studio.youtube.com/video/s532qMoI48s/edit "Edit")] [Affine quantum groups Lecture 14](https://www.youtube.com/watch?v=s532qMoI48s) |
+| Tue&nbsp;14&nbsp;Dec&nbsp;2021 | [M-W](./playlists/M-W "семинары по математической физике на матфаке ВШЭ и в Сколтехе") |  | [[**e**](https://studio.youtube.com/video/mufZhzBb9u0/edit "Edit")] [Никита Игнатюк — Многообразия Калаби-Яу. Определения, деформации комплексной структуры (3/3)](https://www.youtube.com/watch?v=mufZhzBb9u0) |
+| Tue&nbsp;14&nbsp;Dec&nbsp;2021 | [Fn21](./playlists/Fn21 "2021 Michael Finkelberg — Representations of affine Hecke algebras") |  | [[**e**](https://studio.youtube.com/video/CMenBxdlUjA/edit "Edit")] [Representations of affine Hecke algebras, Lecture 12](https://www.youtube.com/watch?v=CMenBxdlUjA) |
 | Sat&nbsp;11&nbsp;Dec&nbsp;2021 | [Gaud](./playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/qMo1cWhEy7M/edit "Edit")] [М. Васильев — Квантование алгебр Годена (2/3)](https://www.youtube.com/watch?v=qMo1cWhEy7M) |
 | Sat&nbsp;11&nbsp;Dec&nbsp;2021 | [GL](./playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/NV--GuHkcRE/edit "Edit")] [Сергей Пархоменко - Новая конструкция N=2 Супер-Конформных моделей](https://www.youtube.com/watch?v=NV--GuHkcRE) |
 | Fri&nbsp;10&nbsp;Dec&nbsp;2021 | [Olsh21](./playlists/Olsh21 "2021 Grigory Olshanski -- Symmetric functions") |  | [[**e**](https://studio.youtube.com/video/-nKvFnSwHeQ/edit "Edit")] [Grigori Olshanski -- Symmetric functions 12](https://www.youtube.com/watch?v=-nKvFnSwHeQ) |
