@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [12](#videos)
+Number of videos: [13](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -26,6 +26,7 @@ Go to [Mathematical Physics School](../README.md)
 | Sat&nbsp;4&nbsp;Dec&nbsp;2021 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/djaczc515Ko/edit "Edit")] [И. Моторин — Подалгебры Бете в янгиане и квантование алгебры Годена (3/3)](https://www.youtube.com/watch?v=djaczc515Ko&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
 | Sat&nbsp;4&nbsp;Dec&nbsp;2021 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/Kh0rwunBidg/edit "Edit")] [М. Васильев —  Квантование алгебр Годена (1/3)](https://www.youtube.com/watch?v=Kh0rwunBidg&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
 | Sat&nbsp;11&nbsp;Dec&nbsp;2021 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/qMo1cWhEy7M/edit "Edit")] [М. Васильев — Квантование алгебр Годена (2/3)](https://www.youtube.com/watch?v=qMo1cWhEy7M&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
+| Sat&nbsp;18&nbsp;Dec&nbsp;2021 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/kD9OgKcZv4A/edit "Edit")] [М. Васильев — Квантование алгебр Годена (3/3)](https://www.youtube.com/watch?v=kD9OgKcZv4A&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
 
 
  If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.
