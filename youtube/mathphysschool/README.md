@@ -4,15 +4,15 @@
 
 Number of playlists: [35](#playlists)
 
-Number of channel videos: [888](#videos)
+Number of channel videos: [890](#videos)
 
-Number of other videos: [26](#other-videos)
+Number of other videos: [24](#other-videos)
 
 ## Playlists
 
 |Date|Label|Links|Playlist title|Videos|
 |---|---|---|---|--:|
-| Jan&nbsp;2022 | [Wint22](./playlists/Wint22 "2022 STIMaRT — 7-ая зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") |  | [2022 STIMaRT — 7-ая зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”](https://www.youtube.com/playlist?list=PLLGkFbxve6705K05org4TK9qU4RavL4jj) | [18](./playlists/Wint22.md) |
+| Jan&nbsp;2022 | [Wint22](./playlists/Wint22 "2022 STIMaRT — 7-ая зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") | [**[1]**](https://crei.skoltech.ru/cas/ru/calendar-ru/stimart7r/) | [2022 STIMaRT — 7-ая зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”](https://www.youtube.com/playlist?list=PLLGkFbxve6705K05org4TK9qU4RavL4jj "сайт школы: https://crei.skoltech.ru/cas/ru/calendar-ru/stimart7r/") | [18](./playlists/Wint22.md) |
 | Oct&nbsp;2021 | [Kri21](./playlists/Kri21 "2021 Игорь Кричевер — Интегрируемые системы") |  | [2021 Игорь Кричевер — Интегрируемые системы](https://www.youtube.com/playlist?list=PLLGkFbxve672FSoeyhuPicPlKD3Tqz9J9) | [9](./playlists/Kri21.md) |
 | Oct&nbsp;2021 | [Fn21](./playlists/Fn21 "2021 Michael Finkelberg — Representations of affine Hecke algebras") |  | [2021 Michael Finkelberg — Representations of affine Hecke algebras](https://www.youtube.com/playlist?list=PLLGkFbxve670NByR3MfseS6C6I5YeTeD5) | [12](./playlists/Fn21.md) |
 | Oct&nbsp;2021 | [Gaud](./playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [2021-2022 Gaudin model and related topics](https://www.youtube.com/playlist?list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) | [13](./playlists/Gaud.md) |
@@ -54,6 +54,8 @@ Number of other videos: [26](#other-videos)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Sun&nbsp;23&nbsp;Jan&nbsp;2022 | [Wint22](./playlists/Wint22 "2022 STIMaRT — 7-ая зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") |  | [[**e**](https://studio.youtube.com/video/KESRSFY7GQk/edit "Edit")] [Борис Ерёмин — Теория суперструн, компактификация и модели N=2 суперконформной теории поля.Семинар 2](https://www.youtube.com/watch?v=KESRSFY7GQk) |
+| Sun&nbsp;23&nbsp;Jan&nbsp;2022 | [Wint22](./playlists/Wint22 "2022 STIMaRT — 7-ая зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") |  | [[**e**](https://studio.youtube.com/video/l0mBFxUkJcs/edit "Edit")] [Максим Казарян — Числа Гурвица и интегрируемость. Семинар 2](https://www.youtube.com/watch?v=l0mBFxUkJcs) |
 | Sun&nbsp;23&nbsp;Jan&nbsp;2022 | [Wint22](./playlists/Wint22 "2022 STIMaRT — 7-ая зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") |  | [[**e**](https://studio.youtube.com/video/V-jhHFaltBE/edit "Edit")] [Александр Белавин — Теория суперструн, компактификация и модели N=2 суперконформной теории поля. 4](https://www.youtube.com/watch?v=V-jhHFaltBE) |
 | Sat&nbsp;22&nbsp;Jan&nbsp;2022 | [Wint22](./playlists/Wint22 "2022 STIMaRT — 7-ая зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") | [**[1]**](https://www.overleaf.com/read/knfymswsxdcm), [**[2]**](https://drive.google.com/file/d/1Nhcr-HyxLpSB9ifMOVs9TOaQ8C0wdFgX/view?usp=sharing) | [[**e**](https://studio.youtube.com/video/obz3mRbOp38/edit "Edit")] [Роман Гонин — Уравнения Книжника-Замолодчикова, ..., (gl&#95;k,gl&#95;n) двойственность. Семинар 2](https://www.youtube.com/watch?v=obz3mRbOp38 "задачи на семинар: https://www.overleaf.com/read/knfymswsxdcm&#013;&#013;записки: https://drive.google.com/file/d/1Nhcr-HyxLpSB9ifMOVs9TOaQ8C0wdFgX/view?usp=sharing") |
 | Sat&nbsp;22&nbsp;Jan&nbsp;2022 | [Wint22](./playlists/Wint22 "2022 STIMaRT — 7-ая зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") |  | [[**e**](https://studio.youtube.com/video/PrhQ-ozzVTU/edit "Edit")] [Максим Казарян — Числа Гурвица и интегрируемость. Лекция 4](https://www.youtube.com/watch?v=PrhQ-ozzVTU) |
@@ -951,8 +953,6 @@ This list includes either *unlisted* videos, or videos from other channels, avai
 
 |Date|Playlists|Links|Video title|Channel|
 |---|---|---|---|---|
-| Sat&nbsp;22&nbsp;Jan&nbsp;2022 | [Wint22](./playlists/Wint22 "2022 STIMaRT — 7-ая зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") |  | [[**e**](https://studio.youtube.com/video/l0mBFxUkJcs/edit "Edit")] [Максим Казарян — Числа Гурвица и интегрируемость. Семинар 2](https://www.youtube.com/watch?v=l0mBFxUkJcs) | [Mathematical Physics School](https://www.youtube.com/channel/UCRACd55YrSwO8Fuy4Nx2oAA) |
-| Sat&nbsp;22&nbsp;Jan&nbsp;2022 | [Wint22](./playlists/Wint22 "2022 STIMaRT — 7-ая зимняя школа-конференция “Теория струн, интегрируемые модели и теория представлений”") |  | [[**e**](https://studio.youtube.com/video/KESRSFY7GQk/edit "Edit")] [Борис Ерёмин — Теория суперструн, компактификация и модели N=2 суперконформной теории поля.Семинар 2](https://www.youtube.com/watch?v=KESRSFY7GQk) | [Mathematical Physics School](https://www.youtube.com/channel/UCRACd55YrSwO8Fuy4Nx2oAA) |
 | Mon&nbsp;12&nbsp;Oct&nbsp;2020 | [Fn20](./playlists/Fn20 "2020 Michael Finkelberg -- Geometric Representation Theory") |  | [[**e**](https://studio.youtube.com/video/qVrKsO7RKNc/edit "Edit")] [Lecture 2](https://www.youtube.com/watch?v=qVrKsO7RKNc) | [Artem Prikhodko](https://www.youtube.com/channel/UCpp6vBHLy_adyXWup9mw3OA) |
 | Fri&nbsp;13&nbsp;Nov&nbsp;2020 | [Fn20](./playlists/Fn20 "2020 Michael Finkelberg -- Geometric Representation Theory") |  | [[**e**](https://studio.youtube.com/video/nkmeocHoaZ8/edit "Edit")] [Lecture 3](https://www.youtube.com/watch?v=nkmeocHoaZ8) | [Artem Prikhodko](https://www.youtube.com/channel/UCpp6vBHLy_adyXWup9mw3OA) |
 | Wed&nbsp;21&nbsp;Oct&nbsp;2020 | [Fn20](./playlists/Fn20 "2020 Michael Finkelberg -- Geometric Representation Theory") |  | [[**e**](https://studio.youtube.com/video/pNuwiRTWAlk/edit "Edit")] [Lecture 4](https://www.youtube.com/watch?v=pNuwiRTWAlk) | [Artem Prikhodko](https://www.youtube.com/channel/UCpp6vBHLy_adyXWup9mw3OA) |
