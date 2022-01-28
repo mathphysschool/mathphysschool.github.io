@@ -1,0 +1,20 @@
+# Contents of the playlist [2022 Павел Гавриленко, Владимир Лосяков — Введение в квантовую теорию](https://www.youtube.com/playlist?list=PLLGkFbxve672lLaoCCKxU0UZbQXbH9lEz)
+
+[![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
+
+Number of videos: [1](#videos)
+
+Go to [Mathematical Physics School](../README.md)
+
+## Description
+
+
+
+## Videos
+
+|Date|Playlists|Links|Video title|
+|---|---|---|---|
+| Thu&nbsp;27&nbsp;Jan&nbsp;2022 | [PLLGkFbxve672lLaoCCKxU0UZbQXbH9lEz](../playlists/PLLGkFbxve672lLaoCCKxU0UZbQXbH9lEz "2022 Павел Гавриленко, Владимир Лосяков — Введение в квантовую теорию") |  | [[**e**](https://studio.youtube.com/video/q_kBcsAsjXQ/edit "Edit")] [Владимир Лосяков — Введение в квантовую теорию. 1. Классическая механика](https://www.youtube.com/watch?v=q_kBcsAsjXQ&list=PLLGkFbxve672lLaoCCKxU0UZbQXbH9lEz) |
+
+
+ If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.

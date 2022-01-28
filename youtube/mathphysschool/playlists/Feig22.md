@@ -14,7 +14,7 @@ Go to [Mathematical Physics School](../README.md)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
-| Wed&nbsp;26&nbsp;Jan&nbsp;2022 | [PLLGkFbxve670Ioz-VYLgmmYRmPjejAcrq](../playlists/PLLGkFbxve670Ioz-VYLgmmYRmPjejAcrq "2022 Evgeny Feigin — Vertex operator algebras") |  | [[**e**](https://studio.youtube.com/video/3EJFxe7__CU/edit "Edit")] [Evgeny Feigin — Vertex operator algebras. Lecture 1](https://www.youtube.com/watch?v=3EJFxe7__CU&list=PLLGkFbxve670Ioz-VYLgmmYRmPjejAcrq) |
+| Wed&nbsp;26&nbsp;Jan&nbsp;2022 | [Feig22](../playlists/Feig22 "2022 Evgeny Feigin — Vertex operator algebras") |  | [[**e**](https://studio.youtube.com/video/3EJFxe7__CU/edit "Edit")] [Evgeny Feigin — Vertex operator algebras. Lecture 1](https://www.youtube.com/watch?v=3EJFxe7__CU&list=PLLGkFbxve670Ioz-VYLgmmYRmPjejAcrq) |
 
 
  If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.
