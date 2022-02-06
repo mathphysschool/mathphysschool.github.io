@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [49](#videos)
+Number of videos: [50](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -14,6 +14,7 @@ Go to [Mathematical Physics School](../README.md)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Sat&nbsp;5&nbsp;Feb&nbsp;2022 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/m799esqYpGg/edit "Edit")] [Анатолий Лотков - Флоке интегрируемость и квантовое запутывание на расстоянии в одномерной квантовой](https://www.youtube.com/watch?v=m799esqYpGg&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;25&nbsp;Dec&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/pRBW0tiEhuI/edit "Edit")] [Илья Кочергин - Гиперповерхности Калаби-Яу во взвешенных проективных пространствах и зеркальные к ни](https://www.youtube.com/watch?v=pRBW0tiEhuI&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;11&nbsp;Dec&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/NV--GuHkcRE/edit "Edit")] [Сергей Пархоменко - Новая конструкция N=2 Супер-Конформных моделей](https://www.youtube.com/watch?v=NV--GuHkcRE&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;4&nbsp;Dec&nbsp;2021 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/lavC0pCvMh8/edit "Edit")] [Грачя Бабуджян - Asymptotic Factorization of n-particle SU(N) form factors](https://www.youtube.com/watch?v=lavC0pCvMh8&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
