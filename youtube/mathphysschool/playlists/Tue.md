@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [75](#videos)
+Number of videos: [77](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -89,6 +89,8 @@ Go to [Mathematical Physics School](../README.md)
 | Wed&nbsp;8&nbsp;Dec&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/3t9PtY4qXHc/edit "Edit")] [Nikita Slavnov — Elementary proof of Lewis Carroll formula](https://www.youtube.com/watch?v=3t9PtY4qXHc&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC) |
 | Tue&nbsp;21&nbsp;Dec&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/OXtIyEY9iWI/edit "Edit")] [Svetlana Gavrilova — Schur process (1/2)](https://www.youtube.com/watch?v=OXtIyEY9iWI&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC "The talk will be about the connections between particle systems from KPZ universality class and Schur measures and processes. In particular, we will consider one dimensional TASEP process and if time permits push-block process, which is one of possible two dimensional generalizations of TASEP.") |
 | Tue&nbsp;21&nbsp;Dec&nbsp;2021 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/X1uKIN5Wmq0/edit "Edit")] [Svetlana Gavrilova — Schur process (2/2)](https://www.youtube.com/watch?v=X1uKIN5Wmq0&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC "The talk will be about the connections between particle systems from KPZ universality class and Schur measures and processes. In particular, we will consider one dimensional TASEP process and if time permits push-block process, which is one of possible two dimensional generalizations of TASEP.") |
+| Wed&nbsp;16&nbsp;Feb&nbsp;2022 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/DeJfZMCNyVg/edit "Edit")] [Михаил Васильев — Интегрируемые и суперинтегрируемые гамильтоновы системы](https://www.youtube.com/watch?v=DeJfZMCNyVg&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC) |
+| Thu&nbsp;17&nbsp;Feb&nbsp;2022 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/JvZxYnAZaDs/edit "Edit")] [Иван Сечин — Пример суперинтегрируемой системы, спиновая система Калоджеро–Мозера](https://www.youtube.com/watch?v=JvZxYnAZaDs&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC) |
 
 
  If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.
