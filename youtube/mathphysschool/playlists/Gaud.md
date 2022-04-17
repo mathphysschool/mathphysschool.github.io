@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [15](#videos)
+Number of videos: [16](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -29,6 +29,7 @@ Go to [Mathematical Physics School](../README.md)
 | Sat&nbsp;18&nbsp;Dec&nbsp;2021 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/kD9OgKcZv4A/edit "Edit")] [М. Васильев — Квантование алгебр Годена (3/3)](https://www.youtube.com/watch?v=kD9OgKcZv4A&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
 | Sat&nbsp;5&nbsp;Mar&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/TAsOpP86C_g/edit "Edit")] [Р. Гонин — Обзорный доклад, оперы и модель Годена (1/2)](https://www.youtube.com/watch?v=TAsOpP86C_g&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
 | Sat&nbsp;12&nbsp;Mar&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/BM8gbSX-IWk/edit "Edit")] [Р. Гонин — Обзорный доклад, центр на критическом уровне (2/2)](https://www.youtube.com/watch?v=BM8gbSX-IWk&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
+| Sat&nbsp;19&nbsp;Mar&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/ebm91AL07EY/edit "Edit")] [И. Моторин — Оперы в типе A](https://www.youtube.com/watch?v=ebm91AL07EY&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
 
 
  If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.
