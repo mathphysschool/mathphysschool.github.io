@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [52](#videos)
+Number of videos: [56](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -14,6 +14,10 @@ Go to [Mathematical Physics School](../README.md)
 
 |Date|Playlists|Links|Video title|
 |---|---|---|---|
+| Sat&nbsp;26&nbsp;Mar&nbsp;2022 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/SQlp-qm8zAY/edit "Edit")] [Михаил Павлов - Классические конформные блоки и AdS3/CFT2 соответствие](https://www.youtube.com/watch?v=SQlp-qm8zAY&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
+| Sat&nbsp;2&nbsp;Apr&nbsp;2022 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/Id5al7ojdUg/edit "Edit")] [Фёдор Попов - Kronecker anomalies and gravitational striction](https://www.youtube.com/watch?v=Id5al7ojdUg&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
+| Sat&nbsp;9&nbsp;Apr&nbsp;2022 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/CDIhbMm2wFM/edit "Edit")] [Ангелина Варгулевич - NSR singular vectors from Uglov polynomials](https://www.youtube.com/watch?v=CDIhbMm2wFM&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
+| Sat&nbsp;16&nbsp;Apr&nbsp;2022 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/sBcEL8eYeQQ/edit "Edit")] [Кирилл Губарев - Обобщение 11-мерной супергравитации](https://www.youtube.com/watch?v=sBcEL8eYeQQ&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;19&nbsp;Mar&nbsp;2022 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/ZY5-cSOs03U/edit "Edit")] [Виктор Батырев - Комбинаторая зеркальная симметрия](https://www.youtube.com/watch?v=ZY5-cSOs03U&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;12&nbsp;Feb&nbsp;2022 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/apxOohS0SZU/edit "Edit")] [Дмитрий Волин - Алгебры Бете: ковариантное описание с помощью сплавленных флагов](https://www.youtube.com/watch?v=apxOohS0SZU&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
 | Sat&nbsp;5&nbsp;Feb&nbsp;2022 | [GL](../playlists/GL "семинар &#34;Непертурбативные методы в квантовой теории поля&#34;") |  | [[**e**](https://studio.youtube.com/video/m799esqYpGg/edit "Edit")] [Анатолий Лотков - Флоке интегрируемость и квантовое запутывание на расстоянии в одномерной квантовой](https://www.youtube.com/watch?v=m799esqYpGg&list=PLLGkFbxve670FXVygfKk4jwA4qenTTrhw) |
