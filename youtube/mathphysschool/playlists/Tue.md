@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [88](#videos)
+Number of videos: [89](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -102,6 +102,7 @@ Go to [Mathematical Physics School](../README.md)
 | Thu&nbsp;24&nbsp;Mar&nbsp;2022 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/D5Sfrru6_Jg/edit "Edit")] [Елизавета Трунина — Дискретные уравнения Пенлеве наоборот](https://www.youtube.com/watch?v=D5Sfrru6_Jg&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC) |
 | Tue&nbsp;12&nbsp;Apr&nbsp;2022 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/SPFDmCqpF5A/edit "Edit")] [Мария Матушко — Рекурсивная конструкция собственных функций для гиперболической системы Калоджеро](https://www.youtube.com/watch?v=SPFDmCqpF5A&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC) |
 | Tue&nbsp;12&nbsp;Apr&nbsp;2022 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/FQCZq6eYIC0/edit "Edit")] [Ангелина Варгулевич — NSR сингулярные векторы и полиномы Углова](https://www.youtube.com/watch?v=FQCZq6eYIC0&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC) |
+| Tue&nbsp;19&nbsp;Apr&nbsp;2022 | [Tue](../playlists/Tue "семинар &#34;Методы классических и квантовых интегрируемых систем&#34;") |  | [[**e**](https://studio.youtube.com/video/toaL2uw0vrM/edit "Edit")] [Мария Матушко — Волновые функции гиперболического Калоджеро–Сазерленда, дуальные гамильтонианы](https://www.youtube.com/watch?v=toaL2uw0vrM&list=PLLGkFbxve671NB80OeExxYcxzQHmF1iZC) |
 
 
  If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.

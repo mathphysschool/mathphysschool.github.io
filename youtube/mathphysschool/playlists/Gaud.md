@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [21](#videos)
+Number of videos: [25](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -30,11 +30,15 @@ Go to [Mathematical Physics School](../README.md)
 | Sat&nbsp;5&nbsp;Mar&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/TAsOpP86C_g/edit "Edit")] [Р. Гонин — Обзорный доклад, оперы и модель Годена (1/2)](https://www.youtube.com/watch?v=TAsOpP86C_g&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
 | Sat&nbsp;12&nbsp;Mar&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/BM8gbSX-IWk/edit "Edit")] [Р. Гонин — Обзорный доклад, центр на критическом уровне (2/2)](https://www.youtube.com/watch?v=BM8gbSX-IWk&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
 | Sat&nbsp;19&nbsp;Mar&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/ebm91AL07EY/edit "Edit")] [И. Моторин — Оперы в типе A](https://www.youtube.com/watch?v=ebm91AL07EY&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
-| Sat&nbsp;16&nbsp;Apr&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/UCleUwlWeKY/edit "Edit")] [Г. Коновалов - оперы Миуры и картановы связности (3/3)](https://www.youtube.com/watch?v=UCleUwlWeKY&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
-| Sat&nbsp;9&nbsp;Apr&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/xj0eXVLbnBk/edit "Edit")] [Г. Коновалов — оперы Миуры и картановы связности (2/3)](https://www.youtube.com/watch?v=xj0eXVLbnBk&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
-| Sat&nbsp;2&nbsp;Apr&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/GBdmp62uC6E/edit "Edit")] [Г. Коновалов — оперы Миуры и картановы связности (1/3)](https://www.youtube.com/watch?v=GBdmp62uC6E&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
-| Sat&nbsp;2&nbsp;Apr&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/wOhRs9sjIY4/edit "Edit")] [М. Берштейн —  PGL(2) оперы на проколотом формальном диске](https://www.youtube.com/watch?v=wOhRs9sjIY4&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
 | Sat&nbsp;26&nbsp;Mar&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/_WzY5MbBCy4/edit "Edit")] [И. Моторин — оперы на проколотом диске, пуассонова структура](https://www.youtube.com/watch?v=_WzY5MbBCy4&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
+| Sat&nbsp;2&nbsp;Apr&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/wOhRs9sjIY4/edit "Edit")] [М. Берштейн —  PGL(2) оперы на проколотом формальном диске](https://www.youtube.com/watch?v=wOhRs9sjIY4&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
+| Sat&nbsp;2&nbsp;Apr&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/GBdmp62uC6E/edit "Edit")] [Г. Коновалов — оперы Миуры и картановы связности (1/3)](https://www.youtube.com/watch?v=GBdmp62uC6E&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
+| Sat&nbsp;9&nbsp;Apr&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/xj0eXVLbnBk/edit "Edit")] [Г. Коновалов — оперы Миуры и картановы связности (2/3)](https://www.youtube.com/watch?v=xj0eXVLbnBk&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
+| Sat&nbsp;16&nbsp;Apr&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/UCleUwlWeKY/edit "Edit")] [Г. Коновалов - оперы Миуры и картановы связности (3/3)](https://www.youtube.com/watch?v=UCleUwlWeKY&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
+| Sat&nbsp;23&nbsp;Apr&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/_PqdVziQvCo/edit "Edit")] [Р. Гонин —  Скрининги для оперов](https://www.youtube.com/watch?v=_PqdVziQvCo&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
+| Sat&nbsp;23&nbsp;Apr&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/9TeAaZGoPpE/edit "Edit")] [А. Григорьев — Конечный аналог модулей Вакимото (1/3)](https://www.youtube.com/watch?v=9TeAaZGoPpE&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
+| Sat&nbsp;30&nbsp;Apr&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/mGyHayzcjs0/edit "Edit")] [А. Григорьев — Конечный аналог модулей Вакимото (2/3)](https://www.youtube.com/watch?v=mGyHayzcjs0&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
+| Sat&nbsp;7&nbsp;May&nbsp;2022 | [Gaud](../playlists/Gaud "2021-2022 Gaudin model and related topics") |  | [[**e**](https://studio.youtube.com/video/Ui_7xl2z3LM/edit "Edit")] [А. Григорьев — Конечный аналог модулей Вакимото (3/3)](https://www.youtube.com/watch?v=Ui_7xl2z3LM&list=PLLGkFbxve673SSJKHbHP6EJ7WhbZeYeqX) |
 
 
  If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.

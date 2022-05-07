@@ -2,7 +2,7 @@
 
 [![synced with youtube](https://img.shields.io/github/last-commit/mathphysschool/mathphysschool.github.io/autoupdate1?label=synced%20with%20youtube)](https://github.com/mathphysschool/mathphysschool.github.io/commits/autoupdate1)
 
-Number of videos: [6](#videos)
+Number of videos: [8](#videos)
 
 Go to [Mathematical Physics School](../README.md)
 
@@ -20,6 +20,8 @@ Go to [Mathematical Physics School](../README.md)
 | Wed&nbsp;30&nbsp;Mar&nbsp;2022 | [Zab22](../playlists/Zab22 "2022 Антон Забродин — Квантовые интегрируемые системы") |  | [[**e**](https://studio.youtube.com/video/i6FudNuxDG0/edit "Edit")] [Антон Забродин — Квантовые ИС Лекция 7](https://www.youtube.com/watch?v=i6FudNuxDG0&list=PLLGkFbxve670_KILVQudRZbAZjVojdvml) |
 | Wed&nbsp;6&nbsp;Apr&nbsp;2022 | [Zab22](../playlists/Zab22 "2022 Антон Забродин — Квантовые интегрируемые системы") |  | [[**e**](https://studio.youtube.com/video/V0O_pMLaNJU/edit "Edit")] [Антон Забродин — Квантовые ИС Лекция 8](https://www.youtube.com/watch?v=V0O_pMLaNJU&list=PLLGkFbxve670_KILVQudRZbAZjVojdvml) |
 | Wed&nbsp;13&nbsp;Apr&nbsp;2022 | [Zab22](../playlists/Zab22 "2022 Антон Забродин — Квантовые интегрируемые системы") |  | [[**e**](https://studio.youtube.com/video/Pb7k-3XZSvM/edit "Edit")] [Антон Забродин — Квантовые ИС Лекция 9](https://www.youtube.com/watch?v=Pb7k-3XZSvM&list=PLLGkFbxve670_KILVQudRZbAZjVojdvml) |
+| Wed&nbsp;20&nbsp;Apr&nbsp;2022 | [Zab22](../playlists/Zab22 "2022 Антон Забродин — Квантовые интегрируемые системы") |  | [[**e**](https://studio.youtube.com/video/MrHvZ8161xc/edit "Edit")] [Антон Забродин — Квантовые ИС Лекция 10](https://www.youtube.com/watch?v=MrHvZ8161xc&list=PLLGkFbxve670_KILVQudRZbAZjVojdvml) |
+| Wed&nbsp;27&nbsp;Apr&nbsp;2022 | [Zab22](../playlists/Zab22 "2022 Антон Забродин — Квантовые интегрируемые системы") |  | [[**e**](https://studio.youtube.com/video/de1HVW_6oYg/edit "Edit")] [Антон Забродин — Квантовые ИС Лекция 11](https://www.youtube.com/watch?v=de1HVW_6oYg&list=PLLGkFbxve670_KILVQudRZbAZjVojdvml) |
 
 
  If you want to ask to update this page, or have any comments or questions: <pasha145@gmail.com>.
