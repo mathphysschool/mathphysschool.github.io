@@ -16,7 +16,7 @@
 
 \-  Релевантные деформации Ising CFT вблизи критической точки. Фазовая диаграмма: общая характеристика теории в разных областях параметров. Деформации мнимым магнитным полем и фиксированная точка Ли-Янга.
 
-` `- Вычисление формфакторов оператора спина при $h=0$, $T \neq T_c$.
+\- Вычисление формфакторов оператора спина при $h=0$, $T \neq T_c$.
 
 3. Интегрируемые теории поля [D, LL9, Z1]
 
@@ -36,7 +36,7 @@
 
 \- Подход FZ к описанию спектра мезонов с уравнением Бете-Солпитера. Проблема многочастичных поправок и уравнение BS в lightcone-frame. Описание спектра мезонов в нерелятивистском и квазиклассическом пределах.
 
-` `Литература:
+Литература:
 
 **LZ – лекции Замолодчикова про Ising field theory, [https://www.weizmann.ac.il/complex/falkovich/courses](https://www.weizmann.ac.il/complex/falkovich/courses)**
 
@@ -57,6 +57,3 @@
 **YZ – Yurov-Zamolodchikov, “Trucated fermion space approach to the critical 2D Ising model with magnetic field”**
 
 **XZ – Xu-Zamolodchikov, “2D Ising Field Theory in a Magnetic Field: The Yang-Lee Singularity”**
-
-
-# 
