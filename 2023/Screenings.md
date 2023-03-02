@@ -36,18 +36,18 @@
 
 **Список литературы:**
 
-**[КРР] - Кац, Райна, Рожковская, Бомбейские Лекции о представлениях со старшим весом бесконечномерных алгебр Ли**
+**[КРР]** - Кац, Райна, Рожковская, Бомбейские Лекции о представлениях со старшим весом бесконечномерных алгебр Ли
 
-**[Б17]  - Михаил Берштейн, [конспект лекций](http://qft.itp.ac.ru/mbersht/CFT/2017/Lectures2017.pdf)**
+**[Б17] ** - Михаил Берштейн, [конспект лекций](http://qft.itp.ac.ru/mbersht/CFT/2017/Lectures2017.pdf)
 
-**[B19] - Mikhail Bershtein, [lectures](http://qft.itp.ac.ru/mbersht/CFT/2019/Lectures2019.pdf)**
+**[B19] **- Mikhail Bershtein, [lectures](http://qft.itp.ac.ru/mbersht/CFT/2019/Lectures2019.pdf)
 
-**[L] - Alexey Litvinov, [lectures](http://strings.itp.ac.ru/Lecture-Notes/CFT2022.pdf)**
+**[L] **- Alexey Litvinov, [lectures](http://strings.itp.ac.ru/Lecture-Notes/CFT2022.pdf)
 
-**[FBZ] - E. Frenkel, D. Ben-Zvi, Vertex algebras and Algebraic curves**
+**[FBZ]** - E. Frenkel, D. Ben-Zvi, Vertex algebras and Algebraic curves
 
-**GIL13 - O. Gamayun, N. Iorgov, O. Lisovyy, [article](https://arxiv.org/abs/1302.1832)**
+**[GIL13]** - O. Gamayun, N. Iorgov, O. Lisovyy, [article](https://arxiv.org/abs/1302.1832)
 
-**[MM]  - A. Mironov, A. Morozov, [article](https://arxiv.org/abs/1707.02443)**
+**[MM]**  - A. Mironov, A. Morozov, [article](https://arxiv.org/abs/1707.02443)
 
-**[МБГ]  - А. Маршаков, М. Берштейн, П. Гавриленко, струны и конформная теория поля, [лекции и задачи](https://math.hse.ru/cft2016)**
+**[МБГ]**  - А. Маршаков, М. Берштейн, П. Гавриленко, струны и конформная теория поля, [лекции и задачи](https://math.hse.ru/cft2016)
