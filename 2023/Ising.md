@@ -48,22 +48,22 @@
 
 Литература:
 
-**LZ** – лекции Замолодчикова про Ising field theory, [https://www.weizmann.ac.il/complex/falkovich/courses](https://www.weizmann.ac.il/complex/falkovich/courses)
+**[LZ]** – лекции Замолодчикова про Ising field theory, [https://www.weizmann.ac.il/complex/falkovich/courses](https://www.weizmann.ac.il/complex/falkovich/courses)
 
-**LL** – лекции Лашкевича про интегрируемые теории поля, [http://lashkevi.itp.ac.ru/lectures/imqft/](http://lashkevi.itp.ac.ru/lectures/imqft/)
+**[LL]** – лекции Лашкевича про интегрируемые теории поля, [http://lashkevi.itp.ac.ru/lectures/imqft/](http://lashkevi.itp.ac.ru/lectures/imqft/)
 
-**LP** – лекции Пугая по решёточным моделям. [http://slava.itp.ac.ru/intro-to-integrable-lattice-models/](http://slava.itp.ac.ru/intro-to-integrable-lattice-models/)
+**[LP]** – лекции Пугая по решёточным моделям. [http://slava.itp.ac.ru/intro-to-integrable-lattice-models/](http://slava.itp.ac.ru/intro-to-integrable-lattice-models/)
 
-**D** – Delfino, “Integrable field theory and critical phenomena. The Ising model in a magnetic field”
+**[D]** – Delfino, “Integrable field theory and critical phenomena. The Ising model in a magnetic field”
 
-**DF** – Di Francesco et al. , “Conformal field theory”
+**[DF]** – Di Francesco et al. , “Conformal field theory”
 
-**Z1** – Zamolodchikov, “Integrable Field Theory from Conformal Field Theory”
+**[Z1]** – Zamolodchikov, “Integrable Field Theory from Conformal Field Theory”
 
-**FZ1** – Fonseca-Zamolodchikov, “Ising field theory in a magnetic field: analytic properties of the free energy”
+**[FZ1]** – Fonseca-Zamolodchikov, “Ising field theory in a magnetic field: analytic properties of the free energy”
 
-**FZ2** – Fonseca-Zamolodchikov, “Ising spectroscopy: Mesons at T<Tc”
+**[FZ2]** – Fonseca-Zamolodchikov, “Ising spectroscopy: Mesons at T<Tc”
 
-**YZ** – Yurov-Zamolodchikov, “Trucated fermion space approach to the critical 2D Ising model with magnetic field”
+**[YZ]** – Yurov-Zamolodchikov, “Trucated fermion space approach to the critical 2D Ising model with magnetic field”
 
-**XZ** – Xu-Zamolodchikov, “2D Ising Field Theory in a Magnetic Field: The Yang-Lee Singularity”
+**[XZ]** – Xu-Zamolodchikov, “2D Ising Field Theory in a Magnetic Field: The Yang-Lee Singularity”
