@@ -12,7 +12,7 @@
    - Пространство параметров и действие на нем преобразований Бэклунда
    - Тау-функции, билинейные уравнения на тау-функции
 
-(Главы 2,3), **[1]**
+**[0, Главы 2,3]**, **[1]**
 
 2. $\phi$-факторы.
 
@@ -20,7 +20,7 @@
    - Полиномы Окамото
    - Общий случай аффинной группы Вейля и $\phi$-факторы в общем случае
 
-(Глава 4) **[1,2,4]**
+**[0, Глава 4]**, **[1,2,4]**
 
 3. Тождество типа Якоби-Труди
 
@@ -28,7 +28,7 @@
    - Доказательство формулы типа Якоби-Труди для матричных преобразований
    - Переход к аффинному случаю
 
-(Глава 7) 
+**[0, Глава 7]** 
 
 4. Формализм Лакса
 
@@ -36,26 +36,25 @@
    - Пример для Пенлеве 4
    - Преобразования Бэклунда на языке линейной задачи
 
-(Глава 8)
+**[0, Глава 8]**
 
 5. Связь с функциями Шура.
    - Диаграммы Юнга и Диаграммы Майа в обычном и аффинном случаях
    - Формула Якоби-Труди для полиномов Шура
    - Специальные параметры, Полиномы Окамото как функции Шура
 
-
-(Глава 5)
+**[0, Глава 5]**
 
 **Основная литература:**
 
-PAINLEVÉ EQUATIONS THROUGH SYMMETRY  By MASATOSHI NOUMI
+**[0]** – PAINLEVÉ EQUATIONS THROUGH SYMMETRY  By MASATOSHI NOUMI
 
 **Доп. литература:**
 
-**[1]** -- Symmetries in the fourth Painlev´e equation and Okamoto polynomials ([arXiv:q-alg/9708018](https://arxiv.org/abs/q-alg/9708018)) 
+**[1]** – Symmetries in the fourth Painlev´e equation and Okamoto polynomials ([arXiv:q-alg/9708018](https://arxiv.org/abs/q-alg/9708018)) 
 
-**[2]** -- Higher order Painlevé equations of type A^(1)\_l ([arXiv:math/9808003](https://arxiv.org/abs/math/9808003)) 
+**[2]** – Higher order Painlevé equations of type A^(1)\_l ([arXiv:math/9808003](https://arxiv.org/abs/math/9808003)) 
 
-**[3]** -- Affine Weyl groups, discrete dynamical systems and Painleve equations ([arXiv:math/9804132](https://arxiv.org/abs/math/9804132)) 
+**[3]** – Affine Weyl groups, discrete dynamical systems and Painleve equations ([arXiv:math/9804132](https://arxiv.org/abs/math/9804132)) 
 
-**[4]** -- The fourth Painlevé equation and associated special polynomials ([10.1063/1.1603958](https://ui.adsabs.harvard.edu/link_gateway/2003JMP....44.5350C/doi:10.1063/1.1603958))   
+**[4]** – The fourth Painlevé equation and associated special polynomials ([10.1063/1.1603958](https://ui.adsabs.harvard.edu/link_gateway/2003JMP....44.5350C/doi:10.1063/1.1603958))   

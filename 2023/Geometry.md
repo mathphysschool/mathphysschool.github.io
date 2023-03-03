@@ -21,21 +21,21 @@
 
 **Литература:**
 
-**[KKhE]**  -- Б. Я. Казарновский, А. Г. Хованский, А. И. Эстеров  “Многогранники Ньютона и тропическая геометрия”
+**[KKhE]**  – Б. Я. Казарновский, А. Г. Хованский, А. И. Эстеров  “Многогранники Ньютона и тропическая геометрия”
 
-**[KLP] ** -- М. Э. Казарян, С. К. Ландо, В. В. Прасолов “Алгебраические кривые. По направлению к пространствам модулей”
+**[KLP]** – М. Э. Казарян, С. К. Ландо, В. В. Прасолов “Алгебраические кривые. По направлению к пространствам модулей”
 
-**[Kh]** -- А. Г. Хованский “Многогранники Ньютона и торические многообразия”
+**[Kh]** – А. Г. Хованский “Многогранники Ньютона и торические многообразия”
 
-**[FPT]** --  M. Forsberg, M. Passare, A. Tsikh, “Laurent determinants and arrangements of hyperplane amoebas”
+**[FPT]** –  M. Forsberg, M. Passare, A. Tsikh, “Laurent determinants and arrangements of hyperplane amoebas”
 
-**[GKZ]** -- I. M. Gelfand, M. M. Kapranov, A. V. Zelevinsky  “Discriminants, resultants, and multidimensional determinants”
+**[GKZ]** – I. M. Gelfand, M. M. Kapranov, A. V. Zelevinsky  “Discriminants, resultants, and multidimensional determinants”
 
-**[MR]** -- G. Mikhalkin, H. Rullgard “Amoebas of maximal area”
+**[MR]** – G. Mikhalkin, H. Rullgard “Amoebas of maximal area”
 
-**[V]** -- O. Viro “what is an amoeba?”
+**[V]** – O. Viro “what is an amoeba?”
 
-**[Vhtml]** -- (http://www.pdmi.ras.ru/~olegviro/rus-educ-texts.html)[http://www.pdmi.ras.ru/~olegviro/rus-educ-texts.html](http://www.pdmi.ras.ru/~olegviro/rus-educ-texts.html)
+**[Vhtml]** – (http://www.pdmi.ras.ru/~olegviro/rus-educ-texts.html)[http://www.pdmi.ras.ru/~olegviro/rus-educ-texts.html](http://www.pdmi.ras.ru/~olegviro/rus-educ-texts.html)
 
 
 

@@ -73,14 +73,14 @@
 
 Литература:
 
-**[ДНФ]** -- Б. А. Дубровин, С. П. Новиков, А. Т. Фоменко “Современная геометрия”
+**[ДНФ]** – Б. А. Дубровин, С. П. Новиков, А. Т. Фоменко “Современная геометрия”
 
-**[Z]** -- K. Zarembo, “Integrability in Sigma-Models” [1712.07725](https://arxiv.org/abs/1712.07725)
+**[Z]** – K. Zarembo, “Integrability in Sigma-Models” [1712.07725](https://arxiv.org/abs/1712.07725)
 
-**[E]** -- Lorenz Eberhardt, “Wess-Zumino-Witten Models” [lectures](http://sns.ias.edu/~elorenz/Talks.html)
+**[E]** – Lorenz Eberhardt, “Wess-Zumino-Witten Models” [lectures](http://sns.ias.edu/~elorenz/Talks.html)
 
-**[PW]** -- A. M. Polyakov and P. Wiegmann, Theory of nonabelian goldstone bosons in two dimensions,
+**[PW]** – A. M. Polyakov and P. Wiegmann, Theory of nonabelian goldstone bosons in two dimensions,
 
-**[T]** -- D. Tong “String Theory”
+**[T]** – D. Tong “String Theory”
 
-**[К]** -- М. О. Катанаев “Геометрические методы в математической физике
+**[К]** – М. О. Катанаев “Геометрические методы в математической физике
