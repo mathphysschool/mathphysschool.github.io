@@ -21,8 +21,10 @@
 **Литература**
 
 **[0]** (основная) 1509.08186 K. Kajiwara, M. Noumi, Y. Yamada, Geometric aspects of Painleve equations.
+
 **[1]** (более математичное изложение) Hidetaka Sakai, Rational Surfaces Associated with Affine Root Systems
 and Geometry of the Painlevé Equations, Commun. Math. Phys. 220, 165 – 229 (2001)
+
 **[2]** И. Р. Шафаревич, Основы алгебраической геометрии, т.1
 
 [^1]: В ранних изданиях раздутие может называться сигма-процессом.
