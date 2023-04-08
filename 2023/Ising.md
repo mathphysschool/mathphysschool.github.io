@@ -48,7 +48,7 @@
 
 Литература:
 
-**[LZ]** – лекции Замолодчикова про Ising field theory, [https://www.weizmann.ac.il/complex/falkovich/courses](https://www.weizmann.ac.il/complex/falkovich/courses)
+**[LZ]** – лекции Замолодчикова про Ising field theory, [https://disk.yandex.ru/d/OpbIZqA5WS80TA](https://disk.yandex.ru/d/OpbIZqA5WS80TA)
 
 **[LL]** – лекции Лашкевича про интегрируемые теории поля, [http://lashkevi.itp.ac.ru/lectures/imqft/](http://lashkevi.itp.ac.ru/lectures/imqft/)
 
