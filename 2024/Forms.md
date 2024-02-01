@@ -73,7 +73,8 @@
   
     - (*) Аналитическое продолжение и функциональное уравнение. **[Zag92, 2]**
 
-Список литературы
+**Литература**
+
 **[DS05]** Fred Diamond and Jerry Michael Shurman. A first course in modular forms, volume
 228. Springer, 2005.
 
