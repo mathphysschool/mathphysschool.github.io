@@ -46,5 +46,3 @@ of algebra 174 (1995), 187–196
 deformed W algebras, Contemp. Math., vol. 248, AMS, Providence, RI, 1999, pp. 163–205
 
 **[CP2]** V. Chari, A. Pressley Yangians: Their representations and characters.
-
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
