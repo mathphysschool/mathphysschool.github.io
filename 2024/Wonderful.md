@@ -29,10 +29,16 @@
 
    - Компактификация семейства коммутативных подалгебр алгебры голономий.
       
-Список литературы
+**Литература**
+
 **[DCP1]** C. De Concini, C. Procesi Wonderful models of subspace arrangements. 1995
+
 **[DCP2]** C. De Concini, C. Procesi Wonderful models of subspace arrangements. 1995
+
 **[G1]** G. Gaiffi Compactifications of configuration spaces. 1999
+
 **[G2]** G. Gaiffi De Concini - Procesi models of arrangements and symmetric group actions. 1999
+
 **[AFV1]** L. Aguirre, G. Felder, A. P. Veselov Gaudin subalgebras and stable rational curves. 2010
+
 **[AFV2]** L. Aguirre, G. Felder, A. P. Veselov Gaudin subalgebras and wonderful models. 2015
