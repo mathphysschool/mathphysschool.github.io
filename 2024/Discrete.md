@@ -35,7 +35,7 @@
 
   4. Солитонные решения с помощью матриц Коши. **[HJN, гл. 9]**
 
-Литература:
+**Литература**:
 
 **[ABS]** –  V.E. Adler, A.I. Bobenko, Yu.B. Suris “Classification of Integrable Equations on Quad-Graphs. The Consistency Approach”
 
