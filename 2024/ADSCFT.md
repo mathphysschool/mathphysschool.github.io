@@ -51,28 +51,28 @@ $V_{2,1}$ . БПЗ уравнение на 5-точечный (вспомога�
 **Список литературы**
 
 **[1]** P. H. Ginsparg, APPLIED CONFORMAL FIELD THEORY, in Les Houches Summer School in
-Theoretical Physics: Fields, Strings, Critical Phenomena, 9, 1988. hep-th/9108028.
+Theoretical Physics: Fields, Strings, Critical Phenomena, 9, 1988. 
 
 **[2]** P. Di Francesco, P. Mathieu and D. Senechal, Conformal Field Theory. Graduate Texts in
-Contemporary Physics. Springer-Verlag, New York, 1997, 10.1007/978-1-4612-2256-9.
+Contemporary Physics. Springer-Verlag, New York, 1997.
 
 **[3]** A. B. Zamolodchikov, PHYSICS REVIEWS. VOL. 10, PT. 4: CONFORMAL FIELD THEORY
 AND CRITICAL PHENOMENA IN TWO-DIMENSIONAL SYSTEMS. 1989.
 
 **[4]** A. L. Fitzpatrick, J. Kaplan and M. T. Walters, Universality of Long-Distance AdS Physics from
-the CFT Bootstrap, JHEP 08 (2014) 145, [1403.6829].
+the CFT Bootstrap, JHEP 08 (2014) 145.
 
 **[5]** P. Banerjee, S. Datta and R. Sinha, Higher-point conformal blocks and entanglement entropy in
-heavy states, JHEP 05 (2016) 127, [1601.06794].
+heavy states, JHEP 05 (2016).
 
 **[6]** S. Deser and R. Jackiw, Three-Dimensional Cosmological Gravity: Dynamics of Constant
 Curvature, Annals Phys. 153 (1984) 405–416.
 
 **[7]** M. Welling, Explicit solutions for point particles and black holes in spaces of constant curvature
-in (2+1)-Dimensional gravity, Nucl. Phys. B 515 (1998) 436–452, [hep-th/9706021].
+in (2+1)-Dimensional gravity, Nucl. Phys. B 515 (1998) 436–452.
 
 **[8]** C. T. Asplund, A. Bernamonti, F. Galli and T. Hartman, Holographic Entanglement Entropy
-from 2d CFT: Heavy States and Local Quenches, JHEP 02 (2015) 171, [1410.1392].
+from 2d CFT: Heavy States and Local Quenches, JHEP 02 (2015) 171.
 
 **[9]** E. Hijano, P. Kraus and R. Snively, Worldline approach to semi-classical conformal blocks, JHEP
-07 (2015) 131, [1501.02260].
+07 (2015) 131.
