@@ -59,10 +59,10 @@
 
 **Литература**
 
-  [EGH80] Tohru Eguchi, Peter Gilkey и Andrew Hanson.  "Gravitation, Gauge Theories And
+  **[EGH80]** Tohru Eguchi, Peter Gilkey и Andrew Hanson.  "Gravitation, Gauge Theories And
 Differential Geometry". В: Physics Reports 66 (нояб. 1980), с. 213-393.doi: 10.
 1016/0370-1573(80)90130-1.
 
-  [EH79] Tohru Eguchi и Andrew J. Hanson. "Selfdual Solutions to Euclidean Gravity". В:
+  **[EH79]** Tohru Eguchi и Andrew J. Hanson. "Selfdual Solutions to Euclidean Gravity". В:
 Annals Phys. 120 (1979), с. 82.
  doi: 10.1016/0003-4916(79)90282-3.
