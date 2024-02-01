@@ -58,7 +58,7 @@ Pugai, Lashkevich, free energy strict]**
 
     - Фазовая диаграмма, обсуждение смысла фаз.
 
-5. Детерминантная формула Изергина **[garcia, Lashkevich]**
+5. Детерминантная формула Изергина **[garcia, Slavnov]**
 
      - DWPF статсумма
   
