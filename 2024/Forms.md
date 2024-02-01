@@ -75,14 +75,10 @@
 
 **Литература**
 
-**[DS05]** Fred Diamond and Jerry Michael Shurman. A first course in modular forms, volume
-228. Springer, 2005.
+**[DS05]** Fred Diamond and Jerry Michael Shurman. A first course in modular forms, volume 228. Springer, 2005.
 
-**[Ser12]** Jean-Pierre Serre. A course in arithmetic, volume 7. Springer Science & Business
-Media, 2012.
+**[Ser12]** Jean-Pierre Serre. A course in arithmetic, volume 7. Springer Science & Business Media, 2012.
 
-**[Zag92]** Don Zagier. Introduction to modular forms. In From number theory to physics, pages
-238–291. Springer, 1992.
+**[Zag92]** Don Zagier. Introduction to modular forms. In From number theory to physics, pages 238–291. Springer, 1992.
 
-**[Zag08]** Don Zagier. Elliptic modular forms and their applications. The 1-2-3 of modular forms:
-Lectures at a summer school in Nordfjordeid, Norway, pages 1–103, 2008.
+**[Zag08]** Don Zagier. Elliptic modular forms and their applications. The 1-2-3 of modular forms: Lectures at a summer school in Nordfjordeid, Norway, pages 1–103, 2008.
