@@ -48,5 +48,6 @@
 - [__Чудесные компактификации Де Кончини-Прочези__](./Wonderful.md)
 - [__N=2 Суперконформные теории поля__](./N2CFT.md)
 - [__Изучение 6-вершинной модели__](./6vertex.md)
+- [__Обобщенная гидродинамика__](./Hydrodynamics.md)
 
 # [Ссылка на папку с литературой](https://drive.google.com/drive/folders/1R3-OtA4_sxE_X_vogfTMejoG8IH4wGsH?usp=drive_link)
