@@ -48,7 +48,7 @@
   
     - Решение с помощью уравнений обобщенной гидродинамики.
   
-5. Классическая и квантовая модель sinh-Gordon и ее описание в рамках обощенной гидродинамики.
+5. Классическая и квантовая модель sinh-Gordon и ее описание в рамках обощенной гидродинамики **[M,B]**.
 
     - Классическая статистическая сумма.
   
@@ -64,5 +64,10 @@
 
 **[A]** Vincenzo Alba et all, Generalized-Hydrodynamic approach to Inhomogeneous Quenches: Correlations, Entanglement and Quantum Effects, arXiv:2104.00656
 
-**[Z]** Thermodynamic Bethe ansatz in relativistic models: scaling in 3-state pots and Lee-
+**[Z]** Alexey Zamolodchikov, Thermodynamic Bethe ansatz in relativistic models: scaling in 3-state pots and Lee-
 Yang models, Nuclear Physics B342 (1990) 695—720
+
+**[M]** Andrea De Luca and Giuseppe Mussardo, Equilibration properties of classical integrable field theories, J. Stat. Mech. 1606 (2016) no.6, 064011 [arXiv:1603.08628 [cond-mat.stat-mech]].
+
+**[B]** A. Bastianello, B. Doyon, G. Watts and T. Yoshimura, ``Generalized hydrodynamics of classical integrable field theory: the sinh-Gordon model,'' SciPost Phys. 4 (2018), 045, [arXiv:1712.05687 [cond-mat.stat-mech]].
+
