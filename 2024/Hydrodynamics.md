@@ -40,7 +40,7 @@
   
     - Что такое Эйлеров скейлинговый предел?
   
-4. Динамика системы свободных фермионов как интегрируемой системы.
+4. Динамика системы свободных фермионов как интегрируемой системы **[D2,E]**.
 
     - Обобщенная гидродинамика этой системы в Эйлеровом скейлинговом пределе и вне его.
   
@@ -66,6 +66,8 @@
 
 **[Z]** Alexey Zamolodchikov, Thermodynamic Bethe ansatz in relativistic models: scaling in 3-state pots and Lee-
 Yang models, Nuclear Physics B342 (1990) 695—720
+
+**[D2]** B. Doyon, ``Exact large-scale correlations in integrable systems out of equilibrium,'' SciPost Phys. 5 (2018), 054, [arXiv:1711.04568 [math-ph]].
 
 **[M]** Andrea De Luca and Giuseppe Mussardo, Equilibration properties of classical integrable field theories, J. Stat. Mech. 1606 (2016) no.6, 064011 [arXiv:1603.08628 [cond-mat.stat-mech]].
 
