@@ -62,4 +62,4 @@
 
 ## Конспекты
 
-[Лекция 2](https://drive.google.com/file/d/1jWAgKR06cAReZSzKF3lrmTkfOIKtQDX7/view?usp=drive_link)
+[Лекция 1](https://drive.google.com/file/d/1jWAgKR06cAReZSzKF3lrmTkfOIKtQDX7/view?usp=drive_link)
