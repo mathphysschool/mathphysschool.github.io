@@ -44,3 +44,10 @@
 **[AFV1]** L. Aguirre, G. Felder, A. P. Veselov Gaudin subalgebras and stable rational curves. 2010
 
 **[AFV2]** L. Aguirre, G. Felder, A. P. Veselov Gaudin subalgebras and wonderful models. 2015
+
+
+## Конспекты
+
+Доклад 1 [Видео](https://youtu.be/SlqvIEEx59I?list=PLLGkFbxve673kHd3MzJ1hKRLRBUkABFiP)
+
+Доклад 2 [Видео](https://youtu.be/uGqr2r-JiM0?list=PLLGkFbxve673kHd3MzJ1hKRLRBUkABFiP)
