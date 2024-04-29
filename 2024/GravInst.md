@@ -66,3 +66,6 @@ Differential Geometry". В: Physics Reports 66 (нояб. 1980), с. 213-393.doi
   **[EH79]** Tohru Eguchi и Andrew J. Hanson. "Selfdual Solutions to Euclidean Gravity". В:
 Annals Phys. 120 (1979), с. 82.
  doi: 10.1016/0003-4916(79)90282-3.
+
+ ## Конспекты
+ [Лекция 1](https://drive.google.com/file/d/1Ci3apMtVNEmm2lvWcsbRXoUExuJgwa5n/view?usp=drive_link)
