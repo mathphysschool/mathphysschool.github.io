@@ -59,3 +59,7 @@
 “Sato theory and Transformation Groups. A Unified Approach to integrable systems” (глава в сборнике "Discrete Integrable Systems") 
 
 **[KG]** - A. Kasman, M. Gekhtman “Solitons and “almost intertwining” matrices”
+
+## Конспекты
+
+[Лекция 2](https://drive.google.com/file/d/1jWAgKR06cAReZSzKF3lrmTkfOIKtQDX7/view?usp=drive_link)
