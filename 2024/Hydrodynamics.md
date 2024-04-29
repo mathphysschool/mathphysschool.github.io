@@ -73,3 +73,6 @@ Yang models, Nuclear Physics B342 (1990) 695—720
 
 **[B]** A. Bastianello, B. Doyon, G. Watts and T. Yoshimura, ``Generalized hydrodynamics of classical integrable field theory: the sinh-Gordon model,'' SciPost Phys. 4 (2018), 045, [arXiv:1712.05687 [cond-mat.stat-mech]].
 
+## Конспекты
+
+[Лекция 1](https://drive.google.com/file/d/13ReL8ZqVzOZTg-JZmpvmm6sl_8Btko3Y/view?usp=drive_link)
