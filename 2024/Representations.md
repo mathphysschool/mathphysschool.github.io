@@ -49,4 +49,6 @@ deformed W algebras, Contemp. Math., vol. 248, AMS, Providence, RI, 1999, pp. 16
 
 ## Конспекты
 
-[Лекция 1](https://drive.google.com/file/d/14lgBCMcJVR9Fjx3tKkVvfQGy8RRk1CRt/view?usp=drive_link) 
+Доклад 1[Текст](https://drive.google.com/file/d/14lgBCMcJVR9Fjx3tKkVvfQGy8RRk1CRt/view?usp=drive_link), [Видео](https://youtu.be/t6bnOWkOMyc?list=PLLGkFbxve673kHd3MzJ1hKRLRBUkABFiP)
+
+Доклад 2 [Текст](https://drive.google.com/file/d/1WTAZa-peQpii1dSfii7ryr8aJLO2_mlo/view?usp=drive_link), [Видео](https://youtu.be/NMPqOJlsSE4?list=PLLGkFbxve673kHd3MzJ1hKRLRBUkABFiP)
