@@ -65,3 +65,8 @@
 Доклад 1 [Текст](https://drive.google.com/file/d/1jWAgKR06cAReZSzKF3lrmTkfOIKtQDX7/view?usp=drive_link) [Видео](https://youtu.be/sfg3ctK0WwQ?list=PLLGkFbxve673kHd3MzJ1hKRLRBUkABFiP)
 
 Доклад 2 [Текст](), [Видео часть 1](https://www.youtube.com/live/6pV7oOVW0Ww?si=UQQjFAL7TigtBI6X), [Видео, часть 2](https://www.youtube.com/live/af4x0X5adSM?si=uBLhIMHnuMyk7AuO)
+
+Доклад 3 [Текст](), [Видео часть 1](https://youtube.com/live/aDtPyOXZLYI?feature=share), [Видео, часть 2]()
+
+
+
