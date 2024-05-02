@@ -75,4 +75,10 @@ Yang models, Nuclear Physics B342 (1990) 695—720
 
 ## Конспекты
 
-[Лекция 1](https://drive.google.com/file/d/13ReL8ZqVzOZTg-JZmpvmm6sl_8Btko3Y/view?usp=drive_link)
+Доклад 1 [Текст](https://drive.google.com/file/d/13ReL8ZqVzOZTg-JZmpvmm6sl_8Btko3Y/view?usp=drive_link), [Видео]()
+
+Доклад 2 [Текст](), [Видео часть 1](https://youtu.be/Ld557QkD6wc?si=-_wK8DYqj0WVErzU) [Видео часть 2](https://youtu.be/16UmLcJmIwE?si=04QYBe5xUrdBkm5u)
+
+Доклад 3 [Текст](), [Видео]([https://youtu.be/16UmLcJmIwE?si=04QYBe5xUrdBkm5u](https://youtu.be/iAcN3Ckkw1I?si=t43RH1bsWu8EY7fy))
+
+Доклад 4 [Текст](https://drive.google.com/file/d/1lD19-vtkjTrgMyNBuT8l5FwchlXigSnh/view?usp=drive_link), [Видео](https://youtu.be/BW7WcH10leY?si=wcdS_7Z9j9Tg2SPG)
