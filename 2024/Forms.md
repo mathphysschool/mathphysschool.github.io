@@ -80,3 +80,11 @@
 **[Zag92]** Don Zagier. Introduction to modular forms. In From number theory to physics, pages 238–291. Springer, 1992.
 
 **[Zag08]** Don Zagier. Elliptic modular forms and their applications. The 1-2-3 of modular forms: Lectures at a summer school in Nordfjordeid, Norway, pages 1–103, 2008.
+
+## Конспекты
+
+Доклад 1 [Видео](https://www.youtube.com/live/hjP30473myU?si=tLuRTgh2oykyVm7D) [Текст часть 1](), [Текст часть 2](https://drive.google.com/file/d/1mzzTinS_vM5KCr2gnnEESzwMLqHufc2P/view?usp=drive_link)
+
+Доклад 2 [Видео](https://www.youtube.com/live/hss6FqzwWqQ?si=Ea6dRN2VIkFVZ-OU), [Текст]()
+
+Доклад 3 [Видео](https://www.youtube.com/live/oo8Qgf1wdIE?si=A4sz-6_xCowMTgHD), [Текст](https://drive.google.com/file/d/1dSS92xVwG-OfPtLSFoRCTeLTfW1m1hu2/view?usp=drive_link)
