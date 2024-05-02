@@ -54,3 +54,5 @@ deformed W algebras, Contemp. Math., vol. 248, AMS, Providence, RI, 1999, pp. 16
 Доклад 2 [Текст](https://drive.google.com/file/d/1WTAZa-peQpii1dSfii7ryr8aJLO2_mlo/view?usp=drive_link), [Видео часть 1](https://youtu.be/NMPqOJlsSE4?list=PLLGkFbxve673kHd3MzJ1hKRLRBUkABFiP), [Видео часть 2](https://www.youtube.com/live/ia6Ojz7HJSk?si=hq86Vim0uTrwbxZP)
 
 Доклад 3 [Текст](https://drive.google.com/file/d/10NEBeGIk6rJ0YK38dVYADocAQVp3K3U0/view?usp=drive_link), [Видео часть 1](https://www.youtube.com/live/vw5ql9KrnhU?si=WuJSTOe4C7L7C6H5) , [Видео часть 2](https://www.youtube.com/live/iOkVpJOHuxE?si=oH-YE3Vkuw8hFlqr)
+
+Доклад 4 [Текст](https://drive.google.com/file/d/1gOYUoON6vsv8Y5oQXciAwjkNgWClP_G8/view?usp=drive_link), [Видео](https://youtube.com/live/Vxe4bc84q_U?feature=share)
