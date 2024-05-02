@@ -88,3 +88,5 @@
 Доклад 2 [Видео](https://www.youtube.com/live/hss6FqzwWqQ?si=Ea6dRN2VIkFVZ-OU), [Текст]()
 
 Доклад 3 [Видео](https://www.youtube.com/live/oo8Qgf1wdIE?si=A4sz-6_xCowMTgHD), [Текст](https://drive.google.com/file/d/1dSS92xVwG-OfPtLSFoRCTeLTfW1m1hu2/view?usp=drive_link)
+
+Доклад 3 [Видео](https://www.youtube.com/live/oo8Qgf1wdIE?si=A4sz-6_xCowMTgHD), [Текст](https://youtube.com/live/Sb93sRxwU-c?feature=share)
