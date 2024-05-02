@@ -51,3 +51,6 @@
 Доклад 1 [Видео](https://youtu.be/SlqvIEEx59I?list=PLLGkFbxve673kHd3MzJ1hKRLRBUkABFiP)
 
 Доклад 2 [Видео](https://youtu.be/uGqr2r-JiM0?list=PLLGkFbxve673kHd3MzJ1hKRLRBUkABFiP)
+
+Доклад 3 [Видео](https://youtube.com/live/FnasXoPbzDU?feature=share)
+
