@@ -75,3 +75,12 @@ from 2d CFT: Heavy States and Local Quenches, JHEP 02 (2015) 171.
 **[9]** E. Hijano, P. Kraus and R. Snively, Worldline approach to semi-classical conformal blocks, JHEP
 07 (2015) 131.
 
+## Конспекты
+
+Доклад 1 [Текст](), [Видео]()
+
+Доклад 2 [Текст](), [Видео]()
+
+Доклад 3 [Текст](), [Видео](https://youtu.be/RHnhBhDFHO8?si=DZWromz8nqZVLI4Z)
+
+Доклад 4 [Текст](), [Видео](https://youtu.be/UKVK1afaJV4?si=cwSJFyn1uQbYdN41)
