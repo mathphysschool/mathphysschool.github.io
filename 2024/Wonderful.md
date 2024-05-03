@@ -54,3 +54,5 @@
 
 Доклад 3 [Видео](https://youtube.com/live/FnasXoPbzDU?feature=share)
 
+Доклад 4 [Видео](https://www.youtube.com/live/El5nG4I4PVw?si=KkofkrEBy_ZN6wrO)
+
