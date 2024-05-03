@@ -64,3 +64,14 @@ orbifold models”
 **[G2]** D. Gepner, “On the spectrum of 2d CFT”
 
 **[GQ]** Gepner, Qiu, “Modular invariant partition functions”
+
+
+## Конспекты
+
+Доклад 1 [Текст](), [Видео]()
+
+Доклад 2 [Текст](), [Видео](https://youtu.be/OSInsa08Zj8?si=7BZmFl9JkS38-pE6)
+
+Доклад 3 [Текст](), [Видео](https://youtu.be/-Z2QJIyvYSE?si=SkM3MXaLJTyV8DaG)
+
+Доклад 4 [Текст](), [Видео](https://youtu.be/MXOZ_Dism5E?si=DzHZ6Ieie1CCt9vp)
