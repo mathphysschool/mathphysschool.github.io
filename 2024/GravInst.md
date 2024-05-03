@@ -69,4 +69,12 @@ Annals Phys. 120 (1979), с. 82.
 
  ## Конспекты
  
- [Лекция 1](https://drive.google.com/file/d/1Ci3apMtVNEmm2lvWcsbRXoUExuJgwa5n/view?usp=drive_link)
+Доклад 1 [Текст](https://drive.google.com/file/d/1Ci3apMtVNEmm2lvWcsbRXoUExuJgwa5n/view?usp=drive_link) [Видео]()
+
+Доклад 2 [Текст]() [Видео](https://youtu.be/zWVVCb_jUJI?si=XHNIf6l0ZqM6xk2u)
+
+Доклад 3 [Текст]() [Видео](https://youtu.be/Ih5NgXBuDfk?si=96HyqR2r0nzLXNbo)
+
+Доклад 4 [Текст]() [Видео](https://youtu.be/Rw85OgbD6WA?si=DE4qSLp5VIMD9LbC)
+
+Доклад 5 [Текст]() [Видео]()
