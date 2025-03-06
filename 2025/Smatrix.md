@@ -36,6 +36,9 @@
 
 
 **[PD]** Patrick Dorey "Exact S-matrices" https://arxiv.org/abs/hep-th/9810026
+
 **[Las]** лекции М. Ю. Лашкевича по интегрируемым теориям поля https://home.itp.ac.ru/~lashkevi/lectures/imqft-factory-20/
+
 **[Z]** A.B. Zamolodchikov "Integrals of Motion and S-matrix of the {scaled) T = Tc Ising Model with Magnetic Field "
+
 **[D]** G. Delfino "Integrable field theory and critical phenomena. The Ising model in a magnetic field" https://arxiv.org/abs/hep-th/0312119v1
