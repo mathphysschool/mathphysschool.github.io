@@ -42,3 +42,13 @@
 **[Z]** A.B. Zamolodchikov "Integrals of Motion and S-matrix of the {scaled) T = Tc Ising Model with Magnetic Field "
 
 **[D]** G. Delfino "Integrable field theory and critical phenomena. The Ising model in a magnetic field" https://arxiv.org/abs/hep-th/0312119v1
+
+**[BZP]** Базь, Зельдович, Переломов "Рассеяние, реакции и распады в нерелятивистской квантовой механике"
+
+**[CT]** Coleman, Thun "On the Prosaic Origin of the Double Poles in the Sine-Gordon S-Matrix"
+
+**[ZZ]** Zamolodchikov, A. B., & Zamolodchikov, A. B. "Factorized S-matrices in two dimensions as the exact solutions of certain relativistic quantum field theory models"
+
+**[SM]** Sebastian Mizera "Crossing symmetry in the planar limit", https://arxiv.org/pdf/2104.12776
+
+**[EVOP]** Eden, Landshoff, Olive, Polkinghorne "The Analytic S-matrix"
