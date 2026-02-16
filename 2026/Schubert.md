@@ -1,3 +1,4 @@
+<script src="http://fred-wang.github.io/mathjax.js/mpadded-min.js"></script>
 # Исчисление Шуберта и модель Годена
 
 Кураторы: [Анфиса Гуренкова](mailto:gurenkovaa@gmail.com) [Илья Толстухин](mailto:tol.gaara@yandex.ru)
