@@ -2,16 +2,15 @@
 
 Кураторы: [Анфиса Гуренкова](mailto:gurenkovaa@gmail.com) [Илья Толстухин](mailto:tol.gaara@yandex.ru)
 
-*Аннотация*:
-Мотивация: существует красивая связь между классическими задача-
+*Мотивация*: существует красивая связь между классическими задача-
 ми теории пересечений в грассманианах и квантовыми интегрируемыми
 системами через модель Годена и анзац Бете. Эта связь открывает новый
 взгляд на оба мира: физические методы позволяют доказывать новые результаты, например теоремы о вещественности в исчислении Шуберта, а
 геометрия грассманианов проясняет структуру спектра интегрируемой
 модели.
 
-Цель: обсудить соответствие между (i) пересечениями многообразий
-Шуберта в грассманианах, (ii) спектром коммутативной алгеброй Годена и анзацем Бете для $sl_r$, (iii) безмонодромными операми на $\mathbb{P}^1$, а
+*Цель*: обсудить соответствие между (i) пересечениями многообразий
+Шуберта в грассманианах, (ii) спектром коммутативной алгеброй Годена и анзацем Бете для sl_r, (iii) безмонодромными операми на P^1, а
 также приложения этого соответствия к результатам вещественности в
 исчислении Шуберта (теорема Мухина–Тарасова–Варченко).
 
@@ -57,18 +56,48 @@
   
     - Связь с моделью Годена, примеры для sl_r и тензорных степеней тавтологических представлений **[3]**.
 
+4. Соответствие: пересечения Шуберта ↔ оперы ↔ решения Бете:
+
+      - Осциллирующая задача Шуберта на Gr(r, N) (флаги F_•(z_i) на рациональной нормальной кривой) **[2, 8]**.
+  
+      - Формулировка MTV-соответствия: точки нулемерного пересечения ↔ собственные данные алгебры Годена ↔ безмонодромные sl_r-оперы на P^1 **[8, 6]**.
+  
+      - Роль вронскиана и полиномиальных пространств решений (геометрический мост к Gr(r, N)) **[8, 2]**.
+
+  5. Вещественность и гипотеза Шапиро: приложения
+
+     - Теорема Мухина–Тарасова–Варченко (бывшая гипотеза Шапиро–Шапиро для грассманианов): при z_i ∈ R осциллирующее пересечение трансверсально и все решения вещественны **[8]**.
+    
+     - Доказательство: вещественность и простота спектра самосопряженных операторов Годена при вещественных z_i и перенос на геометрию пересечений через соответствие МТВ **[8, 2]**.
+    
+     - Частный случай через рациональные функции: критические точки на R ⇒ вещественность (после дробно-линейной нормировки) **[10]**.
+
 
   
   **Литература**
 
-  **[Pugai]** Лекции Института Теоретической Физики им. Ландау
+  **[1]** W. Fulton, Young Tableaux: With Applications to Representation Theory and Geometry, Camb. Univ. Press, 1997.
 
-  **[Reshetikhin]** Лекции Решетихина по 6-вершинной модели
+**[2]** F. Sottile, Frontiers of Reality in Schubert Calculus, arXiv:0907.1847 (2009).
 
-  **[Zabrodin]** Лекции Забродина по анзацу Бете и интегрируемым системам 
+**[3]** I. Scherbak, A theorem of Heine–Stieltjes, the Wronski map, and Bethe vectors in the slp Gaudin model, arXiv:math/0211377 (2003).
 
-  **[Baxter]** Exactly solvable models of statistical mechanics
+**[4]** B. Feigin, E. Frenkel, N. Reshetikhin, Gaudin model, Bethe ansatz and critical level, Comm. Math. Phys. 166 (1994), 27–62.
 
-  **[free energy strict]** On the six-vertex model’s free energy
+**[5]** Л. Г. Рыбников, Метод сдвига инвариантов и модель Годена, Функц. ан. и прил., т.4, вып.3, стр.30-43, ссылка
 
-  **[Slavnov]** Slavnov, «Algebraic Bethe Ansatz»
+**[6]** E. Frenkel, Gaudin model and opers, arXiv:math/0407524 (2004).
+
+**[7]** E. Frenkel, Langlands Correspondence for Loop Groups, Cambridge Studies in Advanced Mathematics, vol. 103, Cambridge University Press, 2007.
+
+**[8]** E. Mukhin, V. Tarasov, A. Varchenko, The B. and M. Shapiro conjecture in real algebraic geometry and the Bethe ansatz, Ann. of Math. 170 (2009), no. 2, 863–881.
+
+**[9]** E. Mukhin, V. Tarasov, A. Varchenko, Schubert calculus and representations of the general linear group, J. Amer. Math. Soc. 22 (2009), no. 4, 909–940.
+
+**[10]** A. Eremenko, A. Gabrielov, Elementary proof of the B. and M. Shapiro conjecture for rational functions, arXiv:math/0512370 (2005).
+
+**[11]** E. Mukhin, A. Varchenko, Norm of a Bethe Vector and the Hessian of the Master Function, arXiv:math/0402349 (2004).
+
+**[12]** A. Varchenko, Bethe Ansatz for Arrangements of Hyperplanes and the Gaudin Model, arXiv:math/0408001 (2004).
+
+**[13]** A. Chervov, D. Talalaev, Universal G-oper and Gaudin eigenproblem, Institute for Theoretical and Experimental Physics (ITEP), arXiv:/hep-th/0409007
