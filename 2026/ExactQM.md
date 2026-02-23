@@ -11,45 +11,44 @@
 
    - Определение (квази )точно решаемых потенциалов. Связь с алгеброй sl_2 **[1]**
   
-   - Суперпотенциал и инвриантность формы.
+   - Суперпотенциал и форминвариантность. **[2,3]**
   
-   - Примеры 
-
 2. Дискретная квантовая механика:
 
-    - Определение "дискретной квантовой механики. Примеры.
+    - Определение "дискретной квантовой механики. Примеры. **[3]**
 
-    - Точная решаемость и представления U_q(sl_2).
+    -(*) Точная решаемость и представления U_q(sl_2). **[4]**
   
-    - Спектральная двойственность
-  
-    - Примеры
+    -  Спектральная двойственность. **[3]**
 
 3. Многочастичные системы на примере полиномов Джека:
 
-    - Решение квантового тригонометрического Калоджеро.
+    - Решение квантового тригонометрического Калоджеро.**[5 Гл 3.4.2]**
   
-    - Полиномы Джека как обобщенные характеры.
+    -  Полиномы Джека как обобщенные характеры.**[6]**
   
 4. Многочастичные системы на примере полиномов Макдонольда:
 
-      - Решение квантового тригонометрического Руйсенаарса.
+      - Решение квантового тригонометрического Руйсенаарса.**[5 Гл 3.4.3]**
   
-      - Полиномы Макдональда как обобщенные характеры.
+      - Полиномы Макдональда как обобщенные характеры.**[7]**
   
-      - Спектральная дойственность
+      - Спектральная дойственность **[8 Гл 6]**
   
   **Литература**
 
- Основная:
-1. N. M. J. Woodhouse, Lionel J. Mason - "Integrability, Self-duality, and Twistor Theory"
+1. A. V. Turbiner - "One-dimensional quasi-exactly solvable Schrödinger equations"
 
-2. R. O. Wells Jr, R. S. Ward - "Twistor geometry and field theory"
+2. R. Sasaki - "Exactly Solvable Quantum Mechanics"
 
-Вспомогательная:
+3. S. Odake, R. Sasaki - "Discrete Quantum Mechanics"
 
-1. Maciej Dunajski - "Solitons, Instantons, and Twistors"
+4. P. B. Wiegmann, A. V. Zabrodin - "Algebraization of difference eigenvalue equations related to U_q(sl_2)" +
 
-2. М. Атья - "Геометрия и физика узлов"
+5. G. Arutyunov - "Elements of classical and quantum integrable systems" 
 
-3. Р. Пенроуз - "Твисторы и калибровочные поля"
+6. P. I. Etingof - "Quantum integrable systems and representations of Lie algebras"
+
+7. P. I. Etingof, A. Kirillov Jr. - "Macdonald's polynomials and representations of quantum groups"
+
+8. I. G. Macdonald - "Symmetric Functions and Hall polynomials"
