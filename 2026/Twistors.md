@@ -54,13 +54,14 @@
   **Литература**
 
  Основная:
-1. N. M. J. Woodhouse, Lionel J. Mason - "Integrability, Self-duality, and Twistor Theory"
+**[1]** N. M. J. Woodhouse, Lionel J. Mason - "Integrability, Self-duality, and Twistor Theory"
 
-2. R. O. Wells Jr, R. S. Ward - "Twistor geometry and field theory"
+**[2]** R. O. Wells Jr, R. S. Ward - "Twistor geometry and field theory"
 
 Вспомогательная:
 
-1. Maciej Dunajski - "Solitons, Instantons, and Twistors"
+**[1]** Maciej Dunajski - "Solitons, Instantons, and Twistors"
 
-2. М. Атья - "Геометрия и физика узлов"
-3. Р. Пенроуз - "Твисторы и калибровочные поля"
+**[2]** М. Атья - "Геометрия и физика узлов"
+
+**[3].** Р. Пенроуз - "Твисторы и калибровочные поля"
