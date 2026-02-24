@@ -37,18 +37,18 @@
   
   **Литература**
 
-1. A. V. Turbiner - "One-dimensional quasi-exactly solvable Schrödinger equations"
+**[1]** A. V. Turbiner - "One-dimensional quasi-exactly solvable Schrödinger equations"
 
-2. R. Sasaki - "Exactly Solvable Quantum Mechanics"
+**[3]** R. Sasaki - "Exactly Solvable Quantum Mechanics"
 
-3. S. Odake, R. Sasaki - "Discrete Quantum Mechanics"
+**[3]** S. Odake, R. Sasaki - "Discrete Quantum Mechanics"
 
-4. P. B. Wiegmann, A. V. Zabrodin - "Algebraization of difference eigenvalue equations related to U_q(sl_2)" +
+**[4]** P. B. Wiegmann, A. V. Zabrodin - "Algebraization of difference eigenvalue equations related to U_q(sl_2)" +
 
-5. G. Arutyunov - "Elements of classical and quantum integrable systems" 
+**[5]** G. Arutyunov - "Elements of classical and quantum integrable systems" 
 
-6. P. I. Etingof - "Quantum integrable systems and representations of Lie algebras"
+**[6]** P. I. Etingof - "Quantum integrable systems and representations of Lie algebras"
 
-7. P. I. Etingof, A. Kirillov Jr. - "Macdonald's polynomials and representations of quantum groups"
+**[7]** P. I. Etingof, A. Kirillov Jr. - "Macdonald's polynomials and representations of quantum groups"
 
-8. I. G. Macdonald - "Symmetric Functions and Hall polynomials"
+**[8]** I. G. Macdonald - "Symmetric Functions and Hall polynomials"
