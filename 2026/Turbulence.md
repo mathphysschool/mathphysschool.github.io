@@ -36,7 +36,7 @@
   
     - НУШ, спиновые волны
   
-  2. Спектры Колмогорова-Захарова (KZ) **[ZLF92]**:
+2. Спектры Колмогорова-Захарова (KZ) **[ZLF92]**:
 
       - Размерный анализ и масштабная инвариантность, самоподобие
     
@@ -46,7 +46,7 @@
     
       - Устойчивость спектров KZ (лин. кинетического уравнения, структурная неустойчивость: малая анизотропия накачки → сильно анизотропный каскад)
     
-  3. Кинетическое уравение в приближении сильной и слабой турбулентности **[RS24b; RS24a; HR25]**:
+3. Кинетическое уравение в приближении сильной и слабой турбулентности **[RS24b; RS24a; HR25]**:
 
       - Последовательный вывод интегралов столкновений в различных приближениях на примере нелинейного уравнения Шредингера.
 
@@ -54,7 +54,7 @@
 
         • NLO по 1/N
 
-  4. Решения НУШ + нарушение универсальности **[RF25; RF24]**:
+4. Решения НУШ + нарушение универсальности **[RF25; RF24]**:
 
        - Вывод стационарных и самоподобных решений для нелинейного уравнения Шредингера в режиме сильной
 турбулентности (1/N), качественный анализ влияния поправок следующего по λ поправок в режиме слабой
@@ -65,6 +65,35 @@
 
         - Границы применимости колмогоровского спектра.
     
-    5. Лиувилль **[Ros+24; RS24c]**
+5. Лиувилль **[Ros+24; RS24c]**
 
         - Альтернативный метод изучения волновой турбулентности заключается в усреднении по фазовому пространству, вместо того чтобы вводить внешнее воздействие и диссипацию.
+
+
+   **Литература**
+
+   **[Fal]** Gregory Falkovich. “Turbulence”. В: (). url: https://www.weizmann.ac.il/complex/falkovich/sites/complex.falkovich/files/uploads/turbulence.pdf.
+
+    **[HR25]** Xu-Yao Hu и Vladimir Rosenhaus. “Beyond the Boltzmann equation for weakly coupled quantum fields”.
+В: (2025). arXiv: 2503.09932v2 [hep-th].
+
+    **[RF24]** Vladimir Rosenhaus и Gregory Falkovich. “Interaction renormalization and validity of kinetic equations
+for turbulent states”. В: (2024). arXiv: 2308.00033v3 [hep-th].
+
+    **[RF25]** Vladimir Rosenhaus и Gregory Falkovich. “Weak and strong turbulence in self-focusing and defocusing
+media”. В: (2025). arXiv: 2501.12451v1 [physics.flu-dyn].
+
+    **[Ros+24]** Vladimir Rosenhaus и др. “Loop diagrams in the kinetic theory of waves”. В: (2024). arXiv: 2308.00740v2[hep-th].
+
+    **[RS24a]** Vladimir Rosenhaus и Daniel Schubring. “Strong wave turbulence in strongly local large N theories”. В:(2024). arXiv: 2406.18475v1 [hep-th].
+
+    **[RS24b]** Vladimir Rosenhaus и Michael Smolkin. “Feynman rules for forced wave turbulence”. В: (2024). arXiv:2203.08168v4 [cond-mat.stat-mech].
+
+    **[RS24c]** Vladimir Rosenhaus и Michael Smolkin. “Wave turbulence and the kinetic equation beyond leading order”.
+В: (2024). arXiv: 2212.02555v2 [cond-mat.stat-mech].
+
+    **[Zak65]** V.E. Zakharov. “Weak turbulence in media with a decay”. В: ZH. PRIKLAD. MEKH. TEKH. FIZ.
+(1965). url: https : / / zakharov75 . itp . ac . ru / static / local / zve75 / zakharov / 1965 / 1965 - 01 -
+art3A10.10072FBF01565814.pdf.
+
+    **[ZLF92]** V.E. Zakharov, V.S. L’vov и G. Falkovich. Kolmogorov Spectra of Turbulence I. 1992.
