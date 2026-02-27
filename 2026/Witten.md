@@ -27,7 +27,8 @@
   
   5. Комбинаторное вычисление производящего ряда чисел пересечений. Интерпретация через ряд теории возмущений в матричном интеграле и доказательство гипотезы Виттена. **[MK]**
 
-*Литература*:
+**Литература**:
+
 **[DZ1]** D. Zvonkine, An introduction to moduli spaces of curves and their intersection theory
 
 **[DZ2]** D. Zvonkine, Strebel differentials on stable curves and Kontsevich's proof of Witten's conjecture
