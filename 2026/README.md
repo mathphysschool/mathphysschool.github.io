@@ -46,4 +46,4 @@
 - [__Твисторы и ADHM конструкция.__](./Twistors.md)
 - [__Дифференциалы Штребеля и комбинаторное доказательство гипотезы Виттена.__](./Twistors.md)
 
-# [Ссылка на папку с литературой]([https://drive.google.com/drive/folders/1KCqQfup7aC-2CKFMzOFFou1a7tcT6Bxr?usp=sharing](https://drive.google.com/drive/folders/1uCBVZwzKL51isiZ_cbP8drl8T29ehRsg?usp=sharing))
+# [Ссылка на папку с литературой](https://drive.google.com/drive/folders/1uCBVZwzKL51isiZ_cbP8drl8T29ehRsg?usp=sharing)
